@@ -5,7 +5,6 @@
 import sys
 import urllib.request as ul
 import json
-import codecs
 from entry.representations.tsv import Writer
 from entry import Entry
 
@@ -40,7 +39,7 @@ colour_map['uk-export-finance'] = '#005747'
 colour_map['uk-trade-investment'] = '#C80651'
 colour_map['wales-office'] = '#a33038'
 
-# logo lookup map for ministerial departments only
+# logo lookup map for ministerial departments only
 crest_map = {}
 crest_map['prime-ministers-office-10-downing-street'] = 'org-crest'
 crest_map['attorney-generals-office'] = 'org-crest'
@@ -61,77 +60,99 @@ crest_map['home-office'] = 'home-office-crest'
 crest_map['ministry-of-defence'] = 'mod_crest'
 crest_map['ministry-of-justice'] = 'org-crest'
 crest_map['northern-ireland-office'] = 'org-crest'
-crest_map['office-of-the-advocate-general-for-scotland'] = 'scotland-office-crest'
-crest_map['the-office-of-the-leader-of-the-house-of-commons'] = 'portcullis-crest'
+crest_map['office-of-the-advocate-general-for-scotland'] = \
+    'scotland-office-crest'
+crest_map['the-office-of-the-leader-of-the-house-of-commons'] = \
+    'portcullis-crest'
 crest_map['office-of-the-leader-of-the-house-of-lords'] = 'portcullis-crest'
 crest_map['scotland-office'] = 'scotland-office-crest'
 crest_map['uk-export-finance'] = 'org-crest'
 crest_map['wales-office'] = 'wales_crest'
 
+
 def array_to_string(arr, pre_process):
-  res = ""
-  first = True
-  for i in arr:
-    if first:
-      first = False
-    else:
-      res += ";"
-    res += pre_process(i)
-  return res
+    res = ""
+    first = True
+    for i in arr:
+        if first:
+            first = False
+        else:
+            res += ";"
+        res += pre_process(i)
+    return res
+
 
 def json_from_url(url):
-  input = ul.urlopen(url)
-  charset = input.info().get_param('charset', 'utf8')
-  text = input.read()
-  input.close()
+    input = ul.urlopen(url)
+    charset = input.info().get_param('charset', 'utf8')
+    text = input.read()
+    input.close()
 
-  return json.loads(text.decode(charset))
+    return json.loads(text.decode(charset))
+
 
 def init_output():
-  writer = Writer(sys.stdout, fieldnames=['government-organisation', 'name', 'website', 'government-organisation-type', 'parent-bodies', 'text', 'crest', 'official-colour'])
+    fieldnames = [
+        'government-organisation',
+        'name',
+        'website',
+        'government-organisation-type',
+        'parent-bodies',
+        'text',
+        'crest',
+        'official-colour'
+    ]
+    writer = Writer(sys.stdout, fieldnames=fieldnames)
 
-  return writer
+    return writer
+
 
 def write_records_to(records, output):
-  written_ids = []
-  for result in records['results']:
-    entry = Entry()
-    detailsJson = result['details']
+    written_ids = []
+    for result in records['results']:
+        entry = Entry()
+        detailsJson = result['details']
 
-    id = detailsJson['slug']
-    setattr(entry, 'government-organisation', id)
-    entry.name = result['title'].replace('\t', ' ')
-    entry.website = result['id'].replace('\t', ' ')
-    setattr(entry, 'government-organisation-type', result['format'].replace('\t', ' '))
-    setattr(entry, 'parent-bodies', array_to_string(result['parent_organisations'],
-      lambda x: x['id']))
-    entry.text = ''
+        result_id = detailsJson['slug']
+        setattr(entry, 'government-organisation', result_id)
+        entry.name = result['title'].replace('\t', ' ')
+        entry.website = result['id'].replace('\t', ' ')
+        setattr(entry,
+                'government-organisation-type',
+                result['format'].replace('\t', ' '))
+        setattr(entry,
+                'parent-bodies',
+                array_to_string(
+                    result['parent_organisations'],
+                    lambda x: x['id']))
+        entry.text = ''
 
-    if id in crest_map:
-      entry.crest = crest_map[id]
-    else:
-      entry.crest = ''
+        if result_id in crest_map:
+            entry.crest = crest_map[result_id]
+        else:
+            entry.crest = ''
 
-    if id in colour_map:
-      setattr(entry, 'official-colour', colour_map[id])
-    else:
-      setattr(entry, 'official-colour', '')
+        if result_id in colour_map:
+            setattr(entry, 'official-colour', colour_map[result_id])
+        else:
+            setattr(entry, 'official-colour', '')
 
-    if id not in written_ids:
-      output.write(entry)
-      written_ids.append(id)
+        if result_id not in written_ids:
+            output.write(entry)
+            written_ids.append(result_id)
 
-#print "%s\n" % parser.getAnchorMap()
+
+# print "%s\n" % parser.getAnchorMap()
 next_page = "https://www.gov.uk/api/organisations?page=1"
 output = init_output()
 
 while(next_page is not None):
-  print("Processing page url: %s" % (next_page), file=sys.stderr)
-  jsonRes = json_from_url(next_page)
-  write_records_to(jsonRes, output)
-  if 'next_page_url' in jsonRes:
-    next_page = jsonRes['next_page_url']
-  else:
-    next_page = None
+    print("Processing page url: %s" % (next_page), file=sys.stderr)
+    jsonRes = json_from_url(next_page)
+    write_records_to(jsonRes, output)
+    if 'next_page_url' in jsonRes:
+        next_page = jsonRes['next_page_url']
+    else:
+        next_page = None
 
 output.close()
