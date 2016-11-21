@@ -100,7 +100,8 @@ def init_output():
         'parent-bodies',
         'text',
         'crest',
-        'official-colour'
+        'official-colour',
+        'abbreviation',
     ]
     writer = Writer(sys.stdout, fieldnames=fieldnames)
 
@@ -131,6 +132,11 @@ def write_records_to(records, output):
             entry.crest = crest_map[result_id]
         else:
             entry.crest = ''
+
+        if 'abbreviation' in detailsJson and detailsJson['abbreviation']:
+            entry.abbreviation = detailsJson['abbreviation']
+            entry.abbreviation = entry.abbreviation.replace('\t', '')
+
 
         if result_id in colour_map:
             setattr(entry, 'official-colour', colour_map[result_id])
