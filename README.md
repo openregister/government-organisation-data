@@ -9,6 +9,7 @@ The data is being compiled from existing lists of organisations found in governm
 
 - [govuk](lists/govuk/list.tsv) — [GOV.UK government organisations](https://www.gov.uk/government/organisations)
 - [whole-of-government-accounts](lists/whole-of-government-accounts/list.tsv) — [The Whole of Government Accounts (Designation of Bodies) Order 2015](http://www.legislation.gov.uk/uksi/2015/1655/made)
+- [data-govuk](lists/data-govuk/list.tsv) — [data.gov.uk publishers](https://data.gov.uk/publisher)
 - [quangos](lists/quangos/list.tsv) — [Cabinet Office list of quangos (2013)](https://www.gov.uk/government/publications/public-bodies-2013)
 
 This list is by no means comprehensive, and contributions of other lists are appreciated!
