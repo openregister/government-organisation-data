@@ -7,18 +7,20 @@ a list of UK central government organisations seeded from [GOV.UK](https://www.g
 
 The data is being compiled from existing lists of organisations found in government data:
 
-- [govuk](lists/govuk/list.tsv) — [GOV.UK government organisations](https://www.gov.uk/government/organisations)
-- [designation-of-public-bodies](lists/designation-of-public-bodies/list.tsv) — [The Whole of Government Accounts (Designation of Bodies) Order 2015](http://www.legislation.gov.uk/uksi/2015/1655/made)
-- [whole-of-government-accounts](lists/whole-of-government-accounts/list.tsv) — [Whole of Government Accounts](https://www.gov.uk/government/collections/whole-of-government-accounts)
-- [data-govuk](lists/data-govuk/list.tsv) — [data.gov.uk publishers](https://data.gov.uk/publisher)
-- [quangos](lists/quangos/list.tsv) — [Cabinet Office list of quangos (2013)](https://www.gov.uk/government/publications/public-bodies-2013)
+| List | Source |
+| :---         |    :--- |
+|[govuk](lists/govuk) |[GOV.UK government organisations](https://www.gov.uk/government/organisations)|
+|[designation-of-public-bodies](lists/designation-of-public-bodies) |[The Whole of Government Accounts (Designation of Bodies) Order 2015](http://www.legislation.gov.uk/uksi/2015/1655/made)|
+|[whole-of-government-accounts](lists/whole-of-government-accounts) |[Whole of Government Accounts](https://www.gov.uk/government/collections/whole-of-government-accounts)|
+|[data-govuk](lists/data-govuk) |[data.gov.uk publishers](https://data.gov.uk/publisher)|
+|[quangos](lists/quangos) |[Cabinet Office list of quangos (2013)](https://www.gov.uk/government/publications/public-bodies-2013)|
 
-This list is by no means comprehensive, and contributions of other lists are appreciated!
+This list of lists is by no means comprehensive, and contributions of other lists are appreciated!
 
 # Building
 
 Use make to build register shaped data
-— we recommend using a [Python virtual environment](http://virtualenvwrapper.readthedocs.org/en/latest/):
+– we recommend using a [Python virtual environment](http://virtualenvwrapper.readthedocs.org/en/latest/):
 
     $ mkvirtualenv -p python3 government-organisation-data
     $ workon government-organisation-data
