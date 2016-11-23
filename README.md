@@ -1,7 +1,6 @@
 # Government organisation register data
 
-Discovery data for the [government-organisation register](http://government-organisation.openregister.org),
-a list of UK central government organisations seeded from [GOV.UK](https://www.gov.uk/government/organisations).
+Discovery data for a register of UK central government organisations.
 
 # Lists
 
