@@ -1,7 +1,16 @@
 # Government organisation register data
 
-Data for the prototype [government-organisation register](http://government-organisation.openregister.org),
+Discovery data for the [government-organisation register](http://government-organisation.openregister.org),
 a list of UK central government organisations seeded from [GOV.UK](https://www.gov.uk/government/organisations).
+
+# Lists
+
+The data is being compiled from existing lists of organisations found in government data:
+
+- [gov-uk](lists/gov-uk/list.tsv) — [GOV.UK government organisations](https://www.gov.uk/government/organisations)
+- [whole-of-government-accounts](lists/whole-of-government-accounts/list.tsv) — [The Whole of Government Accounts (Designation of Bodies) Order 2015](http://www.legislation.gov.uk/uksi/2015/1655/made)
+
+This list is by no means and contributions of other lists are appreciated!
 
 # Building
 
