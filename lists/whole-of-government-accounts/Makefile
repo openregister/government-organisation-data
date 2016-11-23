@@ -1,11 +1,2 @@
-# see: http://www.legislation.gov.uk/uksi/2015/1655/made
-URL=http://legislation.data.gov.uk/uksi/2015/1655/made/data.xml
-
-list.tsv:	data.xml map.sh map.xsl
-	map.sh < data.xml > $@
-
-data.xml:
-	curl -s $(URL) > $@
-
-clean:
-	rm -f data.xml list.tsv
+# see: https://www.gov.uk/government/collections/whole-of-government-accounts
+URL=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/525617/WEB_whole_of_gov_accounts_2015.pdf
