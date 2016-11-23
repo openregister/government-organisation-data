@@ -8,4 +8,4 @@ resources.csv:
 	curl -s $(URL) | bsdtar -xvf- resources.csv
 
 clean:
-	rm -f data.csv list.tsv
+	rm -f resources.csv list.tsv

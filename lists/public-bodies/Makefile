@@ -8,7 +8,7 @@ data.xls:
 	curl -s $(URL) > $@
 
 clean:
-	rm -f data.csv list.tsv
+	rm -f data.xls list.tsv
 
 init:
 	pip install -r requirements.txt
