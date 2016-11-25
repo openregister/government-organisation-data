@@ -17,6 +17,7 @@ The data is being compiled from existing lists of organisations found in governm
 |[crown-bodies](lists/crown-bodies) |[The National Archives list of crown bodies](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/uk-crown-bodies/)|
 |[coins](lists/coins) |[Combined Online Information System (COINS) organisations](https://www.whatdotheyknow.com/cy/request/list_of_public_bodies_in_the_coi#incoming-69457)|
 |[cloudstore-buyers](lists/cloudstore-buyers) |[Public Sector organisations eligible to use cloudstore](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)|
+|[epims](lists/epims) |[Government property finder](https://www.epims.ogc.gov.uk/government-property-finder/home.aspx)|
 
 
 This list of lists is by no means comprehensive, and contributions of other lists are appreciated!
