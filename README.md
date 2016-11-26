@@ -20,6 +20,7 @@ The data is being compiled from existing lists of organisations found in governm
 |[cloudstore-buyers](lists/cloudstore-buyers) |[Public Sector organisations eligible to use cloudstore](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)|
 |[miso](lists/miso) |[Crown Commercial Service management information system online](https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know)|
 |[epims](lists/epims) |[Government property finder](https://www.epims.ogc.gov.uk/government-property-finder/home.aspx)|
+|[civil-service-jobs](lists/civil-service-jobs) |[Civil service job index](https://www.civilservicejobs.service.gov.uk/csr/index.cgi)|
 
 
 This list of lists is by no means comprehensive, and contributions of other lists are appreciated!
