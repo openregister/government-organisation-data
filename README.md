@@ -1,6 +1,10 @@
 # Government organisation register data
 
-Discovery data for a register of UK central government organisations.
+Discovery data for a register of UK central government organisations — legal entities with a presence on GOV.UK.
+
+Other organisations may be considered to be part of government for different processes, for example the Digital Marketplace
+includes schools, academies, public corporations and other legal entities such as charities funded by government.
+We anticipate a register needing to reference such entities using a "public-sector" field, a CURIE to one of a number of different registers.
 
 # Lists
 
