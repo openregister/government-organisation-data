@@ -21,8 +21,8 @@ The data is being compiled from existing lists of organisations found in governm
 |[miso](lists/miso) |[Crown Commercial Service management information system online](https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know)|
 |[epims](lists/epims) |[Government property finder](https://www.epims.ogc.gov.uk/government-property-finder/home.aspx)|
 |[civil-service-jobs](lists/civil-service-jobs) |[Civil service job index](https://www.civilservicejobs.service.gov.uk/csr/index.cgi)|
+|[contracts-finder](lists/contracts-finder) |[Contracts finder notices](https://www.contractsfinder.service.gov.uk/Notice/Summary)|
 |[contracts-finder-archive](lists/contracts-finder-archive) |[Contracts finder archive](https://data.gov.uk/data/contracts-finder-archive/data-feeds/)|
-
 
 
 This list of lists is by no means comprehensive, and contributions of other lists are appreciated!
