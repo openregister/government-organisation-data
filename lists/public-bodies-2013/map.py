@@ -7,4 +7,7 @@ book = open_workbook(sys.argv[1])
 sheet = book.sheet_by_name('Full data')
 
 for row in range(sheet.nrows):
-    print(sheet.cell(row, 1).value)
+    name = sheet.cell(row, 1).value
+    if name == 'Name':
+        name = 'name'
+    print(name)
