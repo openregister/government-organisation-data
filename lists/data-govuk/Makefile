@@ -2,7 +2,7 @@
 URL=https://data.gov.uk/data/dumps/data.gov.uk-ckan-meta-data-latest.csv.zip
 
 list.tsv:	resources.csv map.py
-	map.py < resources.csv > $@
+	python3 map.py < resources.csv > $@
 
 resources.csv:
 	curl -s $(URL) | bsdtar -xvf- resources.csv
