@@ -16,6 +16,7 @@ The data is being compiled from existing lists of organisations found in governm
 |[data-govuk](lists/data-govuk) |[data.gov.uk publishers](https://data.gov.uk/publisher)|
 |[data-govuk-orgs](lists/data-govuk-orgs) |[data.gov.uk organisations](https://data.gov.uk)|
 |[public-bodies-2013](lists/public-bodies-2013) |[Cabinet Office list of public bodies (2013)](https://www.gov.uk/government/publications/public-bodies-2013)|
+|[public-bodies-2014](lists/public-bodies-2014) |[Cabinet Office list of public bodies (2014)](https://www.gov.uk/government/publications/public-bodies-2014)|
 |[public-bodies-2015](lists/public-bodies-2015) |[Cabinet Office list of public bodies (2015)](https://www.gov.uk/government/publications/public-bodies-2015)|
 |[public-bodies-2016](lists/public-bodies-2016) |[Cabinet Office list of public bodies (2016)](https://www.gov.uk/government/publications/public-bodies-2016)|
 |[designation-of-public-bodies](lists/designation-of-public-bodies) |[Whole of Government Accounts (Designation of Bodies) Order 2015](http://www.legislation.gov.uk/uksi/2015/1655/made)|
