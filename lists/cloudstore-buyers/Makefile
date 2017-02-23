@@ -4,7 +4,7 @@ URL='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/2
 # uses https://en.wikipedia.org/wiki/Pdftotext which is bundled with poppler https://en.wikipedia.org/wiki/Poppler_(software)
 
 list.tsv:	data.txt map.py
-	map.py < data.txt > $@
+	python3 map.py < data.txt > $@
 
 data.txt:	data.pdf
 	pdftotext -layout data.pdf $@

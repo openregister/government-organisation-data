@@ -2,7 +2,7 @@
 URL=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549702/2016-09-01_customer_URN_list.xlsx
 
 list.tsv:	data.xlsx map.py
-	map.py data.xlsx > $@
+	python3 map.py data.xlsx > $@
 
 data.xlsx:
 	curl -s $(URL) > $@

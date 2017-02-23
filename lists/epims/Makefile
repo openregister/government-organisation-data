@@ -4,7 +4,7 @@
 CSV=cache/PropertyHoldingExport_25-11-2016.csv
 
 list.tsv:	$(CSV) map.py
-	map.py < $(CSV) > $@
+	python3 map.py < $(CSV) > $@
 
 clean:
 	rm -f list.tsv

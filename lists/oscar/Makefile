@@ -2,7 +2,7 @@
 URL=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/554102/OSCAR_in-year_dataset_21Sep2016.xlsx
 
 list.tsv:	data.xlsx map.py
-	map.py data.xlsx > $@
+	python3 map.py data.xlsx > $@
 
 data.xlsx:
 	curl -s $(URL) > $@

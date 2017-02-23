@@ -4,7 +4,7 @@ URL='https://www.whatdotheyknow.com/cy/request/26677/response/69457/attach/3/Ora
 # uses https://en.wikipedia.org/wiki/Pdftotext which is bundled with poppler https://en.wikipedia.org/wiki/Poppler_(software)
 
 list.tsv:	data.txt map.py
-	map.py < data.txt > $@
+	python3 map.py < data.txt > $@
 
 data.txt:	data.pdf
 	pdftotext data.pdf $@

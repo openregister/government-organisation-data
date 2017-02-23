@@ -2,7 +2,7 @@
 URL=https://www.ons.gov.uk/file?uri=/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide/october2016/publicsectorclassificationguidelatest.xls
 
 list.tsv:	data.xls map.py
-	map.py data.xls > $@
+	python3 map.py data.xls > $@
 
 data.xls:
 	curl -s $(URL) > $@
