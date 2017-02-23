@@ -11,7 +11,7 @@ We anticipate a register needing to reference such entities using a "public-sect
 The data is being compiled from existing lists of public sector organisations found in a number of different government datasets:
 
 | List | Source | Count |
-| :---         |    :--- | :--- |
+| :---         |    :--- | ---: |
 |[govuk](lists/govuk) |[GOV.UK government organisations](https://www.gov.uk/government/organisations)|1000|
 |[data-govuk](lists/data-govuk) |[data.gov.uk publishers](https://data.gov.uk/publisher)|1108|
 |[data-govuk-orgs](lists/data-govuk-orgs) |[data.gov.uk organisations](https://data.gov.uk)|1409|
