@@ -12,7 +12,7 @@ The data is being compiled from existing lists of public sector organisations fo
 
 | List | Source | Count |
 | :---         |    :--- | ---: |
-|[govuk](lists/govuk) |[GOV.UK government organisations](https://www.gov.uk/government/organisations)|[1000](lists/govuk/list.tsv)|
+|[govuk](lists/govuk) |[GOV.UK government organisations](https://www.gov.uk/government/organisations)|[1011](lists/govuk/list.tsv)|
 |[data-govuk](lists/data-govuk) |[data.gov.uk publishers](https://data.gov.uk/publisher)|[1108](lists/data-govuk/list.tsv)|
 |[data-govuk-orgs](lists/data-govuk-orgs) |[data.gov.uk organisations](https://data.gov.uk)|[1409](lists/data-govuk-orgs/list.tsv)|
 |[public-bodies-2013](lists/public-bodies-2013) |[Cabinet Office list of public bodies (2013)](https://www.gov.uk/government/publications/public-bodies-2013)|[287](lists/public-bodies-2013/list.tsv)|
