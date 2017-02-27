@@ -2,7 +2,7 @@
 
 Data for an alpha register of UK central government organisations — departments, agencies and other distinct legal entities with a presence on GOV.UK:
 
-  * [data/government-organisation/government-organisations.tsv](data/government-organisation/government-organisations.tsv)
+  * [data/government-organisation/government-organisation.tsv](data/government-organisation/government-organisation.tsv)
 
 The term "public sector" is wider than central government organisations, and may be a different set of legal entities depending upon the context.
 For example, the Digital Marketplace includes schools, academies, public corporations and other legal entities such as charities funded by government.
