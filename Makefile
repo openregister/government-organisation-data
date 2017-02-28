@@ -1,7 +1,8 @@
 DATA=\
 	data/government-organisation/government-organisation.tsv
 
-MAPS=
+MAPS=\
+	maps/govuk.tsv
 
 all: $(DATA) $(MAPS)
 
@@ -9,6 +10,8 @@ data/government-organisation/government-organisation.tsv: fixup/government-organ
 	@mkdir -p data/government-organisation
 	python3 bin/government-organisation.py fixup/government-organisation.tsv < lists/govuk/list.tsv > $@
 
+maps/govuk.tsv:	lists/govuk/list.tsv bin/govuk.py
+	python3 bin/govuk.py < lists/govuk/list.tsv > $@
 
 #
 #  python ..

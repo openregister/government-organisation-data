@@ -1,0 +1,10 @@
+---
+government-organisation:
+  description: departments, agencies and other legal entities with a presence on GOV.UK
+  key: government-organisation
+govuk:
+  description: GOV.UK slug
+  key: govuk
+oscar:
+  description: The Online System for Central Accounting and Reporting (OSCAR)
+  key: oscar
