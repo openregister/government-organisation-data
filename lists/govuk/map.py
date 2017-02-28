@@ -15,17 +15,6 @@ field_path = {
     'abbreviation': 'details/abbreviation'
 }
 
-def array_to_string(arr, pre_process):
-    res = ""
-    first = True
-    for i in arr:
-        if first:
-            first = False
-        else:
-            res += ";"
-        res += pre_process(i)
-    return res
-
 
 def json_path(d, path):
     e = d
@@ -42,12 +31,13 @@ def json_path(d, path):
 
 
 sep = '\t'
+list_sep = ';'
 
 print(sep.join(fields))
 
 for line in sys.stdin:
     r = json.loads(line)
 
-    r['parent-govuks'] = array_to_string(r['parent_organisations'], lambda x: x['id'].rsplit('/', 1)[1])
+    r['parent-govuks'] = list_sep.join(o['id'].rsplit('/', 1)[1] for o in r['parent_organisations'])
 
-    print(sep.join([json_path(r, field_path[field]) for field in fields]))
+    print(sep.join([json_path(r, field_path[field]).replace(sep, '') for field in fields]))
