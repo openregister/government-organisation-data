@@ -9,9 +9,20 @@ For example, the Digital Marketplace includes schools, academies, public corpora
 
 A register needing to reference public sector organisations may use a "public-sector" field, which is a CURIE to one of a number of different registers, including the government-organisation register.
 
+# Maps
+
+Maps assist in the translation of existing codes and names to register records:
+
+| Map | Fields |
+| :---         |    :--- |
+| [abbreviation](maps/abbreviation.tsv) |Government organisation abbreviations |
+| [oscar](maps/oscar.tsv) |[Combined Online Information System (COINS) organisations](https://www.whatdotheyknow.com/cy/request/list_of_public_bodies_in_the_coi#incoming-69457) code |
+| [govuk](maps/govuk.tsv) |GOV.UK slugs |
+| [name](maps/name.tsv) |Government organisation names |
+
 # Lists
 
-The data is being compiled from existing lists of public sector organisations found in a number of different government datasets:
+The data has been compiled from existing lists of public sector organisations found in a number of different government datasets:
 
 | List | Source | Count |
 | :---         |    :--- | ---: |
@@ -26,6 +37,7 @@ The data is being compiled from existing lists of public sector organisations fo
 |[whole-of-government-accounts](lists/whole-of-government-accounts) |[Whole of Government Accounts (PDF report)](https://www.gov.uk/government/collections/whole-of-government-accounts)|[1186](lists/whole-of-government-accounts/list.tsv)|
 |[ons-public-sector-classification](lists/ons-public-sector-classification) |[ONS Public Sector Classification Guide](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)|[4858](lists/ons-public-sector-classification/list.tsv)|
 |[crown-bodies](lists/crown-bodies) |[The National Archives list of crown bodies](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/uk-crown-bodies/)|[198](lists/crown-bodies/list.tsv)|
+|[crown-proceedings](lists/crown-proceedings) |[Authorised government bodies under the Crown Proceedings Act 1947](https://www.gov.uk/government/publications/serve-the-treasury-solicitor-with-legal-proceedings)|[42](lists/crown-proceedings/list.tsv)|
 |[coins](lists/coins) |[Combined Online Information System (COINS) organisations](https://www.whatdotheyknow.com/cy/request/list_of_public_bodies_in_the_coi#incoming-69457)|[1736](lists/coins/list.tsv)|
 |[oscar](lists/oscar) |[The Online System for Central Accounting and Reporting (OSCAR)](https://www.gov.uk/government/collections/hmt-oscar-publishing-from-the-database)|[203](lists/oscar/list.tsv)|
 |[cloudstore-buyers](lists/cloudstore-buyers) |[Public Sector organisations eligible to use cloudstore](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)|[30359](lists/cloudstore-buyers/list.tsv)|
