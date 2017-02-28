@@ -6,6 +6,18 @@ import csv
 fields = ['government-organisation', 'name', 'website', 'start-date', 'end-date']
 sep = '\t'
 
+types = [
+    'Devolved administration',
+    'Executive office',
+    'Ministerial department',
+    'Non-ministerial department',
+    'Advisory non-departmental public body',
+    'Civil Service',
+    'Executive agency',
+    'Executive non-departmental public body'
+]
+
+
 # fixup by website
 website = {}
 for row in csv.DictReader(open(sys.argv[1]), delimiter=sep):
@@ -25,10 +37,12 @@ print(sep.join(fields))
 
 for row in csv.DictReader(sys.stdin, delimiter=sep):
 
-    row['start-date'] = defval(row, 'start-date')
-    row['end-date'] = defval(row, 'end-date')
+    if row['government-organisation-type'] in types:
 
-    if row['end-date'] == 'closed':
-        row['end-date'] = ''
+        row['start-date'] = defval(row, 'start-date')
+        row['end-date'] = defval(row, 'end-date')
 
-    print(sep.join([row[field] for field in fields]))
+        if row['end-date'] == 'closed':
+            row['end-date'] = ''
+
+        print(sep.join([row[field] for field in fields]))
