@@ -3,7 +3,7 @@
 import sys
 import openpyxl
 
-fields = ['urn', 'name']
+fields = ['oscar', 'name']
 sep = '\t'
 
 wb = openpyxl.load_workbook(sys.argv[1])
@@ -15,18 +15,18 @@ print(sep.join(fields))
 
 for r in sh.rows:
     row = {}
-    row['urn'] = r[0].value
+    row['oscar'] = r[0].value
     row['name'] = r[1].value
 
     row['segment'] = r[4].value
 
-    if row['urn'] == 'Organisation Code':
+    if row['oscar'] == 'Organisation Code':
         continue
 
     if row['segment'].upper() == row['name']:
         row['name'] = row['segment']
 
-    key = "%s:%s" % (row['urn'], row['name'])
+    key = "%s:%s" % (row['oscar'], row['name'])
     oscar[key] = row
 
 for key in sorted(oscar):
