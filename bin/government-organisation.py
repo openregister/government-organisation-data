@@ -24,7 +24,7 @@ for row in csv.DictReader(open(sys.argv[1]), delimiter=sep):
     website[row['website']] = row
 
 
-def defval(row, field):
+def default(row, field):
     if field in row and row[field]:
         return row[field]
 
@@ -33,14 +33,21 @@ def defval(row, field):
 
     return ''
 
+def usurp(row, field):
+    if row['website'] in website and row[field]:
+        return website[row['website']].get(field, '')
+
+    return row[field]
+
 print(sep.join(fields))
 
 for row in csv.DictReader(sys.stdin, delimiter=sep):
 
     if row['government-organisation-type'] in types:
 
-        row['start-date'] = defval(row, 'start-date')
-        row['end-date'] = defval(row, 'end-date')
+        row['name'] = usurp(row, 'name')
+        row['start-date'] = default(row, 'start-date')
+        row['end-date'] = default(row, 'end-date')
 
         if row['end-date'] == 'closed':
             row['end-date'] = ''
