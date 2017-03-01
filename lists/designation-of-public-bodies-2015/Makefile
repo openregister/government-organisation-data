@@ -2,7 +2,7 @@
 URL=http://legislation.data.gov.uk/uksi/2015/1655/made/data.xml
 
 list.tsv:	data.xml map.sh map.xsl
-	map.sh < data.xml > $@
+	./map.sh < data.xml > $@
 
 data.xml:
 	curl -s $(URL) > $@

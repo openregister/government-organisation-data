@@ -1,0 +1,2527 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492" NumberOfProvisions="2" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2007/1492"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2007/1492/made</dc:identifier><dc:subject>Adult and community education</dc:subject><dc:subject>Care</dc:subject><dc:subject>Adult and community education centres</dc:subject><dc:subject>Further and higher education</dc:subject><dc:subject>Arts councils</dc:subject><dc:title>The Whole of Government Accounts (Designation of Bodies) Order 2007</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2012-09-24</dc:modified><dc:subject scheme="SIheading">GOVERNMENT RESOURCES AND ACCOUNTS</dc:subject>
+					<dc:description>This Order designates the bodies listed in the Schedule in relation to the financial year ending on 31st March 2007 for the purposes of the Government Resources and Accounts Act 2000. The effect of this designation is that these bodies are required to prepare and present to the Treasury such financial information in relation to that financial year as the Treasury require to enable them to prepare Whole of Government Accounts.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2007/1492/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2007/1492/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2007/1492/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2007/1492/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2007/1492/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2007/1492/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2007/1492/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2007/1492/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2007/1492/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2007/1492/schedules/made" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/uksi/2007/1492/made/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2007/1492/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2007/1492/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2007/1492/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2007/1492/made/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2007/1492/pdfs/uksi_20071492_en.pdf" title="Print Version"/>
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2007/1492/contents/made" title="Table of Contents"/>
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2007"/><ukm:Number Value="1492"/><ukm:Made Date="2007-05-21"/><ukm:Laid Date="2007-05-21" Class="UnitedKingdomParliament"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2007-06-11"/></ukm:ComingIntoForce><ukm:ISBN Value="9780110770710"/><ukm:UnappliedEffects><ukm:UnappliedEffect EffectId="key-75ea151950e931a8ca77069f6bfea259" URI="http://www.legislation.gov.uk/id/effect/uksi-2013-687-7rnu9kb1-50" Type="entry revoked" RequiresApplied="true" AffectedProvisions="Sch." AffectingEffectsExtent="E+W+S+NI" AffectingYear="2013" AffectingNumber="687" AffectingProvisions="Sch. 2" AffectedURI="http://www.legislation.gov.uk/id/uksi/2007/1492" AffectedYear="2007" AffectedNumber="1492" AffectingURI="http://www.legislation.gov.uk/id/uksi/2013/687" Created="2014-01-07T17:04:50.251Z" AffectingClass="UnitedKingdomStatutoryInstrument" Modified="2014-01-07T17:04:50.251Z" AffectedClass="UnitedKingdomStatutoryInstrument"><ukm:AffectedTitle>The Whole of Government Accounts (Designation of Bodies) Order 2007</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2007/1492/schedule">Sch.</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Public Bodies (Abolition of British Shipbuilders) Order 2013</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/uksi/2013/687/schedule/2">Sch. 2</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="article-1-2" URI="http://www.legislation.gov.uk/id/uksi/2013/687/article/1/2">art. 1(2)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Date="2013-03-22" Qualification="wholly in force" Applied="false"/></ukm:InForceDates></ukm:UnappliedEffect></ukm:UnappliedEffects></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/notes"/><ukm:Alternatives><ukm:Alternative Date="2007-12-05" URI="http://www.legislation.gov.uk/uksi/2007/1492/pdfs/uksiem_20071492_en.pdf" Title="Explanatory Memorandum"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives>
+      <ukm:Alternative Date="2007-12-05" URI="http://www.legislation.gov.uk/uksi/2007/1492/pdfs/uksi_20071492_en.pdf" Title="Print Version"/>
+   </ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Secondary>
+<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/introduction">
+<Number>2007 No. 1492</Number>
+<SubjectInformation>
+<Subject>
+<Title>GOVERNMENT RESOURCES AND ACCOUNTS</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Whole of Government Accounts (Designation of Bodies) Order 2007</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>21st May 2007</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>21st May 2007</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>11th June 2007</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Treasury, in exercise of the powers conferred by section 10(1) of the Government Resources and Accounts Act 2000<FootnoteRef Ref="f00001"/>, and having consulted the National Assembly for Wales where they have thought it appropriate, make the following Order:</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims>
+<Body DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/body" NumberOfProvisions="2" NumberFormat="default">
+<P1group>
+<Title>Title and Commencement</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/article/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/article/1" id="article-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order 2007 and shall come into force on 11th June 2007.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Designation</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/article/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/article/2" id="article-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>The bodies listed in the Schedule to this Order are designated in respect of the financial year ending on 31st March 2007 for the purposes of section 10 of the Government Resources and Accounts Act 2000.</Text>
+</P1para>
+</P1>
+</P1group>
+<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/signature">
+<Signatory>
+<Signee>
+<PersonName>Dave Watts</PersonName>
+<PersonName>Frank Roy</PersonName>
+<JobTitle>Two of the Lords Commissioners of Her Majesty’s Treasury</JobTitle>
+<DateSigned Date="2007-05-21"><DateText>21st May 2007</DateText></DateSigned>
+</Signee>
+</Signatory>
+</SignedSection>
+</Body>
+<Schedules><Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/schedule/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/schedule" NumberFormat="default" id="schedule">
+<Number>SCHEDULE</Number>
+<TitleBlock>
+<Title>Designated bodies for 2006 – 2007</Title>
+</TitleBlock>
+<Reference>Article 2</Reference>
+<ScheduleBody>
+<Pblock DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/schedule/crossheading/central-government-public-corporations-etc/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/schedule/crossheading/central-government-public-corporations-etc" id="schedule-crossheading-central-government-public-corporations-etc">
+<Title>Central government, Public corporations <Abbreviation Expansion="Et cetera" xml:lang="la">etc</Abbreviation></Title>
+<P>
+<UnorderedList Decoration="none">
+<ListItem>
+<Para>
+<Text>Adult Learning Inspectorate</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Advantage - West Midlands</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Adventure Activity Licensing Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Alcohol Education and Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Architectural Heritage Fund</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Army Base Repair Organisation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Arts and Humanities Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Arts Council of England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Arts Council of Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Assets Recovery Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Audit Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Audit Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Basic Skills Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Biotechnology and Biological Sciences Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Broadcasting Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Educational Communications and Technology Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Energy</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Film Institute</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Library</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Nuclear Fuels plc</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Potato Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Shipbuilders</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Transport Police</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>British Waterways Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cabinet Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Capacity Builders</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Care Council for Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Central Office of Information</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Central Police Training and Development Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Centro (West Midlands Passenger Transport Executive)</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Channel 4</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Charity Commission for England and Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Children and Family Court Advisory and Support Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Children’s Commissioner for England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Churches Conservation Trust</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Civil Aviation Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Civil Nuclear Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Coal Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commission for Racial Equality</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commission for Rural Communities</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commission for Architecture and the Built Environment</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commission for Judicial Appointments</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commission for Local Administration</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commission for Patient and Public Involvement in Health</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commission for Social Care Inspection for England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Commonwealth Development Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Community Development Foundation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Community Fund</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Companies House</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Competition Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Competition Service and Competition Appeal Tribunal</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Construction Industry Training Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Consumer Council for Postal Services - Post Watch</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Consumer Council for Water</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Council for Healthcare Regulatory Excellence</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Council for the Central Laboratory of the Research Councils</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Countryside Council for Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Criminal Cases Review Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Criminal Injuries Compensation Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Criminal Justice Inspection Northern Ireland</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Crown Prosecution Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Culture East Midlands Limited</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Culture North East</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Culture North West</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Culture South West</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Culture South East</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Defence Aviation Repair Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Defence Science and Technology Laboratory</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for Communities and Local Government</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for Constitutional Affairs</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for Culture, Media and Sport</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for Education and Skills</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for Environment, Food and Rural Affairs</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for International Development</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for National Savings</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for Transport</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department for Work and Pensions</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department of Health</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Department of Trade and Industry</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Deputy Prime Minister’s Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Design Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Disability Rights Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Driver and Vehicle Licensing Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Driving Standards Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Midlands Development Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East of England Development Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Economic and Social Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Engineering and Physical Sciences Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Engineering Construction Industry Training Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>English Heritage</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>English Partnerships</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Environment Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Estyn: Her Majesty’s Inspector for Education &amp; Training for Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Equal Opportunities Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Exports Credit Guarantee Department</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>FiReBuy Ltd</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Fire Service College</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Food from Britain</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Food Standards Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Football Licensing Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Foreign and Commonwealth Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Forensic Science Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Forestry Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gambling Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gangmasters Licensing Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gas and Electricity Consumers’ Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Geffrye Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>General Lighthouse Fund</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>General Social Care Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>General Teaching Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Government Actuary’s Department</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Greater Manchester Passenger Transport Executive</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Guaranteed Export Financing Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Health Protection Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Healthcare Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Her Majesty’s Revenue &amp; Customs</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Her Majesty’s Treasury</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Higher Education Funding Council for England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Higher Education Funding Council for Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text><Acronym Expansion="Her Majesty">HM</Acronym> Procurator General and Treasury Solicitor</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Home Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Home-Grown Cereals Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Horniman Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Horserace Betting Levy Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Horserace Totalisator Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Horticultural Development Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Housing Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Human Fertilisation and Embryology Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Human Tissue Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Imperial War Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Independent Housing Ombudsman Limited</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Independent Police Complaints Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Investors in People <Acronym Expansion="United Kingdom">UK</Acronym></Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Land Registry</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Learning and Skills Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Leasehold Advisory Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Legal Services Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Living East</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Local Government Boundary Commission for Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>London Organising Committee of the Olympic Games</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>London Thames Gateway Development Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Marshall Aid Commemoration Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Meat and Livestock Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Medical Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Medicines Healthcare Products Regulatory Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Merseytravel (Merseyside Passenger Transport Executive)</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Meteorological Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Metro (West Yorkshire Passenger Transport Executive)</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Milk Development Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ministry of Defence</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Monitor - Independent Regulator of <Acronym Expansion="National Health Service">NHS</Acronym> Foundation Trusts</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Museum of London</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Museum of Science and Industry in Manchester</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>The National Archives</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Assembly for Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Biological Standards Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Blood Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National College for School Leadership</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Consumer Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Endowment for Science and Technology and the Arts</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Forest Company</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Gallery</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Heritage Memorial Fund</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Library of Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Lottery Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Maritime Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Museum of Science and Industry</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Museums and Galleries of Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Museums Liverpool</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Portrait Gallery</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National Research Development Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>National School of Government</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Natural England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Natural Environment Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Natural History Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>New Opportunities Fund</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nexus (Tyne &amp; Wear Passenger Transport Executive)</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>NHS Direct</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>NHS Professionals</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>NHS Shared Business Services</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North West Regional Development Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Court Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Human Rights Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Judicial Appointments Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Legal Services Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Ombudsman</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Police Fund</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northern Ireland Policing Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nuclear Decommissioning Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nuclear Liabilities Fund</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text><Abbreviation Expansion="Office of Communications">OFCOM</Abbreviation></Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office for Fair Access</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office for National Statistics</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of Fair Trading</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of Gas and Electricity Markets</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of Her Majesty’s Chief Inspector of Schools in England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of Rail Regulation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of the Immigration Services Commissioner</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of the Information Commissioner</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of the Police Ombudsman for Northern Ireland</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Office of Water Services</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text><Acronym Expansion="Office of Government Commerce">OGC</Acronym> Buying Solutions</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Olympic Delivery Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Olympic Lottery Distributor</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>One NorthEast</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ordnance Survey</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Parole Board for England and Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Particle Physics and Astronomy Research Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Partnerships for Schools</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Passenger Focus</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Patent Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>The Pensions Regulator</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>The Pensions Advisory Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Plasma Resources</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Police Information Technology Organisation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Police Service of Northern Ireland</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Postal Services Commission</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Postgraduate Medical Education and Training Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Privy Council Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Probation Board for Northern Ireland</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Public Lending Right</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Qualifications and Curriculum Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Quality Improvement Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Remploy Ltd</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Resource: Museums, Libraries &amp; Archives Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Revenue and Customs Prosecutions Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Armouries Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Botanic Gardens, Kew</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Hospital, Chelsea</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Mail Holdings plc</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Marines Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Mint</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Naval Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Navy Submarine Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Ulster Constabulary George Cross Foundation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>School Food Trust</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sea Fish Industry Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sector Skills Development Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Security and Intelligence Services</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Security Industry Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Serious and Organised Crime Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Serious Fraud Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sianel Pedwar Cymru (Welsh Fourth Channel Authority)</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Simpler Trade Procedures Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sir John Soane’s Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Social Care Institute for Excellence</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South East England Development Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South West of England Development Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Yorkshire Passenger Transport Executive</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sport England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sports Council for Wales</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sports Council Trust Company</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Standards Board for England</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stonebridge Housing Action Trust</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Strategic Rail Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Strathclyde Passenger Transport Executive</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Student Loans Company Ltd</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tate Gallery</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Thurrock Thames Gateway Development Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Training and Development Agency for Schools</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>UK Film Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>UK Hydrographic Office</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>UK Sport</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>UK Trade &amp; Investment</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>United Kingdom Atomic Energy Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>University for Industry</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Valuation Tribunals</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Vehicle and Operator Services Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Victoria and Albert Museum</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Visit Britain</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wales Centre for Health</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wallace Collection</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Welsh Language Board</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Midlands Life</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Northamptonshire Development Corporation</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Westminster Foundation for Democracy</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Yorkshire Culture</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Yorkshire Forward</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Youth Justice Board for England and Wales</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P>
+</Pblock>
+<Pblock DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/schedule/crossheading/local-government/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/schedule/crossheading/local-government" id="schedule-crossheading-local-government">
+<Title>Local government</Title>
+<P>
+<UnorderedList Decoration="none">
+<ListItem>
+<Para>
+<Text>Adur District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Allerdale Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Alnwick District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Amber Valley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Arun District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ashfield District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ashford Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Avon and Somerset Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Avon Fire Brigade</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Aylesbury Vale District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Babergh District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Barking &amp; Dagenham London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Barnet London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Barnsley Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Barrow-in-Furness Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Basildon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Basingstoke and Deane Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bassetlaw District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bath &amp; North East Somerset Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bedford Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bedfordshire and Luton Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bedfordshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bedfordshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Berwick-upon-Tweed Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bexley London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Birmingham City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Blaby District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Blackburn with Darwen Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Blackpool Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Blaenau Gwent County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Blyth Valley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bolsover District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bolton Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Borough of Poole</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Boston Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bournemouth Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bracknell Forest Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bradford City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Braintree District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Breckland District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Brecon Beacons National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Brent London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Brentwood Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bridgend County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bridgnorth District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Brighton &amp; Hove City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bristol City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Broadland District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Broads National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bromley London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bromsgrove District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Broxbourne Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Broxtowe Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Buckinghamshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Buckinghamshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Burnley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Bury Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Caerphilly County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Calderdale Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cambridge City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cambridgeshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cambridgeshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cambridgeshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Camden London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cannock Chase District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Canterbury City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Caradon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cardiff City and County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Carlisle City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Carmarthenshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Carrick District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Castle Morpeth Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Castle Point Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ceredigion County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Charnwood Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Chelmsford Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cheltenham Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cherwell District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cheshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cheshire Fire Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cheshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Chester City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Chesterfield Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Chester-le-Street District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Chichester District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Chiltern District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Chorley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Christchurch Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>City of York Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cleveland Fire Brigade</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cleveland Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Colchester Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Common Council of the City of London</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Congleton Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Conwy County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Copeland Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Corby Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cornwall County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cotswold District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>County Durham and Darlington Combined Fire and Rescue Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Coventry City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Craven District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Crawley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Crewe &amp; Nantwich Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Croydon London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cumbria County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Cumbria Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dacorum Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Darlington Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dartford Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dartmoor National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Daventry District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Denbighshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Derby City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Derbyshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Derbyshire Dales District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Derbyshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Derbyshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Derwentside District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Devon and Cornwall Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Devon County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Devon Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Doncaster Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dorset County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dorset Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dorset Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dover District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dudley Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Durham City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Durham County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Durham Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Dyfed Powys Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ealing London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Easington District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Cambridgeshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Devon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Dorset District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Hampshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Hertfordshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Lindsey District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East London Waste Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Northamptonshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Riding of Yorkshire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Staffordshire Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Sussex County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>East Sussex Fire Brigade</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Eastbourne Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Eastleigh Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Eden District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ellesmere Port and Neston Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Elmbridge Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Enfield London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Epping Forest District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Epsom and Ewell Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Erewash Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Essex County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Essex County Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Essex Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Exeter City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Exmoor National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Fareham Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Fenland District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Flintshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Forest Heath District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Forest of Dean District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Fylde Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gateshead Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gedling Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gloucester City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gloucestershire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gloucestershire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gosport Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gravesham Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Great Yarmouth Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Greater London Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Greater Manchester Fire and Civil Defence Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Greater Manchester Passenger Transport Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Greater Manchester Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Greater Manchester Waste Disposal Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Greenwich London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Guildford Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gwent Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Gwynedd County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hackney London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Halton Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hambleton District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hammersmith and Fulham London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hampshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hampshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hampshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Harborough District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Haringey London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Harlow District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Harrogate Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Harrow London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hart District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hartlepool Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hastings Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Havant Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Havering London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hereford and Worcester Fire Brigade</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Herefordshire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hertfordshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hertfordshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hertsmere Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>High Peak Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hillingdon London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hinckley and Bosworth Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Horsham District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hounslow London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Humberside Fire Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Humberside Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Huntingdonshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Hyndburn Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ipswich Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Isle of Anglesey County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Isle of Wight Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Islington London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kennet District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kent County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kent Fire Brigade</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kent Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kerrier District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kettering Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kings Lynn and West Norfolk Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kingston upon Hull City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Kirklees Metropolitan Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Knowsley Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lake District National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lambeth London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lancashire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lancashire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lancashire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lancaster City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lee Valley Regional Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Leeds City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Leicester City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Leicestershire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Leicestershire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Leicestershire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lewes District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lewisham London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lichfield District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lincoln City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lincolnshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Lincolnshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Liverpool City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>London Development Agency</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>London Fire and Emergency Planning Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Luton Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Macclesfield Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Maidstone Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Maldon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Malvern Hills District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Manchester City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mansfield District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Medway Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Melton Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mendip District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Merseyside Fire and Civil Defence Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Merseyside Passenger Transport Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Merseyside Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Merseyside Waste Disposal Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Merthyr Tydfil Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Merton Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Metropolitan Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mid and West Wales Fire Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mid Bedfordshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mid Devon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mid Suffolk District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mid Sussex District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Middlesbrough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Milton Keynes Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Mole Valley District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Monmouthshire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Neath Port Talbot County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>New Forest District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>New Forest National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Newark and Sherwood District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Newcastle upon Tyne City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Newcastle-under-Lyme Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Newham London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Newport City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Norfolk County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Norfolk Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Cornwall District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Devon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Dorset District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North East Derbyshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North East Lincolnshire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Hertfordshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Kesteven District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Lincolnshire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North London Waste Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Norfolk District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Shropshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Somerset Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Tyneside Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Wales Fire Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Wales Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Warwickshire Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North West Leicestershire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Wiltshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North York Moors National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Yorkshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Yorkshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>North Yorkshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northampton Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northamptonshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northamptonshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northumberland County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northumberland National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Northumbria Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Norwich City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nottingham City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nottinghamshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nottinghamshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nottinghamshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Nuneaton and Bedworth Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Oadby and Wigston Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Oldham Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Oswestry Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Oxford City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Oxfordshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Peak District National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Pembrokeshire Coast National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Pembrokeshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Pendle Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Penwith District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Peterborough City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Plymouth City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Portsmouth City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Powys County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Preston City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Purbeck District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Reading Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Redbridge London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Redcar and Cleveland Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Redditch Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Reigate and Banstead Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Restormel Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rhondda Cynon Taff County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ribble Valley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Richmond upon Thames Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Richmondshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rochdale Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rochford District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rossendale Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rother District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rotherham Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Berkshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Royal Borough of Kingston upon Thames Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rugby Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Runnymede Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rushcliffe Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rushmoor Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Rutland County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Ryedale District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Salford City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Salisbury District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sandwell Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Scarborough Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sedgefield Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sedgemoor District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sefton Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Selby District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sevenoaks District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sheffield City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Shepway District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Shrewsbury and Atcham Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Shropshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Shropshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Slough Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Snowdonia National Park Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Solihull Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Somerset County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Bedfordshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Bucks District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Cambridgeshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Derbyshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Gloucestershire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Hams District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Holland District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Kesteven District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Lakeland District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Norfolk District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Northamptonshire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Oxfordshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Ribble Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Shropshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Somerset District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Staffordshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Tyneside Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Wales Fire Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Wales Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Yorkshire Fire and Civil Defence Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Yorkshire Passenger Transport Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>South Yorkshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Southampton City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Southend-on-Sea Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Southwark London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Spelthorne Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>St Albans City and District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>St Edmundsbury Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>St Helens Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stafford Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Staffordshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Staffordshire Fire and Rescue Service</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Staffordshire Moorlands District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Staffordshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stevenage Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stockport Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stockton-on-Tees Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stoke-on-Trent City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stratford-on-Avon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Stroud District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Suffolk Coastal District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Suffolk County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Suffolk Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sunderland City Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Surrey County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Surrey Heath Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Surrey Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sussex Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Sutton London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Swale Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Swansea City and County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Swindon Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tameside Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tamworth Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tandridge District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Taunton Deane Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Teesdale District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Teignbridge District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tendring District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Test Valley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tewkesbury Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Thames Valley Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Thanet District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>The Borough of Telford and Wrekin</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>The Council of the Isles of Scilly</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>The Royal Borough of Kensington and Chelsea Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>The Royal Borough of Windsor and Maidenhead</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Three Rivers District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Thurrock Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tonbridge and Malling Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Torbay Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Torfaen County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Torridge District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tower Hamlets London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Trafford Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Transport for London</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tunbridge Wells Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tyne &amp; Wear Passenger Transport Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tyne and Wear Fire and Civil Defence Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Tynedale District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Uttlesford District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Vale of Glamorgan County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Vale of White Horse District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Vale Royal Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wakefield City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Walsall Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Waltham Forest London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wandsworth London Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wansbeck District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Warrington Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Warwick District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Warwickshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Warwickshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Watford Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Waveney District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Waverley Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wealden District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wear Valley District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wellingborough Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Welwyn Hatfield District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Berkshire Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Devon Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Dorset District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Lancashire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Lindsey District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West London Waste Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Mercia Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Midlands Fire and Civil Defence Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Midlands Passenger Transport Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Midlands Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Oxfordshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Somerset District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Sussex County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Wiltshire District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Yorkshire Fire and Civil Defence Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Yorkshire Passenger Transport Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>West Yorkshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Western Riverside Waste Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Westminster City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Weymouth and Portland Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wigan Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wiltshire and Swindon Fire Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wiltshire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wiltshire Police Authority</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Winchester City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wirral Metropolitan Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Woking Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wokingham Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wolverhampton City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Worcester City Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Worcestershire County Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Worthing Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wrexham County Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wychavon District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wycombe District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wyre Borough Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Wyre Forest District Council</Text></Para>
+</ListItem>
+<ListItem>
+<Para><Text>Yorkshire Dales National Park Authority</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P>
+</Pblock>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/2007/1492/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/1492/note">
+<Title>EXPLANATORY NOTE</Title>
+<Comment>
+<Para><Text>(This note is not part of the Order)</Text></Para>
+</Comment>
+<P><Text>This Order designates the bodies listed in the Schedule in relation to the financial year ending on 31st March 2007 for the purposes of the Government Resources and Accounts Act 2000. The effect of this designation is that these bodies are required to prepare and present to the Treasury such financial information in relation to that financial year as the Treasury require to enable them to prepare Whole of Government Accounts.</Text></P>
+</ExplanatoryNotes>
+</Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/20" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0020">2000 c. 20</Citation></Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

@@ -1,0 +1,1109 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489" NumberOfProvisions="2" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2003/489"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2003/489/made</dc:identifier><dc:subject>Information and communication technology</dc:subject><dc:subject>Archives</dc:subject><dc:subject>Adult and community education</dc:subject><dc:subject>Records offices</dc:subject><dc:subject>Further and higher education</dc:subject><dc:title>The Whole of Government Accounts (Designation of Bodies) Order 2003</dc:title><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2012-09-14</dc:modified><dc:subject scheme="SIheading">GOVERNMENT RESOURCES AND ACCOUNTS</dc:subject>
+					<dc:description>This Order designates bodies, for the financial year ending with 31st March 2004, for the purposes of section 10 of the Government Resources and Accounts Act 2000. The Treasury intend that the “whole of government” accounts to be prepared for that year under section 9 of that Act should relate in part to each of the bodies designated by this Order, and the designation enables the Treasury to require those bodies to provide financial information in relation to that year.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2003/489/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2003/489/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2003/489/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2003/489/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2003/489/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2003/489/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2003/489/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2003/489/schedules/made" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/uksi/2003/489/made/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2003/489/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2003/489/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2003/489/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2003/489/made/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2003/489/pdfs/uksi_20030489_en.pdf" title="Print Version"/>
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2003/489/contents/made" title="Table of Contents"/>
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2003"/><ukm:Number Value="489"/><ukm:Made Date="2003-03-04"/><ukm:Laid Date="2003-03-04" Class="UnitedKingdomParliament"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2003-04-01"/>
+</ukm:ComingIntoForce><ukm:ISBN Value="0110452364"/><ukm:UnappliedEffects><ukm:UnappliedEffect EffectId="key-b0dc2e08a54c8ae35a438d591754f022" URI="http://www.legislation.gov.uk/id/effect/upload-hswplov-236" Type="words omitted" RequiresApplied="true" AffectedProvisions="Sch." AffectingEffectsExtent="E+W+S+NI" AffectingTerritorialApplication="W" AffectingYear="2005" AffectingNumber="3238" AffectingProvisions="Sch. 2 para. 29" AffectedURI="http://www.legislation.gov.uk/id/uksi/2003/489" AffectedYear="2003" AffectedNumber="489" AffectingURI="http://www.legislation.gov.uk/id/wsi/2005/3238" Modified="2013-04-23T15:03:33.232+01:00" AffectedClass="UnitedKingdomStatutoryInstrument" Created="2013-04-23T15:03:33.232+01:00" AffectingClass="WelshStatutoryInstrument"><ukm:AffectedTitle>The Whole of Government Accounts (Designation of Bodies) Order 2003</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2003/489/schedule">Sch.</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005</ukm:AffectingTitle><ukm:AffectingTitle xml:lang="cy">Gorchymyn Cyngor Cenedlaethol Cymru dros Addysg a Hyfforddiant (Trosglwyddo Swyddogaethau i Gynulliad Cenedlaethol Cymru a Diddymu'r Cyngor) 2005</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/wsi/2005/3238/schedule/2">Sch. 2 </ukm:Section><ukm:Section Ref="schedule-2-paragraph-29" URI="http://www.legislation.gov.uk/id/wsi/2005/3238/schedule/2/paragraph/29">para. 29</ukm:Section></ukm:AffectingProvisions><ukm:Savings><ukm:Section Ref="article-7" URI="http://www.legislation.gov.uk/id/wsi/2005/3238/article/7">art. 7</ukm:Section></ukm:Savings><ukm:CommencementAuthority><ukm:Section Ref="article-1-1" URI="http://www.legislation.gov.uk/id/wsi/2005/3238/article/1/1">art. 1(1)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Date="2006-04-01" Qualification="wholly in force" Applied="false"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-3d9aa70d5c2b865a35d820ddd8c8cb03" AffectingClass="UnitedKingdomStatutoryInstrument" Modified="2013-10-13T04:39:17.171+01:00" URI="http://www.legislation.gov.uk/id/effect/uksi-2004-664xls-27" Type="am" RequiresApplied="true" AffectedProvisions="Schedule" AffectingYear="2004" AffectingNumber="664" AffectingProvisions="arts 4, 5, Sch 3, Sch 4" AffectedURI="http://www.legislation.gov.uk/id/uksi/2003/489" AffectedYear="2003" AffectedNumber="489" AffectingURI="http://www.legislation.gov.uk/id/uksi/2004/664" AffectedClass="UnitedKingdomStatutoryInstrument" Created="2013-10-13T04:39:17.171+01:00"><ukm:AffectedTitle>The Whole of Government Accounts (Designation of Bodies) Order 2003</ukm:AffectedTitle><ukm:AffectedProvisions>Schedule</ukm:AffectedProvisions><ukm:AffectingTitle>The Health and Social Care (Community Health and Standards) Act 2003 (Commission for Healthcare Audit and Inspection and Commission for Social Care Inspection) (Transitional and Consequential Provisions) Order 2004</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="article-4" URI="http://www.legislation.gov.uk/id/uksi/2004/664/article/4">arts 4</ukm:Section> <ukm:Section Ref="article-5" URI="http://www.legislation.gov.uk/id/uksi/2004/664/article/5">5</ukm:Section> <ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/uksi/2004/664/schedule/3">Sch 3 </ukm:Section><ukm:Section Ref="schedule-3-schedule-4" URI="http://www.legislation.gov.uk/id/uksi/2004/664/schedule/3/schedule/4" FoundRef="schedule-3">Sch 4</ukm:Section></ukm:AffectingProvisions></ukm:UnappliedEffect></ukm:UnappliedEffects></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives>
+      <ukm:Alternative Date="2008-12-04" URI="http://www.legislation.gov.uk/uksi/2003/489/pdfs/uksi_20030489_en.pdf" Title="Print Version"/>
+   </ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Secondary>
+<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489/introduction">
+<Number>2003 No. 489</Number>
+<SubjectInformation><Subject>
+<Title>GOVERNMENT RESOURCES AND ACCOUNTS</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Whole of Government Accounts (Designation of Bodies) Order 2003</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>4th March 2003</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>4th March 2003</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>1st April 2003</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Treasury, in exercise of the powers conferred on them by section 10(1) of the Government Resources and Accounts Act 2000<FootnoteRef Ref="f00001"/>, and of all other powers enabling them in that behalf, hereby make the following Order:</Text>
+</Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims>
+<Body DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489/body" NumberOfProvisions="2" NumberFormat="default">
+<P1group>
+<Title>Title and commencement</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/article/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489/article/1" id="article-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order 2003 and shall come into force on 1st April 2003.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Designation</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/article/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489/article/2" id="article-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>The bodies listed in the schedule to this Order are designated in respect of the financial year ending on 31st March 2004 for the purposes of section 10 of the Government Resources and Accounts Act 2000.</Text>
+</P1para>
+</P1>
+</P1group>
+<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489/signature">
+<Signatory>
+<Signee>
+<PersonName>Nick Ainger</PersonName>
+<PersonName>Philip Woolas</PersonName>
+<JobTitle>Two of the Lords Commissioners of Her Majesty’s Treasury</JobTitle>
+<DateSigned Date="2003-03-04">
+<DateText>4th March 2003</DateText>
+</DateSigned>
+</Signee>
+</Signatory>
+</SignedSection>
+</Body>
+<Schedules>
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/schedule/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489/schedule" NumberFormat="default" id="schedule">
+<Number>SCHEDULE</Number>
+<TitleBlock>
+<Title>Designated Bodies for 2003–04</Title>
+</TitleBlock>
+<Reference>Article 2</Reference>
+<ScheduleBody>
+<P>
+<UnorderedList Decoration="none">
+<ListItem>
+<Para>
+<Text>Adult Learning Inspectorate</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Advantage West Midlands</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Alcohol Education and Research Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Arts Council of England</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Arts Council of Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Basic Skills Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Biotechnology and Biological Sciences Research Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>British Educational Communications and Technology Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>British Library</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>British Museum</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>British Potato Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>British Tourist Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>British Trade International</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Broadcasting Standards Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Cabinet Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Care Council for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Castle Vale Housing Action Trust</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Central Police Training and Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Charity Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Children and Family Court Advisory and Support Service</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Coal Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Commission for Architecture and the Built Environment</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Commission for Health Improvement</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Commission for Local Administration</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Commission for Patent and Public Involvement in Health</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Commission for Racial Equality</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Competition Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Competition Service</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Community Development Foundation</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Community Fund</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Construction Industry Training Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Consumer Council for Postal Services</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Council for the Central Laboratory of the Research Councils</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Countryside Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Countryside Council for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Criminal Cases Review Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Criminal Injuries Compensation Appeals Panel</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Criminal Injuries Compensation Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Crown Prosecution Service</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Culture, Media and Sport, Department for</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Customs and Excise, <Acronym Expansion="Her Majesty">HM</Acronym></Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Defence, Ministry of</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Design Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Disability Rights Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>East of England Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>East Midlands Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Economic and Social Research Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Education and Skills, Department for</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Engineering Construction Industry Training Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Engineering and Physical Sciences Research Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>English Heritage</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>English Nature</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>English Partnerships</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Environment Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Environment, Food and Rural Affairs, Department for</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Equal Opportunities Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Estyn</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Export Credit Guarantee Department</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Film Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Food Standards Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Football Licensing Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Foreign and Commonwealth Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Forestry Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Gaming Board for Great Britain</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Gas and Electricity Consumers' Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>General Social Care Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Government Actuary’s Department</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Guaranteed Export Finance Corporation</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Health, Department of</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Health Professionals Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Health Protection Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Higher Education Funding Council for England</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Higher Education Funding Council for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Home Grown Cereals Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Home Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Horserace Betting Levy Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Horticultural Development Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Horticulture Research International</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Housing Corporation</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Human Fertilisation and Embryology Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Imperial War Museum</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Independent Television Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Inland Revenue</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>International Development, Department for</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Investors in People <Acronym Expansion="United Kingdom">UK</Acronym></Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Learning and Skills Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Legal Services Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Liverpool Housing Action Trust</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Local Government Boundary Commission for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Lord Chancellor’s Department</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Marshall Aid Commemoration Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Meat and Livestock Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Medical Research Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Milk Development Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Millennium Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Assembly for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Biological Standards Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Care Standards Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Clinic Assessment Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National College for School Leadership</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Consumer Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Council for Education and Training for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Crime Squad</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Criminal Intelligence Service</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Endowment for Science, Technology and the Arts</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Forest Company</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Gallery</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Heritage Memorial Fund</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Library of Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Lottery Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Maritime Museum</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Museum of Science and Industry</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Museums and Galleries on Merseyside</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Museums and Galleries of Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Portrait Gallery</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Radiological Protection Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Research Development Corporation</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>National Savings and Investments, Department for</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Natural Environment Research Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Natural History Museum</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>New Opportunities Fund</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>North West Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Northern Ireland Court Service</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Northern Ireland Human Rights Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Northern Ireland Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Northern Ireland Policing Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Occupational Pensions Regulatory Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of Fair Trading</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of Gas and Electricity Markets</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of Her Majesty’s Chief Inspector of Schools in England</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of the Deputy Prime Minister</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of the Immigration Services Commissioner</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of the Information Commissioner</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of the <Acronym Expansion="Public Private Partnership">PPP</Acronym> Arbiter</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office for National Statistics</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of the Rail Regulator</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of Telecommunications</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Office of Water Services</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>One North East</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Parole Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Particle Physics and Astronomy Research Council</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Pensions Compensation Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Police Complaints Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Police Information Technology Organisation</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Police Ombudsman for Northern Ireland</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Police Service of Northern Ireland</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Postal Services Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Privy Council Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Probation Board for Northern Ireland</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Public Health Laboratory Service Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Public Record Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Qualifications, Curriculum and Assessment Authority for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Qualifications and Curriculum Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Radio Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Registrar of the Public Lending Right</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Resource: the Council for Museums, Archives and Libraries</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Royal Armouries Museum</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Royal Botanic Gardens, Kew</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Royal Hospital, Chelsea</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Scotland Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Seafish Industry Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Sector Skills Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Security Industry Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Security and Intelligence Agencies</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Serious Fraud Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Simpler Trade Procedures Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>South East England Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>South West of England Regional Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Sport England</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Sports Council for Wales</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Standards Board for England</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Statistics Commission</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Stonebridge Housing Action Trust</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Strategic Rail Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Student Loans Company Ltd</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Tate Gallery</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Teacher Training Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Tower Hamlets Housing Action Trust</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Trade and Industry, Department of</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Transport, Department for</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Treasury, HM</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Treasury Solicitor’s Department</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>UK Sport</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>United Kingdom Atomic Energy Authority</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Victoria and Albert Museum</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Wales Office</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Wales Tourist Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Wallace Collection</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Welsh Development Agency</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Welsh Language Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Westminster Foundation for Democracy</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Work and Pensions, Department for</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Wine Standards Board</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Yorkshire Forward</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Youth Justice Board for England and Wales</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/2003/489/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/2003/489/note">
+<Comment>
+<Para>
+<Text>(This note is not part of the Order)</Text>
+</Para>
+</Comment>
+<P>
+<Text>This Order designates bodies, for the financial year ending with 31st March 2004, for the purposes of section 10 of the Government Resources and Accounts Act 2000. The Treasury intend that the “whole of government” accounts to be prepared for that year under section 9 of that Act should relate in part to each of the bodies designated by this Order, and the designation enables the Treasury to require those bodies to provide financial information in relation to that year.</Text>
+</P>
+</ExplanatoryNotes>
+</Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/20" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0020">2000 c. 20</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>
