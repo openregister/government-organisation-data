@@ -4,10 +4,10 @@ Data for an alpha register of UK central government organisations — department
 
   * [data/government-organisation/government-organisation.tsv](data/government-organisation/government-organisation.tsv)
 
-The term "public sector" is wider than central government organisations, and may be a different set of legal entities depending upon the context.
+The term "public sector" or is wider than central government organisations, and may be a different set of legal entities depending upon the context.
 For example, the Digital Marketplace includes schools, academies, public corporations and other legal entities such as charities funded by government.
 
-A register needing to reference public sector organisations may use a "public-sector" field, which is a CURIE to one of a number of different registers, including the government-organisation register.
+A register needing to reference public sector organisations may use a "public-body", "organisation", "operator" or other field which is a CURIE to one of a number of different registers, including the government-organisation register.
 
 # Maps
 
