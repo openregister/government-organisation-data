@@ -54,7 +54,7 @@ The data has been compiled from existing lists of public sector organisations fo
 |[coins](lists/coins) |[Combined Online Information System (COINS) organisations](https://www.whatdotheyknow.com/cy/request/list_of_public_bodies_in_the_coi#incoming-69457)|[1736](lists/coins/list.tsv)|
 |[oscar](lists/oscar) |[The Online System for Central Accounting and Reporting (OSCAR)](https://www.gov.uk/government/collections/hmt-oscar-publishing-from-the-database)|[203](lists/oscar/list.tsv)|
 |[cloudstore-buyers](lists/cloudstore-buyers) |[Public Sector organisations eligible to use cloudstore](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)|[30359](lists/cloudstore-buyers/list.tsv)|
-|[miso](lists/miso) |[Crown Commercial Service management information system online](https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know)|[1783](lists/miso/list.tsv)|
+|[miso](lists/miso) |[Crown Commercial Service management information system online](https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know)|[3599](lists/miso/list.tsv)|
 |[epims](lists/epims) |[Government property finder](https://www.epims.ogc.gov.uk/government-property-finder/home.aspx)|[373](lists/epims/list.tsv)|
 |[civil-service-jobs](lists/civil-service-jobs) |[Civil service job index](https://www.civilservicejobs.service.gov.uk/csr/index.cgi)|[79](lists/civil-service-jobs/list.tsv)|
 |[contracts-finder](lists/contracts-finder) |[Contracts finder notices](https://www.contractsfinder.service.gov.uk/Notice/Summary)|[1436](lists/contracts-finder/list.tsv)|
