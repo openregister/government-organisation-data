@@ -20,6 +20,7 @@ FIXUPS=\
 #  maps generated to find register records from values found in lists
 #
 MAPS=\
+	maps/abbreviation.tsv\
 	maps/name.tsv\
 	maps/govuk.tsv
 
@@ -33,9 +34,13 @@ maps/govuk.tsv:	$(SOURCE) $(REGISTER) bin/govuk.py
 	@mkdir -p maps
 	python3 bin/govuk.py $(REGISTER) < $(SOURCE) > $@
 
-maps/name.tsv:	$(REGISTER) $(LISTS) bin/name.py
+maps/name.tsv:	$(REGISTER) maps/abbreviation.tsv $(LISTS) bin/name.py
 	@mkdir -p maps
 	python3 bin/name.py $(LISTS) < $(REGISTER) > $@
+
+maps/abbreviation.tsv:	$(SOURCE) bin/abbreviation.py
+	@mkdir -p maps
+	python3 bin/abbreviation.py < $(SOURCE) > $@
 
 # remove targets
 clobber:
