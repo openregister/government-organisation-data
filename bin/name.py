@@ -14,7 +14,7 @@ def n7e(s):
     s = re.sub('[^a-z0-9 ]', '', s)
     s = re.sub('(x[0-9]*)', '', s)
     s = re.sub('committees', 'committee', s)
-    ignore = ['and', 'the', 'ago', 'bis', 'beis', 'defra', 'fera', 'fsa']
+    ignore = ['and', 'the', 'ago', 'bis', 'beis', 'defra', 'fera', 'fsa', 'mdc']
     words = [word for word in s.split() if word not in ignore]
     s = ' '.join(words)
     s = s.strip()
