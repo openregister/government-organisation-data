@@ -1,11 +1,11 @@
 # Government organisation register data
 
-Data for an alpha register of UK central government organisations — departments, agencies and other distinct legal entities with a presence on GOV.UK:
+Data for an alpha register of UK central government organisations — departments, agencies and other organisations with a presence on GOV.UK:
 
   * [data/government-organisation/government-organisation.tsv](data/government-organisation/government-organisation.tsv)
 
-The term "public sector" or is wider than central government organisations, and may be a different set of legal entities depending upon the context.
-For example, the Digital Marketplace includes schools, academies, public corporations and other legal entities such as charities funded by government.
+The term "public sector" or "public body" has a much wider scope than central government organisations covered by this register.
+The meaning of "public sector" depends upon context, for example, the Digital Marketplace buyers list includes schools, academies, public corporations and other legal entities such as charities funded by government and recorded in separate registers.
 
 A register needing to reference public sector organisations may use a "public-body", "organisation", "operator" or other field which is a CURIE to one of a number of different registers, including the government-organisation register.
 
@@ -61,8 +61,10 @@ The data has been compiled from existing lists of public sector organisations fo
 |[contracts-finder](lists/contracts-finder) |[Contracts finder notices](https://www.contractsfinder.service.gov.uk/Notice/Summary)|[1436](lists/contracts-finder/list.tsv)|
 |[contracts-finder-archive](lists/contracts-finder-archive) |[Contracts finder archive](https://data.gov.uk/data/contracts-finder-archive/data-feeds/)|[2543](lists/contracts-finder-archive/list.tsv)|
 
+There are older PDF reports on [public bodies 1999-2009](https://www.gov.uk/government/publications/public-bodies-reports-1999-to-2009) and in the [GOV.UK public bodies collection](https://www.gov.uk/government/collections/public-bodies).
 
 This list of lists is by no means comprehensive, and contributions of other lists are appreciated.
+
 
 # Building
 
