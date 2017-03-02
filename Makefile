@@ -6,7 +6,9 @@ REGISTER=data/government-organisation/government-organisation.tsv
 #
 #  source GOV.UK list
 #
-LIST=lists/govuk/list.tsv
+SOURCE=lists/govuk/list.tsv
+
+LISTS=$(wildcard lists/*/list.tsv)
 
 #
 #  source fixup data used to translate a list into register
@@ -18,17 +20,22 @@ FIXUPS=\
 #  maps generated to find register records from values found in lists
 #
 MAPS=\
+	maps/name.tsv\
 	maps/govuk.tsv
 
 all: $(REGISTER) $(MAPS)
 
-$(REGISTER):	bin/government-organisation.py $(FIXUPS) $(LIST)
+$(REGISTER):	bin/government-organisation.py $(FIXUPS) $(SOURCE)
 	@mkdir -p data/government-organisation
-	python3 bin/government-organisation.py $(FIXUPS) < $(LIST) > $@
+	python3 bin/government-organisation.py $(FIXUPS) < $(SOURCE) > $@
 
-maps/govuk.tsv:	lists/govuk/list.tsv $(REGISTER) bin/govuk.py
+maps/govuk.tsv:	$(SOURCE) $(REGISTER) bin/govuk.py
 	@mkdir -p maps
-	python3 bin/govuk.py $(REGISTER) < $(LIST) > $@
+	python3 bin/govuk.py $(REGISTER) < $(SOURCE) > $@
+
+maps/name.tsv:	$(REGISTER) $(LISTS) bin/name.py
+	@mkdir -p maps
+	python3 bin/name.py $(LISTS) < $(REGISTER) > $@
 
 # remove targets
 clobber:
