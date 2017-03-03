@@ -1,5 +1,5 @@
 # see: https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide
-URL=https://www.ons.gov.uk/file?uri=/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide/october2016/publicsectorclassificationguidelatest.xls
+URL=https://www.ons.gov.uk/file?uri=/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide/february2017/publicsectorclassificationguidelatest.xls
 
 list.tsv:	data.xls map.py
 	python3 map.py data.xls > $@
