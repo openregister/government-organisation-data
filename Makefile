@@ -34,13 +34,13 @@ maps/govuk.tsv:	$(SOURCE) $(REGISTER) bin/govuk.py
 	@mkdir -p maps
 	python3 bin/govuk.py $(REGISTER) < $(SOURCE) > $@
 
-maps/name.tsv:	$(REGISTER) maps/abbreviation.tsv $(LISTS) bin/name.py
+maps/name.tsv:	$(REGISTER) fixup/word.tsv maps/abbreviation.tsv fixup/name.tsv $(LISTS) bin/name.py
 	@mkdir -p maps
-	python3 bin/name.py $(LISTS) < $(REGISTER) > $@
+	python3 bin/name.py fixup/word.tsv maps/abbreviation.tsv fixup/name.tsv $(LISTS) < $(REGISTER) > $@
 
-maps/abbreviation.tsv:	$(SOURCE) bin/abbreviation.py
+maps/abbreviation.tsv:	$(SOURCE) fixup/abbreviation.tsv bin/abbreviation.py
 	@mkdir -p maps
-	python3 bin/abbreviation.py < $(SOURCE) > $@
+	python3 bin/abbreviation.py fixup/abbreviation.tsv < $(SOURCE) > $@
 
 # remove targets
 clobber:
