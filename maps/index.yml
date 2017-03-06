@@ -1,13 +1,14 @@
+# maps for translating identifiers and names to the government-organisation register
 ---
-government-organisation:
-  description: departments, agencies and other legal entities with a presence on GOV.UK
-  key: government-organisation
 govuk:
   description: GOV.UK slug
-  key: govuk
+miso:
+  description: Crown Commercial Service management information system online identifier
 oscar:
   description: The Online System for Central Accounting and Reporting (OSCAR)
-  key: oscar
-epims:
-  description: Property and Manage
-  key: epims
+uuid:
+  description: data.gov.uk or other Universally Unique Identifier value for the organisation
+name:
+	description: organisation name
+abbreviation:
+	description: abbreviation for an organisation
