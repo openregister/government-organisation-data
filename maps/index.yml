@@ -8,3 +8,6 @@ govuk:
 oscar:
   description: The Online System for Central Accounting and Reporting (OSCAR)
   key: oscar
+epims:
+  description: Property and Manage
+  key: epims
