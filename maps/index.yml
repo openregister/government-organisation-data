@@ -9,6 +9,6 @@ oscar:
 uuid:
   description: data.gov.uk or other Universally Unique Identifier value for the organisation
 name:
-	description: organisation name
+  description: organisation name
 abbreviation:
-	description: abbreviation for an organisation
+  description: abbreviation for an organisation
