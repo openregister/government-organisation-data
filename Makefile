@@ -4,6 +4,11 @@
 REGISTER=data/government-organisation/government-organisation.tsv
 
 #
+#  report of lists, maps and the register
+#
+REPORT=report/index.html
+
+#
 #  source GOV.UK list
 #
 SOURCE=lists/govuk/list.tsv
@@ -24,7 +29,7 @@ MAPS=\
 	maps/name.tsv\
 	maps/govuk.tsv
 
-all: $(REGISTER) $(MAPS)
+all: $(REGISTER) $(MAPS) $(REPORT)
 
 $(REGISTER):	bin/government-organisation.py $(FIXUPS) $(SOURCE)
 	@mkdir -p data/government-organisation
@@ -41,6 +46,10 @@ maps/name.tsv:	$(REGISTER) fixup/word.tsv maps/abbreviation.tsv fixup/name.tsv $
 maps/abbreviation.tsv:	$(SOURCE) fixup/abbreviation.tsv bin/abbreviation.py
 	@mkdir -p maps
 	python3 bin/abbreviation.py fixup/abbreviation.tsv < $(SOURCE) > $@
+
+report/index.html:	$(REGISTER) $(LISTS) $(MAPS) maps/index.yml lists/index.yml bin/report.py
+	@mkdir -p report
+	python3 bin/report.py > $@
 
 # remove targets
 clobber:
