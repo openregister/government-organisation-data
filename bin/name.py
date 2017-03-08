@@ -76,7 +76,7 @@ for row in csv.DictReader(sys.stdin, delimiter=sep):
 # read lists for names
 for path in paths:
     for row in csv.DictReader(open(path), delimiter=sep):
-        name = row['name']
+        name = row['name'].strip()
         code = abbreviations.get(n7e(name), row.get('government-organisation', ''))
         add(name, code)
 

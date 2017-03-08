@@ -31,7 +31,7 @@ print(sep.join(fields))
 
 for row in csv.DictReader(sys.stdin, delimiter=sep):
 
-    row['name'] = usurp(row, 'name')
+    row['name'] = usurp(row, 'name').strip()
     row['start-date'] = default(row, 'start-date')
     row['end-date'] = default(row, 'end-date')
 
