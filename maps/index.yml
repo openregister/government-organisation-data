@@ -1,14 +1,14 @@
 # maps for translating identifiers and names to the government-organisation register
 ---
 govuk:
-  description: GOV.UK slug
+  name: GOV.UK slug
 miso:
-  description: Crown Commercial Service management information system online identifier
+  name: Crown Commercial Service management information system online identifier
 oscar:
-  description: The Online System for Central Accounting and Reporting (OSCAR)
+  name: The Online System for Central Accounting and Reporting (OSCAR)
 uuid:
-  description: data.gov.uk or other Universally Unique Identifier value for the organisation
+  name: Universally Unique Identifier value for the organisation on data.gov.uk
 name:
-  description: organisation name
+  name: Organisation name
 abbreviation:
-  description: abbreviation for an organisation
+  name: Organisation abbreviation

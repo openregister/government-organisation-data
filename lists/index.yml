@@ -1,103 +1,103 @@
 ---
 govuk:
-  description: GOV.UK government organisations]
+  name: GOV.UK government organisations
   website: https://www.gov.uk/government/organisations
 data-govuk:
-  description: data.gov.uk publishers
+  name: data.gov.uk publishers
   website: https://data.gov.uk/publisher
 data-govuk-orgs:
-  description: data.gov.uk organisations
+  name: data.gov.uk organisations
   website: https://data.gov.uk
 public-bodies-2012:
-  description: Cabinet Office list of public bodies (2012)
+  name: Cabinet Office list of public bodies (2012)
   website: https://www.gov.uk/government/publications/public-bodies-reports
 public-bodies-2013:
-  description: Cabinet Office list of public bodies (2013)
+  name: Cabinet Office list of public bodies (2013)
   website: https://www.gov.uk/government/publications/public-bodies-2013
 public-bodies-2014:
-  description: Cabinet Office list of public bodies (2014)
+  name: Cabinet Office list of public bodies (2014)
   website: https://www.gov.uk/government/publications/public-bodies-2014
 public-bodies-2015:
-  description: Cabinet Office list of public bodies (2015)
+  name: Cabinet Office list of public bodies (2015)
   website: https://www.gov.uk/government/publications/public-bodies-2015
 public-bodies-2016:
-  description: Cabinet Office list of public bodies (2016)
+  name: Cabinet Office list of public bodies (2016)
   website: https://www.gov.uk/government/publications/public-bodies-2016
 designation-of-public-bodies-2000:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2000
+  name: Whole of Government Accounts (Designation of Bodies) Order 2000
   website: http://www.legislation.gov.uk/uksi/2000/3357/contents/made
 designation-of-public-bodies-2002:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2002
+  name: Whole of Government Accounts (Designation of Bodies) Order 2002
   website: http://www.legislation.gov.uk/uksi/2002/454/contents/made
 designation-of-public-bodies-2003:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2003
+  name: Whole of Government Accounts (Designation of Bodies) Order 2003
   website: http://www.legislation.gov.uk/uksi/2003/489/contents/made
 designation-of-public-bodies-2005:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2005
+  name: Whole of Government Accounts (Designation of Bodies) Order 2005
   website: http://www.legislation.gov.uk/uksi/2005/486/contents/made
 designation-of-public-bodies-2007:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2007
+  name: Whole of Government Accounts (Designation of Bodies) Order 2007
   website: http://www.legislation.gov.uk/uksi/2007/1492/contents/made
 designation-of-public-bodies-2008:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2008
+  name: Whole of Government Accounts (Designation of Bodies) Order 2008
   website: http://www.legislation.gov.uk/uksi/2008/1440/contents/made
 designation-of-public-bodies-2009:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2009
+  name: Whole of Government Accounts (Designation of Bodies) Order 2009
   website: http://www.legislation.gov.uk/uksi/2009/1973/contents/made
 designation-of-public-bodies-2010:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2010
+  name: Whole of Government Accounts (Designation of Bodies) Order 2010
   website: http://www.legislation.gov.uk/uksi/2010/1051/made
 designation-of-public-bodies-2011:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2011
+  name: Whole of Government Accounts (Designation of Bodies) Order 2011
   website: http://www.legislation.gov.uk/uksi/2011/1268/contents/made
 designation-of-public-bodies-2012:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2012
+  name: Whole of Government Accounts (Designation of Bodies) Order 2012
   website: http://www.legislation.gov.uk/uksi/2012/1803/contents/made
 designation-of-public-bodies-2013:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2013
+  name: Whole of Government Accounts (Designation of Bodies) Order 2013
   website: http://www.legislation.gov.uk/uksi/2013/1796/contents/made
 designation-of-public-bodies-2014:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2014
+  name: Whole of Government Accounts (Designation of Bodies) Order 2014
   website: http://www.legislation.gov.uk/uksi/2014/2234/contents/made
 designation-of-public-bodies-2015:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2015
+  name: Whole of Government Accounts (Designation of Bodies) Order 2015
   website: http://www.legislation.gov.uk/uksi/2015/1655/made
 designation-of-public-bodies-2016:
-  description: Whole of Government Accounts (Designation of Bodies) Order 2016
+  name: Whole of Government Accounts (Designation of Bodies) Order 2016
   website: http://www.legislation.gov.uk/uksi/2016/1173/contents/made
 whole-of-government-accounts:
-  description: Whole of Government Accounts (PDF report)
+  name: Whole of Government Accounts (PDF report)
   website: https://www.gov.uk/government/collections/whole-of-government-accounts
 ons-public-sector-classification:
-  description: ONS Public Sector Classification Guide
+  name: ONS Public Sector Classification Guide
   website: https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide
 crown-bodies:
-  description: The National Archives list of crown bodies
+  name: The National Archives list of crown bodies
   website: http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/uk-crown-bodies/
 crown-proceedings:
-  description: Authorised government bodies under the Crown Proceedings Act 1947
+  name: Authorised government bodies under the Crown Proceedings Act 1947
   website: https://www.gov.uk/government/publications/serve-the-treasury-solicitor-with-legal-proceedings
 coins:
-  description: Combined Online Information System (COINS) organisations
+  name: Combined Online Information System (COINS) organisations
   website: https://www.whatdotheyknow.com/cy/request/list_of_public_bodies_in_the_coi#incoming-69457
 oscar:
-  description: The Online System for Central Accounting and Reporting (OSCAR)
+  name: The Online System for Central Accounting and Reporting (OSCAR)
   website: https://www.gov.uk/government/collections/hmt-oscar-publishing-from-the-database
 cloudstore-buyers:
-  description: Public Sector organisations eligible to use cloudstore
+  name: Public Sector organisations eligible to use cloudstore
   website: https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore
 miso:
-  description: Crown Commercial Service management information system online
+  name: Crown Commercial Service management information system online
   website: https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know
 epims:
-  description: Government property finder
+  name: Government property finder
   website: https://www.epims.ogc.gov.uk/government-property-finder/home.aspx
 civil-service-jobs:
-  description: Civil service job index
+  name: Civil service job index
   website: https://www.civilservicejobs.service.gov.uk/csr/index.cgi
 contracts-finder:
-  description: Contracts finder notices
+  name: Contracts finder notices
   website: https://www.contractsfinder.service.gov.uk/Notice/Summary
 contracts-finder-archive:
-  description: Contracts finder archive
+  name: Contracts finder archive
   website: https://data.gov.uk/data/contracts-finder-archive/data-feeds/

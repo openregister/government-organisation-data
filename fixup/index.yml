@@ -1,0 +1,10 @@
+# manual fixes to data to create maps
+---
+abbreviation:
+  name: Abbreviations which need replacing or removing
+government-organisation:
+  name: Asserted name, start-date and end-date values for register data
+name:
+  name: Names for government-organisation
+word:
+  name: Words found in names which may be considered to be synonymous
