@@ -13,7 +13,11 @@ repo = 'https://github.com/openregister/government-organisation-data/blob/master
 
 sep = '\t'
 
-# read lists
+
+#
+#  load data
+#  TBD: refactor these blocks ..
+#
 lists = yaml.load(open('lists/index.yml'))
 
 for l in lists:
@@ -24,7 +28,16 @@ for l in lists:
     for row in reader:
         lists[l]['list'][row[key]] = row
 
-# read fixups
+maps = yaml.load(open('maps/index.yml'))
+
+for m in maps:
+    path = maps[m].get('path', "maps/%s.tsv" % (m))
+    if (os.path.exists(path)):
+        reader = csv.DictReader(open(path), delimiter=sep)
+        maps[m]['map'] = {}
+        for row in reader:
+            maps[m]['map'][row[m]] = row
+
 fixups = yaml.load(open('fixup/index.yml'))
 
 for f in fixups:
@@ -36,30 +49,38 @@ for f in fixups:
         for row in reader:
             fixups[f]['fixup'][row[key]] = row
 
-# read maps
-maps = yaml.load(open('maps/index.yml'))
-
-for m in maps:
-    path = maps[m].get('path', "maps/%s.tsv" % (m))
-    if (os.path.exists(path)):
-        reader = csv.DictReader(open(path), delimiter=sep)
-        maps[m]['map'] = {}
-        for row in reader:
-            maps[m]['map'][row[m]] = row
-
-# read register
 register = {}
 for row in csv.DictReader(open(register_path), delimiter=sep):
     row['map:names'] = {}
     register[row[register_name]] = row
 
-# add alternate names ..
+
+
+#
+#  add alternate names to the register ..
+#
 for n in maps['name']['map']:
     row = maps['name']['map'][n]
     if 'government-organisation' in row and row['government-organisation']:
         name = register[row['government-organisation']]['name']
         if row['name'] != name:
             register[row['government-organisation']]['map:names'][row['name'].strip()] = 1
+
+#
+#  find list items in maps
+#
+for l in lists:
+    key = lists[l]['key']
+
+    if key == 'government-organisation':
+        m = register
+    elif key in maps and 'map' in maps[key]:
+        m = maps[key]['map']
+        lists[l]['mapped'] = []
+    else:
+        m = {}
+
+    lists[l]['mapped'] = [v for v in lists[l]['list'] if v in m and 'government-organisation' in m[v] and m[v]['government-organisation']]
 
 
 #
@@ -105,7 +126,6 @@ td .name {
 """)
 
 
-
 #
 #  Lists ..
 #
@@ -114,9 +134,11 @@ print("""
 <table id="lists" class="tablesorter">
 <thead>
     <tr>
-      <th class='count'>Count</th>
       <th class='name'>List</th>
       <th>Name</th>
+      <th>Map</th>
+      <th>Mapped</th>
+      <th class='count'>List count</th>
     </tr>
 </thead>
 <tbody>
@@ -126,9 +148,11 @@ for key in sorted(lists):
     row = lists[key]
     path = 'lists/%s/list.tsv' % (key)
     print("<tr>")
-    print("<td class='count'>%s</td>" % (len(row['list'])))
     print('<td class="name"><a href="%s/%s">%s</a></td>' % (repo, path, key))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['name']))
+    print("<td>%s</td>" % row['key'])
+    print("<td>%s</td>" % (len(row['mapped'])))
+    print("<td class='count'>%s</td>" % (len(row['list'])))
     print("</tr>")
 
 print("""
@@ -144,9 +168,9 @@ print("""
 <table id="fixups" class="tablesorter">
 <thead>
     <tr>
-      <th class='count'>Count</th>
       <th class='name'>Fixup</th>
       <th>Name</th>
+      <th class='count'>Count</th>
     </tr>
 </thead>
 <tbody>
@@ -157,9 +181,9 @@ for key in sorted(fixups):
     if ('fixup' in row):
         path = "fixup/%s.tsv" % (key)
         print("<tr>")
-        print("<td class='count'>%s</td>" % (len(row['fixup'])))
         print("<td class='key'><a href='%s/%s'>%s</a></td>" % (repo, path, key))
         print("<td>%s</td>" % (row['name']))
+        print("<td class='count'>%s</td>" % (len(row['fixup'])))
         print("</tr>")
 
 print("""
@@ -175,9 +199,9 @@ print("""
 <table id="maps" class="tablesorter">
 <thead>
     <tr>
-      <th class='count'>Count</th>
       <th class='name'>Map</th>
       <th>Name</th>
+      <th class='count'>Count</th>
     </tr>
 </thead>
 <tbody>
@@ -188,9 +212,9 @@ for key in sorted(maps):
     if ('map' in row):
         path = "maps/%s.tsv" % (key)
         print("<tr>")
-        print("<td class='count'>%s</td>" % (len(row['map'])))
         print("<td class='key'><a href='%s/%s'>%s</a></td>" % (repo, path, key))
         print("<td>%s</td>" % (row['name']))
+        print("<td class='count'>%s</td>" % (len(row['map'])))
         print("</tr>")
 
 print("""
