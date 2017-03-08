@@ -216,7 +216,7 @@ for key in sorted(fixups):
     if ('fixup' in row):
         path = "fixup/%s.tsv" % (key)
         print("<tr>")
-        print("<td class='key'><a href='%s/%s'>%s</a></td>" % (repo, path, key))
+        print("<td class='key'><a href='%s/%s'>%s</a></td>" % (repo_data, path, key))
         print("<td>%s</td>" % (row['name']))
         print("<td class='count'>%s</td>" % (len(row['fixup'])))
         print("</tr>")
@@ -247,7 +247,7 @@ for key in sorted(maps):
     if ('map' in row):
         path = "maps/%s.tsv" % (key)
         print("<tr>")
-        print("<td class='key'><a href='%s/%s'>%s</a></td>" % (repo, path, key))
+        print("<td class='key'><a href='%s/%s'>%s</a></td>" % (repo_data, path, key))
         print("<td>%s</td>" % (row['name']))
         print("<td class='count'>%s</td>" % (len(row['map'])))
         print("</tr>")
