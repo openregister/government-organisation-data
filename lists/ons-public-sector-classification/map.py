@@ -9,7 +9,7 @@ sheet = book.sheet_by_name('Index')
 print('name')
 
 for row in range(sheet.nrows):
-    s = sheet.cell(row, 0).value
+    s = sheet.cell(row, 0).value.strip()
     if s == '' or s == 'Index' or s == 'Institutions':
         continue
     print(s)

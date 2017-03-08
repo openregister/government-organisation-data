@@ -19,4 +19,4 @@ for line in sys.stdin:
     r = json.loads(line)
 
     row = {}
-    print(sep.join([r[field_map[field]] for field in fields]))
+    print(sep.join([r[field_map[field]].strip() for field in fields]))

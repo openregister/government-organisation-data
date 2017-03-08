@@ -40,4 +40,4 @@ for line in sys.stdin:
 
     r['parent-govuks'] = list_sep.join(o['id'].rsplit('/', 1)[1] for o in r['parent_organisations'])
 
-    print(sep.join([json_path(r, field_path[field]).replace(sep, '') for field in fields]))
+    print(sep.join([json_path(r, field_path[field]).replace(sep, '').strip() for field in fields]))

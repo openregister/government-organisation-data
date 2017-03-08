@@ -9,11 +9,11 @@ sheet = book.sheet_by_name('PB 2012')
 names = {}
 
 for row in range(sheet.nrows):
-    name = sheet.cell(row, 1).value
+    name = sheet.cell(row, 1).value.strip()
     if name != 'name':
         names[name] = 1
 
-    department = sheet.cell(row, 2).value
+    department = sheet.cell(row, 2).value.strip()
     if department != 'department':
         names[department] = 1
 
