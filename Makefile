@@ -47,9 +47,9 @@ maps/abbreviation.tsv:	$(SOURCE) fixup/abbreviation.tsv bin/abbreviation.py
 	@mkdir -p maps
 	python3 bin/abbreviation.py fixup/abbreviation.tsv < $(SOURCE) > $@
 
-report/index.html:	$(REGISTER) $(LISTS) $(MAPS) maps/index.yml lists/index.yml bin/report.py
+$(REPORT):	$(REGISTER) $(LISTS) $(MAPS) maps/index.yml lists/index.yml bin/report.py
 	@mkdir -p report
-	python3 bin/report.py > $@
+	python3 bin/report.py report/lists/ > $@
 
 # remove targets
 clobber:

@@ -9,7 +9,8 @@ import yaml
 register_name = 'government-organisation'
 register_path = './data/%s/%s.tsv' % (register_name, register_name)
 
-repo = 'https://github.com/openregister/government-organisation-data/blob/master'
+repo = 'https://github.com/openregister/government-organisation-data'
+repo_data = repo + '/blob/master/'
 
 sep = '\t'
 
@@ -23,6 +24,7 @@ lists = yaml.load(open('lists/index.yml'))
 for l in lists:
     path = lists[l].get('path', "lists/%s/list.tsv" % (l))
     reader = csv.DictReader(open(path), delimiter=sep)
+    lists[l]['fields'] = reader.fieldnames
     key = lists[l]['key'] = reader.fieldnames[0]
     lists[l]['list'] = {}
     for row in reader:
@@ -34,6 +36,7 @@ for m in maps:
     path = maps[m].get('path', "maps/%s.tsv" % (m))
     if (os.path.exists(path)):
         reader = csv.DictReader(open(path), delimiter=sep)
+        maps[m]['fields'] = reader.fieldnames
         maps[m]['map'] = {}
         for row in reader:
             maps[m]['map'][row[m]] = row
@@ -86,8 +89,8 @@ for l in lists:
 #
 #  Report ..
 #
-print("""
-<!doctype html>
+def header(file=sys.stdout):
+    file.write("""<!doctype html>
 <html>
 <head>
 <meta charset='utf-8'>
@@ -122,9 +125,42 @@ td .name {
 </head>
 <body>
 <div class="wrapper">
-<h1><a href="https://github.com/openregister/government-organisation-data">government-organisation-data</a></h1>
 """)
 
+def footer(file=sys.stdout):
+    file.write("""
+</div>
+</body>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/tablesorter/2.17.4/js/jquery.tablesorter.min.js"></script>
+<script>
+$(function() {
+    $("#maps").tablesorter({theme : 'blue'});
+    $("#lists").tablesorter({theme : 'blue'});
+    $("#fixups").tablesorter({theme : 'blue'});
+    $("#register").tablesorter({theme : 'blue'});
+    $("#list").tablesorter({theme : 'blue'});
+
+    $('input').each(function(){
+        $(this).click(function () {
+            $("._" + this.name).toggle();
+            $('#names td.names').each(function () {
+                $(this).parent().show();
+                var count = $(this).children(':visible').length;
+                if (count == 0) {
+                    $(this).parent().hide();
+                }
+                $(this).next('td').text(count);
+            });
+        });
+    });
+});
+</script>
+</html>
+""")
+
+header()
+print('<h1><a href="https://github.com/openregister/government-organisation-data">government-organisation-data</a> data</h1>')
 
 #
 #  Lists ..
@@ -146,9 +182,8 @@ print("""
 
 for key in sorted(lists):
     row = lists[key]
-    path = 'lists/%s/list.tsv' % (key)
     print("<tr>")
-    print('<td class="name"><a href="%s/%s">%s</a></td>' % (repo, path, key))
+    print('<td class="name"><a href="lists/%s">%s</a></td>' % (key, key))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['name']))
     print("<td>%s</td>" % row['key'])
     print("<td>%s</td>" % (len(row['mapped'])))
@@ -256,36 +291,51 @@ print("""
 </table>
 """)
 
+footer()
 
 #
-#  footer
+#  a report for each list
 #
-print("""
-</div>
-</body>
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/tablesorter/2.17.4/js/jquery.tablesorter.min.js"></script>
-<script>
-$(function() {
-    $("#maps").tablesorter({theme : 'blue'});
-    $("#lists").tablesorter({theme : 'blue'});
-    $("#fixups").tablesorter({theme : 'blue'});
-    $("#register").tablesorter({theme : 'blue'});
+for list_name in lists:
+    path = "report/lists/" + list_name
+    if not os.path.exists(path):
+        os.makedirs(path)
 
-    $('input').each(function(){
-        $(this).click(function () {
-            $("._" + this.name).toggle();
-            $('#names td.names').each(function () {
-                $(this).parent().show();
-                var count = $(this).children(':visible').length;
-                if (count == 0) {
-                    $(this).parent().hide();
-                }
-                $(this).next('td').text(count);
-            });
-        });
-    });
-});
-</script>
-</html>
+    with open(path + '/index.html', "w") as file:
+        header(file=file)
+        file.write('<h1><a href="../..">%s</a> data</h1>' % (register_name))
+        file.write('<h2>Matched <a href="%slists/%s">%s</a> list</h1>' % (repo_data, list_name, list_name))
+
+        file.write("""
+<table id="list" class="tablesorter">
+<thead>
+    <tr>
 """)
+        file.write("<th>%s</th>" % register_name)
+        for field in lists[list_name]['fields']:
+            file.write("<th>%s</th>\n" % field)
+        file.write("""
+    </tr>
+</thead>
+<tbody>
+""")
+        for key in lists[list_name]['list']:
+            row = lists[list_name]['list'][key]
+            map_key = lists[list_name]['key']
+            if  map_key in maps and 'map' in maps[map_key]:
+                code = maps[map_key]['map'].get(key, {}).get(register_name, '')
+            else:
+                code = ''
+
+            file.write("<tr>")
+            file.write("<td>%s</td>" % code)
+            for field in lists[list_name]['fields']:
+                file.write("<td>%s</td>\n" % row[field])
+            file.write("</tr>")
+
+        file.write("""
+</tbody>
+</table>
+""")
+
+        footer(file=file)
