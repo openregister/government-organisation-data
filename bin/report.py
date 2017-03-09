@@ -94,7 +94,6 @@ def header(file=sys.stdout):
 <html>
 <head>
 <meta charset='utf-8'>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.5/css/theme.blue.min.css" type="text/css">
 <style>
 body {
     font-family: "Helvetica", "Helvetica Neue";
@@ -120,7 +119,6 @@ td {
 td .name {
     font-weight: bold;
 }
-
 </style>
 </head>
 <body>
@@ -322,10 +320,10 @@ for list_name in lists:
         for key in lists[list_name]['list']:
             row = lists[list_name]['list'][key]
             map_key = lists[list_name]['key']
+
+            code = ''
             if  map_key in maps and 'map' in maps[map_key]:
                 code = maps[map_key]['map'].get(key, {}).get(register_name, '')
-            else:
-                code = ''
 
             file.write("<tr>")
             file.write("<td>%s</td>" % code)
