@@ -122,6 +122,19 @@ td .name {
 tr {
     border-bottom: 1px solid black;
 }
+table th,
+table td {
+  font-size: 14px;
+  line-height: 1.25;
+  padding: 0.6315789474em 1.0526315789em 0.4736842105em 0;
+  text-align: left;
+  color: #0b0c0c;
+  border-bottom: 1px solid #bfc1c3;
+}
+
+table th {
+  font-weight: bold;
+}
 </style>
 </head>
 <body>
@@ -161,7 +174,7 @@ $(function() {
 """)
 
 header()
-print('<h1><a href="https://github.com/openregister/government-organisation-data">government-organisation-data</a> data</h1>')
+print('<h1><a href="https://github.com/openregister/government-organisation-data">government-organisation-data</a></h1>')
 
 #
 #  Lists ..
@@ -174,7 +187,7 @@ print("""
       <th class='name'>List</th>
       <th>Name</th>
       <th>Map</th>
-      <th>Mapped</th>
+      <th class='count'>Mapped</th>
       <th class='count'>List count</th>
     </tr>
 </thead>
@@ -187,7 +200,7 @@ for key in sorted(lists):
     print('<td class="name"><a href="lists/%s">%s</a></td>' % (key, key))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['name']))
     print("<td>%s</td>" % row['key'])
-    print("<td>%s</td>" % (len(row['mapped'])))
+    print("<td class='count'>%s</td>" % (len(row['mapped'])))
     print("<td class='count'>%s</td>" % (len(row['list'])))
     print("</tr>")
 
