@@ -8,3 +8,5 @@ name:
   name: Names for government-organisation
 word:
   name: Words found in names which may be considered to be synonymous
+blacklist:
+  name: Organisations to remove from the source register data

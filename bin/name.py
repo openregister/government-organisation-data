@@ -10,9 +10,10 @@ abbreviation_path = sys.argv[2]
 name_path = sys.argv[3]
 paths = sys.argv[4:]
 
+names = {}
+register = {}
 abbreviations = {}
 words = {}
-names = {}
 codes = {}
 
 fields = ['name', 'government-organisation']
@@ -44,6 +45,11 @@ def n7e(s):
         if w[0] in abbreviations:
             w = w[1:]
 
+    # remove trailing "Department of" / "Department for"
+
+    if len(w) > 2 and w[-2] == 'department' and w[-1] in ['for', 'of']:
+        w = w[-2:] + w[:-2]
+
     # join words and normalize spaces (again)
     s = ' '.join(w)
     return _n7e(s)
@@ -71,6 +77,7 @@ for row in csv.DictReader(open(abbreviation_path), delimiter=sep):
 
 # read register data
 for row in csv.DictReader(sys.stdin, delimiter=sep):
+    register[row['government-organisation']] = row
     add(row['name'], row['government-organisation'])
 
 # read lists for names
@@ -89,5 +96,9 @@ for n in sorted(names):
     for name in sorted(names[n]['names']):
         row = {}
         row['name'] = name
-        row['government-organisation'] = ';'.join(sorted(names[n]['government-organisation']))
+
+        orgs = [org for org in names[n]['government-organisation'] if org in register]
+
+        row['government-organisation'] = ';'.join(sorted(orgs))
+
         print(sep.join([row[field] for field in fields]))
