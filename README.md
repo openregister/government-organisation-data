@@ -11,7 +11,7 @@ A register needing to reference public sector organisations may use a "public-bo
 
 # Lists, fixes and maps
 
-See https://openregister.github.io/report
+You can see the report generated from the lists, fixes and maps in this repository: https://openregister.github.io/government-organisation-data/report/
 
 # Other lists
 
