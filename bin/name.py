@@ -32,6 +32,9 @@ def n7e(s):
     # remove non-latin-alphanumerics
     s = re.sub('[^a-z0-9 ]', '', s)
 
+    # Her Majesty's -> HM
+    s = re.sub('her majestys', 'hm', s)
+
     # translate words
     w = [words.get(word, word) for word in s.split()]
 
