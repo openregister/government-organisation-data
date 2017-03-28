@@ -325,7 +325,8 @@ for list_name in lists:
 <thead>
     <tr>
 """)
-        file.write("<th>%s</th>" % register_name)
+        if register_name not in lists[list_name]['fields']:
+            file.write("<th>%s</th>" % register_name)
         for field in lists[list_name]['fields']:
             file.write("<th>%s</th>\n" % field)
         file.write("""
@@ -342,7 +343,8 @@ for list_name in lists:
                 code = maps[map_key]['map'].get(key, {}).get(register_name, '')
 
             file.write("<tr>")
-            file.write("<td>%s</td>" % code)
+            if register_name not in lists[list_name]['fields']:
+                file.write("<td>%s</td>" % code)
             for field in lists[list_name]['fields']:
                 file.write("<td>%s</td>\n" % row[field])
             file.write("</tr>")
