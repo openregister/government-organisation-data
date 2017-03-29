@@ -47,7 +47,7 @@ for f in fixups:
     path = fixups[f].get('path', "fixup/%s.tsv" % (f))
     if (os.path.exists(path)):
         reader = csv.DictReader(open(path), delimiter=sep)
-        key = lists[l]['key'] = reader.fieldnames[0]
+        key = fixups[f]['key'] = reader.fieldnames[0]
         fixups[f]['fixup'] = {}
         for row in reader:
             fixups[f]['fixup'][row[key]] = row
@@ -199,7 +199,7 @@ for key in sorted(lists):
     print("<tr>")
     print('<td class="name"><a href="lists/%s">%s</a></td>' % (key, key))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['name']))
-    print("<td>%s</td>" % row['key'])
+    print("<td>%s</td>" % (row['key']))
     print("<td class='count'>%s</td>" % (len(row['mapped'])))
     print("<td class='count'>%s</td>" % (len(row['list'])))
     print("</tr>")
