@@ -6,6 +6,8 @@ miso:
   name: Crown Commercial Service management information system online identifier
 oscar:
   name: The Online System for Central Accounting and Reporting (OSCAR)
+coins:
+  name: Combined Online Information System (COINS) organisations
 uuid:
   name: Universally Unique Identifier value for the organisation on data.gov.uk
 name:

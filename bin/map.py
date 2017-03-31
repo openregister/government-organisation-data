@@ -5,14 +5,14 @@ import sys
 import csv
 
 # usage
-fixup_path = sys.argv[1]
-name_path = sys.argv[2]
+key = sys.argv[1]
+code = sys.argv[2]
+fixup_path = sys.argv[3]
+name_path = sys.argv[4]
 
 names = {}
 codes = {}
 
-code = 'oscar'
-key = 'government-organisation'
 sep = '\t'
 fields = [code, key]
 
@@ -26,10 +26,12 @@ for row in csv.DictReader(open(name_path), delimiter=sep):
 
 # read source list
 for row in csv.DictReader(sys.stdin, delimiter=sep):
-    if row['name'] in names:
-        row[register] = row[key]
+    name = n7e(row['name'])
+    if name in names:
+        codes[row[code]] = names[name]
 
-    codes[row[code]] = row.get(key, '')
+    if key in row:
+        codes[row[code]] = row[key]
 
 # assert fixup codes
 for row in csv.DictReader(open(fixup_path), delimiter=sep):
