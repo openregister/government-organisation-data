@@ -8,7 +8,7 @@ fields = ['abbreviation', 'government-organisation']
 sep = '\t'
 
 register = {}
-register_path = sys.argv[2]
+register_path = sys.argv[1]
 
 abbreviations = {}
 abbreviation_path = sys.argv[2]
