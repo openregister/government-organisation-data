@@ -30,7 +30,10 @@ def n7e(s):
     s = re.sub('(x[0-9]*)', '', s)
 
     # remove non-latin-alphanumerics
-    s = re.sub('[^a-z0-9 ]', '', s)
+    s = re.sub('[^a-z0-9 ]', ' ', s)
+
+    # Her Majesty's -> HM
+    s = re.sub('united kingdom', 'uk', s)
 
     # Her Majesty's -> HM
     s = re.sub('her majestys', 'hm', s)
