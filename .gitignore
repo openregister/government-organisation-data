@@ -62,3 +62,4 @@ cache
 environment.sh
 raw_addresses
 *.swp
+tmp
