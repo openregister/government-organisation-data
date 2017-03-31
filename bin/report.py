@@ -334,7 +334,7 @@ for list_name in lists:
 </thead>
 <tbody>
 """)
-        for key in lists[list_name]['list']:
+        for key in sorted(lists[list_name]['list']):
             row = lists[list_name]['list'][key]
             map_key = lists[list_name]['key']
 
