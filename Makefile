@@ -13,6 +13,8 @@ REPORT=report/index.html
 #
 SOURCE=lists/govuk/list.tsv
 
+OSCAR_LIST=lists/oscar/list.tsv
+
 LISTS=$(wildcard lists/*/list.tsv)
 
 #
@@ -31,8 +33,9 @@ FIXUPS=\
 #
 MAPS=\
 	maps/abbreviation.tsv\
+	maps/govuk.tsv\
 	maps/name.tsv\
-	maps/govuk.tsv
+	maps/oscar.tsv
 
 all: $(REGISTER) $(MAPS) $(REPORT)
 
@@ -40,6 +43,9 @@ $(REGISTER):	bin/government-organisation.py $(FIXUPS) $(SOURCE)
 	@mkdir -p data/government-organisation
 	python3 bin/government-organisation.py $(FIXUPS) < $(SOURCE) > $@
 
+#
+# maps
+#
 maps/govuk.tsv:	$(SOURCE) $(REGISTER) bin/govuk.py
 	@mkdir -p maps
 	python3 bin/govuk.py $(REGISTER) < $(SOURCE) > $@
@@ -52,9 +58,17 @@ maps/abbreviation.tsv:	$(REGISTER) $(SOURCE) fixup/abbreviation.tsv bin/abbrevia
 	@mkdir -p maps
 	python3 bin/abbreviation.py $(REGISTER) fixup/abbreviation.tsv < $(SOURCE) > $@
 
+maps/oscar.tsv:	$(REGISTER) $(OSCAR_LIST) fixup/oscar.tsv maps/name.tsv bin/oscar.py
+	@mkdir -p maps
+	python3 bin/oscar.py fixup/oscar.tsv maps/name.tsv < $(OSCAR_LIST) > $@
+
+#
+# report
+#
 $(REPORT):	$(REGISTER) $(LISTS) $(MAPS) maps/index.yml lists/index.yml bin/report.py
 	@mkdir -p report
 	python3 bin/report.py report/lists/ > $@
+
 
 # remove targets
 clobber:

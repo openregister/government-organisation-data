@@ -79,11 +79,11 @@ for l in lists:
         m = register
     elif key in maps and 'map' in maps[key]:
         m = maps[key]['map']
-        lists[l]['mapped'] = []
     else:
         m = {}
 
     lists[l]['mapped'] = [v for v in lists[l]['list'] if v in m and 'government-organisation' in m[v] and m[v]['government-organisation']]
+
 
 
 #

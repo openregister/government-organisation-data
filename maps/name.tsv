@@ -55,6 +55,7 @@ The 1825 Project Limited
 2010 Rotherham Ltd	
 2012 Liverpool	
 20-20 Housing Co-operative Limited	
+Mod 207 Manchester Fd Hosp V	
 22 Engineer Barracks	
 225Â Divisional General SupportÂ Medical RegimentÂ VÂ RHQ	
 23 Pioneer Regiment	
@@ -66,6 +67,7 @@ The 1825 Project Limited
 256 Field Hospital	
 28a Supported Living Limited	
 29 CDO REGT RA	
+MOD 29 Regiment RLC	
 299 Signal Squadron	
 2gether NHS Foundation Trust	
 2nd Battalion TheÂ Duke of Lancaster'sÂ Regiment	
@@ -80,6 +82,7 @@ The 1825 Project Limited
 30 Signal Regiment	
 309 (Sawbridgeworth) Air Training Corps	
 34F Balham and Tooting Air Training Corps	
+Mod; 37 Section Sib Uk	
 38 Irish Brigade	
 383 CDO PET TP RLC V	
 39 Engineer Regiment	
@@ -94,6 +97,7 @@ The 1825 Project Limited
 400 Troop, Royal Logistics Corps	
 40th Fife (Touch) Scout Group	
 41 Sqn Rct Lex Trans Fleet	
+MOD 42 CDO Room	
 42 Engineer Regiment Geographic	
 42nd Street Community Based	
 45 Commando Royal Marines	
@@ -861,9 +865,6 @@ Acorns Childrens Hospice Trust
 Acorns Primary School	
 Acorns Selly Oak	
 Acorus Rural Property Services Limited	
-Acre Hall Academy	
-Acre Rigg Academy	
-Acre Rigg Infant School	
 Acres Hill Primary School	
 ACS Cobham International School	
 Acs Hillingdon International School	
@@ -1085,12 +1086,13 @@ Advisory Committee on Work-Life Balance
 ADVISORY, CONCILIATION AND ARBITRATION SERVICE	PB28
 Advisory Conciliation and Arbitration Service	PB28
 Advisory, Conciliation and Arbitration Service	PB28
-Advisory, Conciliation and Arbitration Service (ACAS)	
-Advisory, Conciliation and Arbitration Service (Acas)	
+Advisory, Conciliation and Arbitration Service (ACAS)	PB28
+Advisory, Conciliation and Arbitration Service (Acas)	PB28
+BEIS - ADVISORY CONCILIATION AND ARBITRATION SERVICE	PB28
 Advisory, Conciliation and Arbitration Service Certification Office for Trade Union Employers’ Central, Arbitration Committee	
 Advisory Council on Libraries	
 Advisory Council on the Misuse of Drugs	PB271
-Advisory Council on the Misuse of Drugs (ACMD)	
+Advisory Council on the Misuse of Drugs (ACMD)	PB271
 Advisory Council on National Records and Archives	PB438
 The Advisory Council on National Records and Archives	PB438
 Advisory Council on Public Records	
@@ -1195,7 +1197,6 @@ Aggregator Vehicle PLC
 Aggregator Vehicle Plc	
 Agilisys Limited	
 AGMA	
-AGO - ATTORNEY GENERAL'S OFFICE	
 Agri Food and Biosciences Institute	
 Agricultural Development and Advisory Service	
 Agricultural Dwelling House Advisory Committees (x16)	PB421
@@ -1220,6 +1221,7 @@ Agriculture and Food Science Centre
 AGRICULTURE & HORTICULTURE DEVELOPMENT BOARD	OT204
 Agriculture & Horticulture Development Board	OT204
 Agriculture and Horticulture Development Board	OT204
+DEFRA - AGRICULTURE & HORTICULTURE DEVELOPMENT BOARD	OT204
 Agri-Food & Biosciences Institute	
 Agri-Food and Biosciences Institute	
 Agri-Food and Biosciences Institute (Northern Ireland)	PB1072
@@ -1355,6 +1357,7 @@ Albany School
 Albany School The	
 Albany Science College	
 Albemarle Primary School	
+MOD Albermarle Barracks	
 Albert Elliott Primary School	
 Albert Primary School	
 Albert Pritchard Infant School	
@@ -1860,7 +1863,7 @@ Animal Diseases Research Association
 Animal Health	EA900
 Animal Health Trust	
 Animal Health and Veterinary Laboratories Agency	EA52
-Animal Health and Veterinary Laboratories Agency (DEFRA)	
+Animal Health and Veterinary Laboratories Agency (DEFRA)	EA52
 Animal Health and Veterinary Laboratories Association	
 Animal Planet (Latin Am) (50%) (sBBCW) (Associate)	
 Animal and Plant Health Agency	EA1079
@@ -1868,7 +1871,7 @@ Animal Procedures Committee	OT589
 Animal Welfare Advisory Committee (MOD)	
 Animals Asia Foundation	
 Animals in Science Committee	PB534
-Animals in Science Committee (ASC)	
+Animals in Science Committee (ASC)	PB534
 Anite Public Sector Limited	
 Anjuman E Burhani London	
 Ann Harris Academy Trust The	
@@ -1947,8 +1950,8 @@ Apostolic Church
 Apostolic Church TA Saron Christian Fellowship	
 Appeal Body (DVTA)	
 Appeals Service	
-Appeals Service Agency	EA847
 Appeals Service (DWP)	
+Appeals Service Agency	EA847
 Apple Dental Practice	
 Apple and Pear Research Council	
 Apple and Pear Research Council (APRC)	
@@ -2065,6 +2068,7 @@ Architectural Assoc School
 Architectural Heritage Fund	
 Architecture and Design Scotland	
 Architecture MK	
+NDA Archives Limited	
 Archon 2000	
 Archway Court Childrens Day Care Nursery	
 Archway Primary Care Team	
@@ -2201,6 +2205,7 @@ Armstrong Home of Rest The
 Armthorpe School The	
 The Armthorpe School	
 Armthorpe Shaw Wood Academy Limited	
+MOD Army	
 Army and Airforce Exchange Service	
 Army Base Repair Organisation	EA816
 Army Base Repair Organisation (ABRO)	
@@ -2293,6 +2298,7 @@ Artlink Limited
 Arts and Business Group	
 ARTS COUNCIL	
 Arts Council England	PB165
+DCMS - ARTS COUNCIL ENGLAND	PB165
 The Arts Council England	PB165
 Arts Council for Wales National Lottery	
 Arts Council of England	
@@ -2310,8 +2316,9 @@ Arts Guild Theatre
 Arts and Humanities Research Board	
 ARTS AND HUMANITIES RESEARCH COUNCIL	PB123
 Arts and Humanities Research Council	PB123
+Arts and Humanities Research Council (AHRC)	PB123
 Arts and Humanities Research Council, The	PB123
-Arts and Humanities Research Council (AHRC)	
+BEIS - ARTS & HUMANITIES RESEARCH COUNCIL	PB123
 Arts and Humanities Research Council - from 07-08 AHC063	
 Arts Institute at Bournemouth	
 ARTS UNIVERSITY BOURNEMOUTH	
@@ -2333,6 +2340,7 @@ Arup
 Arvon National	
 ASBO All Skate Boarding Outcasts	
 Asby Endowed School	
+MOD Ascension Island	
 Ascension Island Base	
 Ascension Island Government	
 Ascension Island Personnel Ltd (50%) (sWS) (Associate)	
@@ -2592,6 +2600,7 @@ Association of Colleges
 Association Of Colleges In The Eastern Region	
 Association of Colleges in the Eastern Region	
 Association Of Commonwealth Universities	
+DFT - ASSOCIATION OF COMMUNITY RAIL PARTNERSHIP	
 Association of Graduate Careers Advisory Services	
 Association of Greater Manchester Authorities	
 ASSOCIATION OF HEALTH PROFESSIONS IN OPHTHALMOLOGY	
@@ -2732,6 +2741,7 @@ ATTAIN HEALTH MANAGEMENT SERVICES LTD
 Attleborough High School	
 Attleborough School	
 Attleborough Surgeries	
+AGO - ATTORNEY GENERAL'S OFFICE	D1
 Attorney General's Office	D1
 Attorney General’s Office	D1
 The Attorney General's Office	D1
@@ -3450,6 +3460,7 @@ Baxter Healthcare Oxford
 Baxter Healthcare Stockport	
 Baxter Healthcare Thetford	
 Batford Nursery School	
+MOD Bath	
 Bath Abbey Limited	
 Bath Academy	
 Bath Centre For Voluntary Service Homes	
@@ -3532,37 +3543,6 @@ Baysgarth School
 Bayside Family Practice	
 Bayston Hill Parish Council	
 BBC	PC388
-BBC Belfast	
-BBC Children In Need Appeal	
-BBC Commercial Holdings Limited	
-BBC do Brazil Limitada (Brazil) (sWS)	
-BBC East Asia Relay Company Ltd [Hong Kong] (s WS)	
-BBC Haymarket Exhibitions Ltd (50%) (sBBCW) (Associate)	
-BBC Magazines Inc. [USA] (s BBCW)	
-BBC Media Action	
-BBC Parliament	
-BBC Pension Scheme	
-BBC Polska SP Zoo [Poland] (s WS)	
-BBC Procurement	
-BBC Radiocom (Bulgaria) OLLC [Bulgaria] (s WS)	
-BBC Radiocom Deutschland GmbH (Germany) (sWS)	
-BBC Radiocom (Hungary) Ltd [Hungary] (s WS)	
-BBC Radiocom (Praha) Sro [Czech Republic] (s WS)	
-BBC Radiocom (Romania) SRL [Romania] (s WS)	
-BBC Radiocom (Slovakia) Ltd [Slovakia] (s WS)	
-BBC Wales	
-BBC Workplace	
-BBC World Service	PC427
-BBC World Service Television Ltd (s BBCW)	
-BBC World Service Training Trust (s WS)	
-BBC World Service (WS)	
-BBC Worldwide Americas Inc.[USA] (s BBCW)	
-BBC Worldwide Channel Investment Ltd (s BBCW)	
-BBC Worldwide (France) SARL [France] (s BBCW)	
-BBC Worldwide (Germany) GMBH [Germany] (s BBCW)	
-BBC Worldwide (Investments) Ltd (s BBCW)	
-BBC Worldwide Ltd (BBCW)- (s HS)	
-BBC Worldwide Music Ltd (s BBCW)	
 BBG Academy	
 BBG Academy Trust	
 BC Holdings (Thailand) Limited	
@@ -3571,11 +3551,8 @@ BC Language Teaching (Thailand) Limited
 BC Language Teaching (Thailand) Ltd	
 BC Operations (Thailand) Limited	
 BC Operations (Thailand) Ltd	
-BCE Corporate Functions Ltd	
 BCH Procurement (Representing The Police and Crime Commissioners for Bedfordshire, Cambridgeshire and Hertfordshire )	
 Bcm International Uk	
-BCS College	
-BCS Management Services	
 BCVS Homes	
 BDL Contracts and Design PLC	
 BDO Leeds	
@@ -3850,34 +3827,6 @@ Bexhill Academy
 Bexhill College	
 Bexhill High School	
 Behind Closed Doors	
-BEIS - ADVISORY CONCILIATION AND ARBITRATION SERVICE	
-BEIS - ARTS & HUMANITIES RESEARCH COUNCIL	
-BEIS - BIOTECHNOLOGY & BIOLOGICAL  SCIENCES RESEARCH COUNCIL	
-BEIS - COMPANIES HOUSE	
-BEIS - CONSTRUCTION INDUSTRY TRAINING BOARD	
-BEIS - CORE	
-BEIS - ECONOMIC AND SOCIAL RESEARCH COUNCIL	
-BEIS - ENGINEERING & PHYSICAL SCIENCES RESEARCH COUNCIL	
-BEIS - HIGHER EDUCATION FUNDING COUNCIL FOR ENGLAND	
-BEIS - INNOVATE UK	
-BEIS - INSOLVENCY SERVICE	
-BEIS - INTELLECTUAL PROPERTY OFFICE	
-BEIS - LLT VEHICLE DISPOSALS	
-BEIS - MEDICAL RESEARCH COUNCIL	
-BEIS - MET OFFICE	
-BEIS - NATIONAL MEASUREMENT AND REGULATION OFFICE	
-BEIS - NATIONAL PHYSICAL LABORATORY	
-BEIS - NATURAL ENVIRONMENT RESEARCH COUNCIL	
-BEIS - ORDNANCE SURVEY LTD	
-BEIS - SCIENCE & TECHNOLOGY FACILITIES COUNCIL	
-BEIS - SKILLS FUNDING AGENCY	
-BEIS - STUDENT LOANS COMPANY LTD	
-BEIS - UK ATOMIC ENERGY AUTHORITY	
-BEIS - UK GREEN INVESTMENT BANK	
-BEIS - UK SHARED BUSINESS SERVICE LTD	
-BEIS - UK SPACE AGENCY	
-Beis Yaakov High School	
-Beis Yaakov Primary School	
 Beit Trust The	
 Beith Primary School	
 Belchamp St Paul Primary School	
@@ -3899,6 +3848,7 @@ Bexley United Charities
 Bexleyheath Academy	
 Bexleyheath School	
 Belfairs High School	
+BBC Belfast	
 Belfast Airport	
 Belfast Bible College	
 Belfast Boys Model School	
@@ -4212,10 +4162,12 @@ Bewsey Lodge Primary School
 Beyond Autism	
 BeyondAutism	
 Beyton Middle School	
+MOD BFG C&C	
 BGC Limited	
 BGSW CRC	
 BHA Housing 2014 Limited	
 BHT Advice	
+MOD Bhurtpore Barracks	
 Bhylls Acre Primary School	
 Bible and Gospel Trust	
 Bible Reading Fellowship	
@@ -4258,19 +4210,8 @@ Bield Housing Association
 Bield Housing & Care	
 Bierley Community Association Limited	
 Bierton Combined School	
-Big Brothers and Sisters	
-Big Issue Cooperate	
-Big Issue Foundation The	
-Big Issue Invest	
-BIG LOTTERY FUND	PB188
-BIG Lottery Fund	PB188
-Big Lottery Fund	PB188
-Big Lottery Fund The	PB188
-The Big Lottery Fund	PB188
-Big Society Capital	
-Big Society Foundation	
-Big Society Trust	
-Big Wood School	
+DCMS - BIG LOTTERY FUND	
+The Big Lottery Fund	
 Biggin Hill Aerodrome	
 Biggin Hill Christian Fellowship	
 Biggin Hill Primary Academy	
@@ -4330,6 +4271,7 @@ The Biorenewables Development Centre Ltd
 BioSS	
 Biosystems Informatic Institute	
 BIOTECHNOLOGY & BIOLOGICAL SCIENCES RESEARCH CNCL	
+BEIS - BIOTECHNOLOGY & BIOLOGICAL  SCIENCES RESEARCH COUNCIL	PB317
 Biotechnology and Biological Sciences Research Council	PB317
 Biotechnology and Biological Sciences Research Council (The)	PB317
 Biotechnology and Biological Sciences Research Council - from 07-08 BRC063	
@@ -4482,10 +4424,7 @@ Birstwith School
 Birtenshaw Hall School	
 Birtle View Special School	
 Birtley Medical Group	
-BIS	
-BIS (Finance)	
-BIS (Postal Services Act 2011) B Company Limited	
-BIS (Postal Services Act 2011) Company Limited	
+BIS	D3
 Biscovey Infant School	
 Biscovey Junior School	
 Bisham School	
@@ -4895,6 +4834,7 @@ BNFL plc
 BNFL Properties Limited - (s BNG / BNFL)	
 Bnos Beis Yaakov Primary School Limited	
 BNR Agency	
+PO Box 60 (awaiting name update)	
 Box Church of England Primary School	
 Box Hill School	
 Box Moor Trust The	
@@ -5071,6 +5011,7 @@ Borrowdale C Of E School
 Borrowdale Church of England School	
 Borstal Manor Community School	
 Boscastle Primary School	
+MOD Boscombe	
 Boscombe Family Drop In	
 Boscombe Rotary and Inner Wheel Housing Assoc Limited	
 Boscombe Rotary & Inner Wheel Housing Assoc Ltd	
@@ -5791,6 +5732,7 @@ Bristol Metropolitan Academy
 Bristol Missing Link Limited	
 Bristol Municipal Charities	
 Bristol Music Trust	
+MOD Bristol NP-IPT	
 Bristol Nuffield Hospital	
 Bristol Old Vic Theatre School	
 Bristol PCT	
@@ -5813,6 +5755,7 @@ Brit College
 BRIT School The	
 The BRIT School Limited	
 Brit School Ltd	
+Tate Britain	
 Britannia Bridge Primary School	
 Britannia Primary School and Nursery	
 Britannia Royal Naval College	
@@ -5860,6 +5803,7 @@ British College of Ostepathic Medicine
 British Computer Society	
 British Contract Furnishing Association	
 British Council	OT313
+FCO - BRITISH COUNCIL	OT313
 BRITISH COUNCIL(THE)	
 British Cycling Federation	
 British Dermatological Nursing Group	
@@ -5868,7 +5812,7 @@ British Diabetic Association
 British Dietetic Association The	
 British Dyslexia Association	
 British Educational Communications and Technology Agency	EA932
-British Educational Communications and Technology Agency (BECTA)	
+British Educational Communications and Technology Agency (BECTA)	EA932
 British Electricity Authority	
 British Electrotechnicals Approvals Board	
 British Empire and Commonwealth Museum	
@@ -5879,6 +5823,7 @@ British Film Commission
 British Film Institue	
 BRITISH FILM INSTITUTE	PB189
 British Film Institute	PB189
+DCMS - BRITISH FILM INSTITUTE	PB189
 British Film Institute Lottery	
 BRITISH FORCES CYPRUS	
 British Forces Germany	
@@ -5910,6 +5855,7 @@ British Institute of Radiology
 British And Irish Association of Zoos and Aquariums	
 British Judo Association	
 British Library	PB166
+DCMS - BRITISH LIBRARY	PB166
 The British Library	PB166
 British Lung Foundation	
 British Medical Association	
@@ -5917,6 +5863,7 @@ British Medical Journal
 British Medical Ultrasound Society	
 BRITISH MUSEUM	PB167
 British Museum	PB167
+DCMS - BRITISH MUSEUM	PB167
 The British Museum	PB167
 British Museum Company Ltd	
 British Museum Great Court Limited	
@@ -5979,6 +5926,7 @@ British Trade International
 British Transport Police	
 BRITISH TRANSPORT POLICE AUTHORITY	PB461
 British Transport Police Authority	PB461
+DFT - BRITISH TRANSPORT POLICE AUTHORITY	PB461
 British Transport Police (sSRA)	
 British Trust for Ornithology	
 British Universities Film and Video Council	
@@ -6276,6 +6224,7 @@ Brothers Of Charity
 Brothers of Charity Services	
 Brothers Of Charity Services Scotland The	
 Brothers of the sacred heart	
+Big Brothers and Sisters	
 Brotherton and Byram Primary School	
 Broxtowe Borough Council	
 Broxtowe Womens Project	
@@ -6467,6 +6416,8 @@ Buick Memorial Primary School
 Build Africa	
 Building Change Trust	
 Building and Civil Engineering Holiday Scheme Management	
+CNC Building Control Consultancy	
+CNC Building Control Consultancy Joint Committee	
 Building Crafts College The	
 Building for Northumberland Limited	
 Building Regulation Advisory Committee	
@@ -6677,7 +6628,6 @@ Business Growth Hub
 THE BUSINESS GROWTH HUB LIMITED	
 Business In The Community	
 Business, Innovation and Skills	D3
-Business, Innovation and Skills Department for (BIS)	
 Business Link County Durham	
 Business Link Devon and Cornwall	
 Business Link For London	
@@ -6776,7 +6726,6 @@ C S W Partnership
 C V S N W K	
 C2K	
 C3 Church	
-CAA INTERNATIONAL LIMITED	
 CAB	
 CAB International	
 CABE	
@@ -7194,7 +7143,7 @@ Capital Comm Fdn
 Capital for Enterprise Fund Managers Limited	
 Capital for Enterprise (GP) Limited	
 Capital for Enterprise Limited	PB147
-Capital for Enterprise Limited (CfEL)	
+Capital for Enterprise Limited (CfEL)	PB147
 Capital For Enterprise Ltd	
 Capital for Enterprise Ltd	
 Captain Cook Primary School	
@@ -7288,6 +7237,7 @@ Care Plus Group
 Care Procurement	
 CARE QUALITY COMMISSION	PB251
 Care Quality Commission	PB251
+DH - CARE QUALITY COMMISSION	PB251
 Care and Relief for the Young	
 Care and Repair	
 Care and Repair Limited	
@@ -7605,7 +7555,6 @@ Castlion Primary School
 Caston CE VA Primary School	
 Castor Primary School	
 Casy	
-Cat Chat	
 Catalyst Academy Trust	
 Catalyst Choices Community Interest	
 Catalyst Housing Group	
@@ -7707,10 +7656,9 @@ CBC/HDC/MSDC Shared Procurement Service
 CBED UK ON LINE	
 CBHA	
 CBSSBC FIRE	
-Ccc Management Team	
 C-Change for Inclusion	
-CCS - Crown Commercial Services	
 CCTA- The Government Centre for Information Systems	
+HMRC CD	
 CD - Home Office Commercial Directorate	
 CDC	
 CDC Group	
@@ -7742,7 +7690,7 @@ Cedarwood Primary School
 Ceder Foundation The	
 The Ceder Foundation	
 CEEP UK	
-CEFAS	
+CEFAS	EA53
 Cefn Coed Hospital	
 Cefn Community Council	
 Cefn Cribwr Primary School	
@@ -7762,6 +7710,7 @@ Celtic Community Leisure
 Census 1901	
 Census 2001 Scotland	
 CENTRA Education and Training Services Limited	
+DCLG - CENTRAL	
 Central Adjudication Services	
 Central Advisory Committee on Compensation	PB1194
 Central Advisory Committee on Justices of the Peace (Scotland)	
@@ -7853,12 +7802,14 @@ Central Supplies Organisation Pontypool
 Central Surrey Health	
 Central Sussex College	
 Central Technology College Grantham	
+MoD Central Top Level Budget	
 Central Walsall Housing Trust Limited	
 Central Young Mens Christian Association	
 Centre The	
 The Centre	
 Centre 70	
 Centre Academy London	
+MOD Centre Block	
 Centre for Alternative Technology Charity Limited	
 Centre for Applied Science and Technology	
 Centre for British Teachers The	
@@ -7876,7 +7827,7 @@ Centre for Environment, Fisheries and
 Centre for Environment Fisheries and Aquaculture Science	EA53
 Centre for Environment, Fisheries & Aquaculture Science	EA53
 Centre for Environment, Fisheries and Aquaculture Science	EA53
-Centre for Environment, Fisheries and Aquaculture Science (CEFAS)	
+Centre for Environment, Fisheries and Aquaculture Science (CEFAS)	EA53
 Centre for Environment, Fisheries and Aquaculture Science (CEFAS) (DEFRA)	
 Centre for Environment Fisheries and Aquaculture Science Technology Ltd	
 Centre for Environmental Data Analysis	
@@ -8198,6 +8149,7 @@ Chasebridge Infants School
 Chaseley Trust The	
 Chasetown Specialist Sports College	
 Chaseways	
+Cat Chat	
 Chater Community Housing Limited	
 Chater Infant School	
 Chatham Boys Grammar School	
@@ -8445,9 +8397,6 @@ Chetwynd Primary Academy
 Chetwynd Road Primary School	
 Chetwynde School	
 Cheveley COFE Primary School	
-Chevening Estate/Trust	
-Chevening Foundation	
-Chevening Scholarship Programme	OT492
 Chevin Housing Association Limited	
 Chevin Housing Group	
 Chevining CEP School	
@@ -8517,8 +8466,10 @@ Children 1st
 Children and Families Care Services	
 Children and Families Limited	
 Children and Family Court Advisory and Support Service	PB246
+Children and Family Court Advisory and Support Service (CAFCASS)	PB246
+MOJ - CHILDREN & FAMILY COURT ADVISORY & SUPPORT SERVICE	PB246
 The Children and Family Court Advisory and Support Service	PB246
-Children and Family Court Advisory and Support Service (CAFCASS)	
+BBC Children In Need Appeal	
 Children Poverty Action Group	
 Children with Aids Charity	
 Children's Ark Partnership	
@@ -8847,6 +8798,7 @@ Churchdown Village Infant School
 Churchend Primary School	
 CHURCHES CONSERVATION TRUST	
 Churches Conservation Trust	
+DCMS - CHURCHES CONSERVATION TRUST	
 The Churches Conservation Trust	
 Churches Housing Assoc of Dudley and District Limited	
 Churches Housing Assoc of Dudley & District Ltd	
@@ -9069,10 +9021,11 @@ CityDoc Birmingham
 CityWest Homes Ltd	
 Civil Aid Voluntary Rescue Association	
 Civil Aviation Authority	PC469
-Civil Aviation Authority (CAA)	
+Civil Aviation Authority (CAA)	PC469
 Civil Aviation Authority International Ltd (CAA International Ltd)	
 Civil Justice Council	PB293
 Civil Nuclear Constabulary	OT1063
+DECC - CIVIL NUCLEAR CONSTABULARY	OT1063
 Civil Nuclear Police Authority	PB194
 Civil Nuclear Police Authority (CNPA)  / Civil Nuclear Constabulary CNC)	
 CIVIL NUCLEAR POLICE AUTHORITY AND CONSTABULARY	
@@ -9238,6 +9191,7 @@ Cleveland Police Federation
 Cleves Cross Primary School	
 Cleves School	
 CLG COMMUNITIES	
+DCLG - CLG CULTURAL ASSETS	
 CLG LOCAL GOVERNMENT	
 Clh Healthcare	
 Clic Sargent Cancer Care For Children	
@@ -9354,13 +9308,9 @@ Clyst Vale Academy Trust
 Clyst Vale School	
 Clytha Primary School	
 Clywd County Council	
-C.M.A Community Nursery Limited	
-C.M.A Community Nursery Ltd	
-CMA - COMPETITION AND MARKETS AUTHORITY	
+DWP - CMG	
 CMJ UK	
 CMSS Skills Development Centre	
-CNC Building Control Consultancy	
-CNC Building Control Consultancy Joint Committee	
 Cnt For Global Energy	
 Cntre 33	
 CNWL NHS Foundation Trust	
@@ -9377,6 +9327,7 @@ Coactiva Aspiren Limited
 COAL AUTHORITY	PB195
 Coal Authority	PB195
 Coal Authority The	PB195
+DECC - COAL AUTHORITY	PB195
 The Coal Authority	PB195
 Coal Authority - from 08-09 COL066	
 Coal Developments (Queensland) Ltd - (s BCC)	
@@ -9534,6 +9485,7 @@ Collace Primary
 Collections Trust	
 Collective Spirit	
 Collective Training Group CTG	
+BCS College	
 College Academies Trust c/o The Discovery Academy, the	
 College Buildings and Estates	
 College Court Conference Centre Limited	
@@ -9668,6 +9620,7 @@ Comm Council Shrops
 Commando Training Centre	
 Commercial	
 Commercial Court	CO1159
+BBC Commercial Holdings Limited	
 COMMERCIAL MEDICINES UNIT	
 Commercial - Rail and Underground	
 Commercial - Services	
@@ -9715,6 +9668,7 @@ Commissioners for the Reduction of National Debt
 Commissioners for the Reduction of the National Debt	
 Commissioners of Irish Lights	
 Commissioners of Irish Lights, The	
+DFT - COMMISSIONERS OF IRISH LIGHTS	
 The Commissioners of Irish Lights	
 Commissioners of Taxes for the City of London	
 Commissioning Business Service	
@@ -9781,7 +9735,6 @@ Communication for Blind People
 Communications Electronics Security Group	
 Communications for Business	
 Communications Unlimited	
-Communities and Local Government, Department of (DCLG)	
 Communities Rehabilitation Companies (May 2014- Jan 2015)	
 Communities Scotland	
 Community	
@@ -9797,6 +9750,7 @@ Community Central Hall
 Community Church The	
 Community College The	
 Community College Bishops Castle The	
+OFFA Community Council	
 Community Council for Berkshire	
 Community Council of Shropshire	
 Community Councils (Scotland) (En Bloc)	
@@ -9856,6 +9810,8 @@ Community Music School
 Community Music Wales	
 Community Nursery Centre Village Practice The	
 The Community Nursery Centre Village Practice	
+C.M.A Community Nursery Limited	
+C.M.A Community Nursery Ltd	
 Community Options	
 Community Projects North Devon	
 Community Recycling Network	
@@ -9880,8 +9836,9 @@ Community Ventures Company No 1
 Community and Voluntary Education	
 Coxmoor Primary School	
 Companies Court	
+BEIS - COMPANIES HOUSE	EA26
 Companies House	EA26
-Companies House (BIS)	
+Companies House (BIS)	EA26
 Companies Investigation Branch	
 Company Names Tribunal	PB1062
 Company of Angels	
@@ -9911,6 +9868,7 @@ Competition Appeal Tribunal	PB140
 Competition Appeals Tribunal	
 Competition Commission	PB353
 Competition Commission (successor to the Monopolies and Mergers Commission)	
+CMA - COMPETITION AND MARKETS AUTHORITY	D550
 COMPETITION AND MARKETS AUTHORITY	D550
 Competition & Markets Authority	D550
 Competition and Markets Authority	D550
@@ -9928,6 +9886,7 @@ Compton Housing Association Limited
 Compton School	
 Compton School The	
 Compton Verney House Trust	
+CSC Computer Sciences Limited	
 COMPUTERS FOR CHARITIES	
 Comrie Primary	
 Comtechsa Limitied	
@@ -9944,6 +9903,7 @@ Condlyffe Homes
 Condorrat Primary School	
 Coney Green High School	
 Coney Hill Primary School	
+LEASE Conferences Ltd	
 Confetti ICT	
 Congerstone Primary School	
 Congleton Borough Council	
@@ -10031,10 +9991,11 @@ Consortium for Purchasing and Distribution
 Consortium of Selective Schools in Essex, the	
 Constitution Hill Limited	
 Construction Industry Advisory Council (Northern Ireland)	
+BEIS - CONSTRUCTION INDUSTRY TRAINING BOARD	PB126
 CONSTRUCTION INDUSTRY TRAINING BOARD	PB126
 Construction Industry Training Board	PB126
+Construction Industry Training Board (CITB)	PB126
 Construction Industry Training Board, The	PB126
-Construction Industry Training Board (CITB)	
 Construction Industry Training Board - from 07-08 CIT063	
 Construction Industry Training Board (NI)	
 Construction Industry Training Board NI	
@@ -10205,6 +10166,7 @@ Cordeaux Academy
 Cordeaux School	
 Cordia	
 Cordwalles Junior School	
+BEIS - CORE	
 Corfe Castle Church of England First School	
 Corfe Hills School	
 Corfe Hills School Academy	
@@ -10278,7 +10240,9 @@ Cornwall Wildlife Trust
 Cornwallis Academy	
 Coroners	
 Corporate Body Of Lincoln Cathedral	
+DWP - CORPORATE CENTRE	
 Corporate Document Services Limited	
+BCE Corporate Functions Ltd	
 Corporate Hub	
 Corporate and Information Services Department	
 Corporate Parenting	
@@ -10549,20 +10513,8 @@ Cowplain Community School
 Cowplain Family Practice	
 Cowplain Secondary School	
 CPC Ministry of Defence	
+MOD CPET Procurement Services	
 CPR Regeneration	
-CPS - EAST MIDLANDS	
-CPS - EAST OF ENGLAND	
-CPS - HEADQUARTERS	
-CPS - NORTH EAST	
-CPS - NORTH WEST	
-CPS - SOUTH EAST	
-CPS - SOUTH WEST	
-CPS - THAMES & CHILTERN	
-CPS Truro	
-CPS - WALES	
-CPS - WESSEX	
-CPS - WEST MIDLANDS	
-CPS - YORKSHIRE & HUMBERSIDE	
 Cqms Pontrilas Army Training Area	
 Crabble Clinic	
 Crabbs’ Cross Academy	
@@ -10734,6 +10686,7 @@ Criminal Injuries Compensation Appeals Panel	OT837
 Criminal Injuries Compensation Appeals Panel (CICAP)	
 Criminal Injuries Compensation Appeals Panel for Northern Ireland	EA829
 Criminal Injuries Compensation Authority	PB297
+MOJ - CRIMINAL INJURIES COMPENSATION AUTHORITY	PB297
 Criminal Injuries Compensation Authority - from 07-08 CIC047	
 Criminal Injuries Compensation Authority Panel	
 Criminal Injuries Compensation Board	
@@ -10889,6 +10842,7 @@ Crown Commercial Service (CCS) (CO)
 Crown Commercial Service (DWP Contracts)	
 Crown Commercial Service (London)	
 Crown Commercial Service (Newport)	
+CCS - Crown Commercial Services	
 Crown Court Rule Committee	
 Crown Courts (En Bloc)	
 Crown Dale Medical Centre	
@@ -10960,7 +10914,6 @@ Crystal Palace Fc Foundation
 Crystal Palace Housing Association Limited	
 CRYSTAL PALACE PHYSIOTHERAPY and SPORT INJURY CENTRE	
 CSA	
-CSC Computer Sciences Limited	
 CSE - RBG	
 CSF Air Warfare Centre	
 CSM - RBG	
@@ -11019,7 +10972,6 @@ Cultra Manor Ulster Folk Museum
 Cultural Community Partnerships	
 Culture East Midlands	
 Culture East Midlands Limited	
-Culture, Media and Sport, Department for (DCMS)	
 Culture NL	
 Culture North East	
 Culture North East (North East Cultural Consortium)	
@@ -11171,8 +11123,6 @@ D E A F South Lanarkshire
 D L Colbourne	
 D V and D Communications Limited	
 D V L A	
-Da Learning	
-Da Vinci Community College	
 The Da Vinci Studio School of Creative Enterprise	
 The Da Vinci Studio School of Science and Technology	
 Dabd Havering	
@@ -11422,47 +11372,16 @@ Days Almshouse
 Days Almshouse Charity	
 Day's & Atkinson's Almshouse Charity	
 Days Lane Primary School	
-DBS - Disclosure & Barring Service	
-DCAL Northern Ireland Library Authority	
 DCET Training	
 DCH Group	
-DCLG	
-DCLG - CENTRAL	
-DCLG - CLG CULTURAL ASSETS	
-DCLG - FIRE CONTROL RESIDUAL ESTATE	
-DCLG - GOVERNMENT OFFICE RESIDUAL ESTATE	
-DCLG - HOMES AND COMMUNITIES AGENCY (OPERATIONAL)	
-DCLG - HOMES AND COMMUNITIES AGENCY (REGENERATION)	
-DCLG - QUEEN ELIZABETH II CONFERENCE CENTRE	
-DCLG - VALUATION TRIBUNAL SERVICE	
+DCLG	D4
 DCLPA	
-DCMS	
-DCMS - ARTS COUNCIL ENGLAND	
-DCMS - BIG LOTTERY FUND	
-DCMS - BRITISH FILM INSTITUTE	
-DCMS - BRITISH LIBRARY	
-DCMS - BRITISH MUSEUM	
-DCMS - CHURCHES CONSERVATION TRUST	
-DCMS - DEPARTMENT FOR CULTURE, MEDIA AND SPORT	
-DCMS - GAMBLING COMMISSION	
-DCMS - HISTORIC ENGLAND	
-DCMS - IMPERIAL WAR MUSEUM	
-DCMS - INFORMATION COMMISSIONERS OFFICE	
-DCMS - NATIONAL GALLERY	
-DCMS - NATIONAL HERITAGE MEMORIAL FUND	
-DCMS - NATIONAL MARITIME MUSEUM	
-DCMS - NATIONAL MUSEUMS LIVERPOOL	
-DCMS - NATIONAL PORTRAIT GALLERY	
-DCMS - NATURAL HISTORY MUSEUM	
-DCMS - ROYAL ARMOURIES	
-DCMS - SCIENCE MUSEUM GROUP	
-DCMS - SPORT ENGLAND	
-DCMS - TATE GALLERY	
-DCMS - VICTORIA AND ALBERT MUSEUM	
-DCMS - VISIT BRITAIN	
+DCMS	D5
+DCSA MOD	
+MOD DCSA Arncott	
 DCSA Defence Information Infrastructure	
 DCSA DFN CND	
-DCSA MOD	
+MOD DCSA DII	
 DDEFSY Ministry of Defence	
 DDGS	
 De Aston School	
@@ -11484,6 +11403,7 @@ De Lucy Primary School
 De Montfort Housing Society Limited	
 De Montfort University	
 De Stafford College	
+MOD DE USF	
 de Vere Primary School	
 De Warenne Academy	
 Deaf Action	
@@ -11539,14 +11459,7 @@ DEBRA
 Debt Management Account	
 Debut Services	
 Debut Services South West Limited	
-DECC	
-DECC - CIVIL NUCLEAR CONSTABULARY	
-DECC - COAL AUTHORITY	
-DECC - DEPARTMENT OF ENERGY AND CLIMATE CHANGE	
-DECC - DIRECT RAIL SERVICES LIMITED	
-DECC - NUCLEAR DECOMMISSIONING AUTHORITY - OCCUPIED	
-DECC - NUCLEAR DECOMMISSIONING AUTHORITY - OPERATIONAL	
-DECC - NUCLEAR DECOMMISSIONING AUTHORITY - PROPERTIES LTD	
+DECC	D11
 Decoy Primary School	
 Deddington Parish Council	
 Dedham Primary School	
@@ -11605,6 +11518,8 @@ Defence Equipment and Support Information Services and Systems Head of Change
 Defence Equipment and Support (Project Bennu)	
 Defence Equipment and Support (Project Roc)	
 Defence Equipment and Support SPCISR	
+MOD Defence Estate	
+MOD Defence Estate York	
 Defence Estates	OT713
 Defence Estates Agency	
 Defence Estates Organisation	
@@ -11621,7 +11536,7 @@ Defence Housing Assoc
 Defence Housing Executive	
 Defence Infrastructure Organiation	
 Defence Infrastructure Organisation	OT496
-Defence Infrastructure Organisation DIO	
+Defence Infrastructure Organisation DIO	OT496
 Defence Intelligence and Security Agency	
 Defence Intelligence and Security Centre	OT720
 Defence Intelligence and Security Centre DISC	
@@ -11649,13 +11564,14 @@ Defence School Of Languages
 Defence School Of Transport	
 Defence Science And Technology Laboratory	EA42
 Defence Science and Technology Laboratory	EA42
-Defence Science and Technology Laboratory (Dstl)	
-Defence Science and Technology Laboratory (The) (DSTL)	
+Defence Science and Technology Laboratory (Dstl)	EA42
+Defence Science and Technology Laboratory (The) (DSTL)	EA42
 Defence Science and Technology Laboratory (Dstl) (MOD)	
 Defence Scientific Advisory Council	PB397
 Defence Secondary Care Agency	
 Defence and Security Accelerator	OT1206
 Defence and Security Media Advisory Committee	OT1153
+UKTI Defence & Security Organisation (UKTI DSO)	
 Defence Sixth Form College	OT411
 Defence Storage and Distribution Agency	EA789
 Defence Supply Service	
@@ -11669,28 +11585,8 @@ Defence Works Services
 Defense Estates South	
 deFerrers Specialist Technology College	
 DEFLOG VQ TRUST	
-DEFRA	
-Defra	
-DEFRA - AGRICULTURE & HORTICULTURE DEVELOPMENT BOARD	
-DEFRA - DEPARTMENT FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS	
-DEFRA - ENVIRONMENT AGENCY ANGLIAN	
-DEFRA - ENVIRONMENT AGENCY FUNCTIONAL	
-DEFRA - ENVIRONMENT AGENCY HEAD OFFICE	
-DEFRA - ENVIRONMENT AGENCY - LAND REGISTER	
-DEFRA - ENVIRONMENT AGENCY MIDLANDS	
-DEFRA - ENVIRONMENT AGENCY NATIONAL LAB. SERVICE	
-DEFRA - ENVIRONMENT AGENCY NORTH EAST	
-DEFRA - ENVIRONMENT AGENCY NORTH WEST	
-DEFRA - ENVIRONMENT AGENCY SOUTH WEST	
-DEFRA - ENVIRONMENT AGENCY SOUTHERN	
-DEFRA - ENVIRONMENT AGENCY THAMES	
-Defra Investigation Services	
-DEFRA - JOINT NATURE CONSERVATION COMMITTEE	
-DEFRA - NATIONAL FOREST COMPANY	
-DEFRA - NATIONAL FOREST COMPANY OPERATIONAL	
-DEFRA - NATURAL ENGLAND	
-DEFRA - ROYAL BOTANIC GARDENS KEW	
-DEFRA - SEA FISH INDUSTRY AUTHORITY	
+DEFRA	D7
+Defra	D7
 Defrnce Infrastructure Organisation	
 Deighton Gates Primary School	
 Deighton Primary School	
@@ -11772,11 +11668,12 @@ Department for Business, Enterprise & Regulatory Reform	D611
 Department for Business, Enterprise and Regulatory Reform	D611
 Department for Business, Enterprise & Regulatory Reform (BERR)	
 Department for Business, Enterprise & Regulatory Reform: UKAEA pension schemes	
+Business, Innovation and Skills Department for (BIS)	D3
 Department For Business Innovation And Skills	D3
 Department for Business Innovation and Skills	D3
 Department for Business, Innovation & Skills	D3
 Department for Business, Innovation and Skills	D3
-Department for Business, Innovation and Skills (BIS)	
+Department for Business, Innovation and Skills (BIS)	D3
 Department for Business, Innovation and Skills: UKAEA pension schemes	
 Department for Children, Schools and Families	D609
 Department for Children, Schools and Families (DCSF)	
@@ -11787,6 +11684,8 @@ Department for Communities (Northern Ireland)	OT1173
 Department for Constitutional Affairs	D587
 Department for Constitutional Affairs (DCA)	
 Culture, Media and Sport, Department for	D5
+Culture, Media and Sport, Department for (DCMS)	D5
+DCMS - DEPARTMENT FOR CULTURE, MEDIA AND SPORT	D5
 Department for Culture Media And Sport	D5
 Department for Culture Media and Sport	D5
 Department for Culture, Media & Sport	D5
@@ -11796,6 +11695,7 @@ Department for the Economy (Northern Ireland)	OT1174
 Department for the Economy and Transport	
 DEPARTMENT FOR EDUCATION	D6
 Department for Education	D6
+Education, Department for (DFE)	D6
 Education and Employment, Department for	
 Department for Education Lifelong Learning and Skills	
 Department for Education and Skills	D583
@@ -11806,6 +11706,7 @@ Department for Employment and Learning - Northern Ireland
 Department for Employment and Learning Northern Ireland	
 Department for Employment and Skills	
 Department for Environment Executive NDPB	
+DEFRA - DEPARTMENT FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS	D7
 DEPARTMENT FOR ENVIRONMENT, FOOD & RURAL AFFAIRS	D7
 Department for Environment Food And Rural Affairs	D7
 Department for Environment, Food  and Rural Affairs	D7
@@ -11818,6 +11719,7 @@ Department for Infrastructure (Northern Ireland)	OT1176
 Department for Innovation, Universities and Skills	D608
 Department for Innovation, Universities & Skills (DIUS)	
 DEPARTMENT FOR INTERNATIONAL DEVELOPMENT	D8
+DFID - DEPARTMENT FOR INTERNATIONAL DEVELOPMENT	D8
 Department for International Development	D8
 International Development, Department for	D8
 Department for International Development: Overseas Superannuation	
@@ -11847,6 +11749,7 @@ DEPARTMENT FOR WORK AND PENSIONS	D10
 Department for Work And Pensions	D10
 Department for Work and Pensions	D10
 Work and Pensions, Department for	D10
+Work and Pensions, Department for (DWP)	D10
 Department for Work and Pensions Corporate Services Category Commercial Team	
 Department for Work and Pensions Employment Category Commercial Team	
 Department for Work and Pensions Estates and Financial Management  Category Commercial Team	
@@ -11861,6 +11764,7 @@ Department of Agriculture and Rural Development	D753
 Department of Agriculture and Rural Development Forest Service Agency	
 Department of Agriculture and Rural Development - Northern Ireland	
 Department of Clinical Veterinary Medicine	
+Communities and Local Government, Department of (DCLG)	
 Department of Constitutional Affairs	D598
 Department of Culture Arts and Leisure	D853
 Department of Culture, Arts and Leisure	D853
@@ -11874,11 +11778,13 @@ Department of Education Exceptional Circumstances Body
 Department of Education (Northern Ireland)	D585
 Department of Education - Northern Ireland	D585
 Department of Education Northern Ireland	D585
+DECC - DEPARTMENT OF ENERGY AND CLIMATE CHANGE	D11
 DEPARTMENT OF ENERGY AND CLIMATE CHANGE	D11
 Department Of Energy And Climate Change	D11
 Department of Energy & Climate Change	D11
 Department of Energy and Climate Change	D11
-Department of Energy and Climate Change (DECC)	
+Department of Energy and Climate Change (DECC)	D11
+Energy and Climate Change, Department of (DECC)	D11
 Department of Enterprise Trade and Investment	D750
 Department of Enterprise, Trade and Investment	D750
 Department of Enterprise Trade and Investment - Northern Ireland	
@@ -12042,6 +11948,7 @@ Derwentside Homes Limited
 Derwentside Homes Ltd	
 DES Clothing Store	
 DE&S FCMT	
+MOD   DE&S   ISS   CORSHAM	
 DE&S ISS G	
 DES Med GS Inv Mgr2	
 DE&S Security	
@@ -12141,59 +12048,20 @@ Dewis Centre for Inderpendent Living
 Deyes High School	
 Deykin Avenue Junior and Infants School	
 Deyncourt Primary School	
-DFE	
-DFE - EDUCATION FUNDING AGENCY	
-DFE - EQUALITY AND HUMAN RIGHTS COMMISSION	
-DFE GRANTS TO ACADEMIES OFFSET	
-DFE - OFFICE OF QUALIFICATIONS AND EXAMINATIONS REGULATION (OFQUAL)	
-DFE - OPERATIONAL PROPERTIES	
-DFE - SUBLET AND SURPLUS PROPERTIES	
+DFE	D6
 DFG West Moors MOD	
-DFID	
-DFID - DEPARTMENT FOR INTERNATIONAL DEVELOPMENT	
+DFID	D8
 DFNUK	
 DFP Public Service Commission	
 DFP - Superannuation & Other Allowances	
 DFP - Superannuation & Other Allowances - Northern Ireland	
-DFT	
-DFT - ASSOCIATION OF COMMUNITY RAIL PARTNERSHIP	
-DFT - BRITISH TRANSPORT POLICE AUTHORITY	
-DFT - COMMISSIONERS OF IRISH LIGHTS	
+DFT	D9
 DFT - DFT CENTRAL	
 DFT - DFT CENTRAL (RAILWAY ASSETS)	
-DFT - DRIVER AND VEHICLE LICENSING AGENCY	
-DFT - DRIVER & VEHICLE STANDARDS AGENCY	
-DFT - FREIGHT OPERATING COMPANY	
-DFT - HIGH SPEED ONE	
-DFT - HIGH SPEED TWO (HS2) LTD	
-DFT - HIGHWAYS ENGLAND HISTORICAL RAILWAYS ESTATE	
-DFT - HIGHWAYS ENGLAND (LAND HELD PENDING USE)	
-DFT - HIGHWAYS ENGLAND(OFFICE AND OPERATIONAL ESTATE)	
-DFT - HS2 TEMP	
-DFT - LCR – ADMINISTRATION OFFICE ESTATE	
-DFT - LCR – RESIDUAL LAND	
-DFT - LONDON & CONTINENTAL RAILWAYS	
-DFT - MARITIME AND COASTGUARD AGENCY	
-DFT - NETWORK RAIL	
-Dft Shared Services Centre	
-DFT - TRAIN OPERATING COMPANY	
-DFT - VEHICLE CERTIFICATION AGENCY	
 DG Info	
+MOD DGFM	
 dgSouth Thames College	
-DH	
-DH - CARE QUALITY COMMISSION	
-DH - HEALTH EDUCATION ENGLAND	
-DH - HEALTH RESEARCH AUTHORITY	
-DH - HQ	
-DH - MEDICINES, HEALTHCARE PRODUCTS AND REGULATORY AGENCY	
-DH - NATIONAL INSTITUTE FOR HEALTH AND CARE EXCELLENCE	
-DH - NHS BLOOD & TRANSPLANT	
-DH - NHS BUSINESS SERVICES AUTHORITY	
-DH - NHS DIGITAL	
-DH - NHS ENGLAND	
-DH - NHS IMPROVEMENT	
-DH - PUBLIC HEALTH ENGLAND	
-DH - RETAINED ESTATE	
+DH	D12
 Diabetes Research and Wellness Foundation	
 Diagrama Foundation	
 Dial House Chester	
@@ -12229,6 +12097,7 @@ Digital Catapult
 Digital, data and technology professions	OT1182
 Digital Inclusion	
 Digital Primary Academy	
+HMRC Digital Service	
 Dihewyd School	
 Dixie Grammer School	
 Dilkes Academy	
@@ -12301,6 +12170,7 @@ Direct Labour Organisations (En Bloc)
 Direct Line Group	
 Direct Local Health	
 Direct Rail Services (DRS)	
+DECC - DIRECT RAIL SERVICES LIMITED	
 DIRECT RAIL SERVICES LIMITED	
 Direct Rail Services Limited	
 Direct Rail Services Ltd	
@@ -12357,17 +12227,18 @@ Disabled People’s Employment Corporation (Formerly Remploy Limited)
 Disabled People's Employment Corporation (GB) Ltd	
 Disabled People’s Employment Corporation (UK) Ltd	
 Disabled Persons Transport Advisory Committee	PB247
+Disabled Persons Transport Advisory Committee (DPTAC)	PB247
+Disabled Persons' Transport Advisory Committee (DPTAC)	PB247
 Disabled Persons’ Transport Advisory Committee	PB247
-Disabled Persons Transport Advisory Committee (DPTAC)	
-Disabled Persons' Transport Advisory Committee (DPTAC)	
-Disabled Persons’ Transport Advisory Committee (DPTAC)	
+Disabled Persons’ Transport Advisory Committee (DPTAC)	PB247
 Disablement Association	
 Disc	
+DBS - Disclosure & Barring Service	PB509
 DISCLOSURE AND BARRING SERVICE	PB509
+DISCLOSURE AND BARRING SERVICE (DBS)	PB509
 Disclosure & Barring Service	PB509
 Disclosure and Barring Service	PB509
 The Disclosure and Barring Service	PB509
-DISCLOSURE AND BARRING SERVICE (DBS)	
 Disclosure and Barring Service (HO)	
 Disclosure And Barring Service(Liverpool)	
 Disclosure Scotland	
@@ -12384,7 +12255,7 @@ Dishforth Church of England Primary School
 Disley Parish council	
 Disley Primary School	
 Disposal Services Agency	EA823
-Disposal Services Agency MOD	
+Disposal Services Agency MOD	EA823
 Disraeli Nursery Centre	
 Diss CE VC Junior School	
 Diss Christian Community Church	
@@ -12415,6 +12286,7 @@ Djanogly City Technology College
 Djanogly Northgate Academy	
 Djanogly Strelley Academy	
 DLS AD Engineering Policy	
+BBC do Brazil Limitada (Brazil) (sWS)	
 DoA Ltd	
 Dobcroft Junior School	
 Dobwalls Community Primary School	
@@ -12932,6 +12804,7 @@ Dr Wilson and Partners
 DR WOODS AND PARTNERS	
 Dr Wright and Partners	
 Dr Y M Bishop and Partner	
+MOD DR2f	
 DRA Haslar	
 Dragon School	
 Dragon School Trust Limited	
@@ -12976,15 +12849,17 @@ Drive Community Primary School
 Driver & Vehicle Agency (Northern Ireland)	
 Driver and Vehicle Agency - Northern Ireland	
 Driver and Vehicle Agency Northern Ireland	
+DFT - DRIVER AND VEHICLE LICENSING AGENCY	EA74
 Driver & Vehicle Licensing Agency	EA74
 Driver Vehicle Licensing Agency	EA74
 Driver and Vehicle Licensing Agency	EA74
-Driver and Vehicle Licensing Agency (DVLA)	
+Driver and Vehicle Licensing Agency (DVLA)	EA74
 Driver & Vehicle Licensing Agency (DVLA) (DFT)	D9
 Driver Vehicle Licensing NI	
+DFT - DRIVER & VEHICLE STANDARDS AGENCY	EA570
 Driver & Vehicle Standards Agency	EA570
 Driver and Vehicle Standards Agency	EA570
-Driver and Vehicle Standards Agency (DVSA)	
+Driver and Vehicle Standards Agency (DVSA)	EA570
 DRIVER AND VEHICLE TESTING AGENCY	EA808
 Driver and Vehicle Testing Agency	EA808
 Driving Standard Agency (DSA)	
@@ -13067,9 +12942,9 @@ DSDA Gosport
 DSDA Longtown	
 DSDA Plymouth	
 DSDC L	
-DSG	
+DSG	EA44
 DSLV E-ACT Academy	
-DSTL	
+DSTL	EA42
 DTE Scotland	
 Dubmire Primary School	
 Ducane Housing Association Limited	
@@ -13284,16 +13159,12 @@ Duston Parish Council
 Duston School The	
 The Duston School	
 Dutch Oak Tree Foundation	
-DVLA	
+DVLA	EA74
 Dvlni	
 Dvta	
-DWP	
-DWP - CMG	
-DWP - CORPORATE CENTRE	
-DWP - HEALTH AND SAFETY EXECUTIVE	
-DWP - OPERATIONS	
-DWP - PENSIONS REGULATOR	
+DWP	D10
 DwrYFelin Comprehensive School	
+MOD DWS RAF Croughton	
 Dyers Company Housing Association Limited	
 Dyfed Archelogical Trust	
 Dyfed Powys Health Authority	
@@ -13428,6 +13299,7 @@ East Anglias Childrens Hospice
 East Anglias Childrens Hospices	
 East Antrim	
 East Ardsley Primary School	
+BBC East Asia Relay Company Ltd [Hong Kong] (s WS)	
 East Ayrshire Council	
 East Ayrshire North Communities Federation Trust	
 East Ayrshire Volunteer Agency	
@@ -13564,6 +13436,7 @@ East Manchester Community Forum Playbus
 East Manchester Education Action Zone	OT674
 East Markham Primary School	
 East Midland Ambulance Service NHS Trust	
+CPS - EAST MIDLANDS	
 East Midlands Airport Nottingham Derby Leicester Ltd	
 East Midlands Airport Property Investments (Hotels) Ltd	
 East Midlands Airport Property Investments (Industrial) Ltd	
@@ -13620,6 +13493,7 @@ East and North Herts CCG
 East Northamptonshire College	
 East Northamptonshire Council	
 East Northamptonshire District Council	
+CPS - EAST OF ENGLAND	
 East of England Agricultural Society	
 East of England Ambulance Service	
 EAST OF ENGLAND AMBULANCE SERVICE NHS TRUST	
@@ -13849,8 +13723,6 @@ Echelon Housing Partnership
 Exchequer and Audit Department	D974
 Echotech Limited	
 Echt School	
-Ecitb  Gpc	
-Ecitb Gpc	
 Excite	
 Eckington Camms Primary School	
 Eckington Church of England First School	
@@ -13860,6 +13732,7 @@ Eclipse
 Ecolocal Services Limited	
 Economic Research Institute for Northern Ireland	
 Economic Research Institute of Northern Ireland	
+BEIS - ECONOMIC AND SOCIAL RESEARCH COUNCIL	PB129
 ECONOMIC AND SOCIAL RESEARCH COUNCIL	PB129
 Economic and Social Research Council	PB129
 Economic and Social Research Council, The	PB129
@@ -13958,6 +13831,7 @@ Edna G Olds Primary and Nursery School
 EDP Drug and Alcohol Services	
 EduAction	
 Educate Services	
+UKTI Education	OT1067
 Education Achievement Service for South East Wales	
 Education Action Fora	
 Education Authority Northern Ireland	
@@ -13965,9 +13839,9 @@ Education Bradford
 EDUCATION CENTRAL MULTI ACADEMY TRUST	
 Education Child Protection Service	
 Education and Cultural Services	
-Education, Department for (DFE)	
 Education Development Centre	
 Education Fellowship, the	
+DFE - EDUCATION FUNDING AGENCY	EA242
 Education Funding Agency	EA242
 Education Leeds	
 Education Leeds Ltd	
@@ -13989,6 +13863,7 @@ Educational Centres Association
 Educational Institute Of Scotland	
 Educational Psychology Service	
 Educational Services	
+GLS Educational Supplies	
 Eduserv	
 EDUtrust Academies Charitable Trust	
 Edward Betham Church of England Primary School	
@@ -14063,7 +13938,6 @@ Egypt Exploration Society
 Exhall Cedars First School	
 Exhall Grange School and Science College	
 Ehenside School	
-EHRC - Equality & Human Rights Commission	
 Eikon	
 Eildon Housing Association Limited	
 Eildon Housing Association Ltd	
@@ -14350,7 +14224,6 @@ Endike Primary School
 Endon High School	
 Energis Communications Limited	
 Energy Advisory Panel	
-Energy and Climate Change, Department of (DECC)	
 Energy Coast UTC	
 Energy Consortium The	
 Energy Efficiency Office	
@@ -14392,6 +14265,8 @@ Engineering Development Trust
 THE ENGINEERING DEVELOPMENT TRUST	
 Engineering Education Scheme Wales	
 Engineering Industry Training Board	
+MOD Engineering Library	
+BEIS - ENGINEERING & PHYSICAL SCIENCES RESEARCH COUNCIL	PB130
 ENGINEERING AND PHYSICAL SCIENCES RESEARCH COUNCIL	PB130
 Engineering and Physical Sciences Research Council	PB130
 Engineering and Physical Sciences Research Council, The	PB130
@@ -14453,6 +14328,7 @@ Enrichment Holdings Ltd
 Enrichment Investments Limited	
 Ensemble	
 Ensemble Purchasing	
+MOD Ensleigh	
 Enstone Primary School	
 Entel Consulting Group	
 Enterprise 5 Housing Association Limited	
@@ -14476,6 +14352,17 @@ Environ Trust
 Environment	
 ENVIRONMENT AGENCY	EA199
 Environment Agency	EA199
+DEFRA - ENVIRONMENT AGENCY ANGLIAN	
+DEFRA - ENVIRONMENT AGENCY FUNCTIONAL	
+DEFRA - ENVIRONMENT AGENCY HEAD OFFICE	
+DEFRA - ENVIRONMENT AGENCY - LAND REGISTER	
+DEFRA - ENVIRONMENT AGENCY MIDLANDS	
+DEFRA - ENVIRONMENT AGENCY NATIONAL LAB. SERVICE	
+DEFRA - ENVIRONMENT AGENCY NORTH EAST	
+DEFRA - ENVIRONMENT AGENCY NORTH WEST	
+DEFRA - ENVIRONMENT AGENCY SOUTH WEST	
+DEFRA - ENVIRONMENT AGENCY SOUTHERN	
+DEFRA - ENVIRONMENT AGENCY THAMES	
 Environment Centre The	
 Environment Centre Limited The	
 The Environment Centre Limited	
@@ -14499,6 +14386,7 @@ Expert Group on Vitamins and Minerals
 Expert Panel on Air Quality Standards	
 Epic Arts	
 Epic ELM C.I.C	
+MRC Epidemiology Unit	
 Epinay School	
 Epiphany Church of England Primary School	
 The Epiphany Church of England Primary School	
@@ -14548,6 +14436,8 @@ Equalities and Human Rights Commission
 Equality 2025	PB230
 Equality Challenge Unit	
 Equality Commission for Northern Ireland	OT779
+DFE - EQUALITY AND HUMAN RIGHTS COMMISSION	OT269
+EHRC - Equality & Human Rights Commission	OT269
 EQUALITY AND HUMAN RIGHTS COMMISSION	OT269
 Equality and Human Rights Commission	OT269
 Equality South West	
@@ -14617,6 +14507,7 @@ Esmee Fairbairn Foundation
 Esperanto Association of Britain	
 ESPO	
 Espo	
+HMRC ESS	
 ESSA Academy	
 Essa Academy	
 Essex Ambulance Service FT	
@@ -14661,6 +14552,7 @@ Essendene Surgery
 Essendon Primary School	
 Essentia - Guy's and St Thomas'	
 Essential Drug And Alcohol Service	
+Chevening Estate/Trust	
 Estc Employment Services Limited	
 Estc Fundraising	
 Estc Group	
@@ -15043,15 +14935,7 @@ FC - FORESTRY COMMISSION – LAND REGISTER
 FC Generalate	
 FCH Housing and Care	
 Fcms Nw Limited	
-FCO	
-FCO - BRITISH COUNCIL	
-FCO - FOREIGN & COMMONWEALTH OFFICE	
-FCO - GREAT BRITAIN-CHINA CENTRE (GBCC)	
-FCO SERVICES	EA61
-FCO Services	EA61
-FCO Services (FCOS)	
-FCO - WESTMINSTER FOUNDATION FOR DEMOCRACY (WFD)	
-FCO - WILTON PARK	
+FCO	D13
 FE Improvement Ltd	
 Fearnhill School	
 Fearns Community Sports College	
@@ -15219,7 +15103,10 @@ Filton College
 Filton High School	
 Filton Park Pre School	
 Filwood Hope	
+BIS (Finance)	
 Finance Dept	
+LCR Finance Plc	
+LCR Finance plc	
 Finance Services	
 Finance Wales	
 Finance Wales Investments (2) Ltd	
@@ -15285,6 +15172,7 @@ Fire Authority for Northern Ireland	OT759
 Fire Brigades Union	
 Fire and Civil Defence Authorities (En Bloc)	
 Fire and Civil Defence Authority	
+DCLG - FIRE CONTROL RESIDUAL ESTATE	
 Fire Fighters Charity The	
 Fire and Rescue Authorities (En Bloc)	
 Fire and Rescue Authorities (Scotland) (En Bloc)	
@@ -15560,16 +15448,17 @@ Food Advisory Committee
 Food Centre Wales	
 Food and Drink Education Council	
 Food and Environment Research Agency	EA56
+Food and Environment Research Agency (FERA)	EA56
 Food and Environment Research Agency The	EA56
 The Food and Environment Research Agency	EA56
-Food and Environment Research Agency (FERA)	
 Food and Environment Research Agency (FERA) (DEFRA)	
 Food From Britain	OT793
 Food from Britain	OT793
 Food Safety Promotion Board	PB870
+FSA - FOOD STANDARDS AGENCY	D102
 Food Standards Agency	D102
+Food Standards Agency (FSA)	D102
 The Food Standards Agency	D102
-Food Standards Agency (FSA)	
 Food Standards Agency Northern Ireland	
 Food Standards Agency Scotland	
 Food Standards Agency Wales	
@@ -15592,11 +15481,12 @@ Fordyce Primary School
 Foredyke primary school	
 Forefield Community Infant School	
 Forefield Junior School	
+FCO - FOREIGN & COMMONWEALTH OFFICE	D13
 FOREIGN & COMMONWEALTH OFFICE	D13
 Foreign & Commonwealth Office	D13
+Foreign & Commonwealth Office (FCO)	D13
 Foreign And Commonwealth Office	D13
 Foreign and Commonwealth Office	D13
-Foreign & Commonwealth Office (FCO)	
 Foreign Compensation Commission	PB257
 Foreland School The	
 Forensic archive Limited	
@@ -15737,6 +15627,7 @@ Foxton Primary School
 Foulds School	
 Foulstone School The	
 Foulstone And Wombwell Advanced	
+Chevening Foundation	
 Foundation	
 Foundation Derbyshire	
 Foundation For Children With Leukaemia	
@@ -15871,6 +15762,7 @@ Freethorpe Community Primary School
 Freeways	
 Freewheelers	
 Freezywater St Georges Church of England School	
+DFT - FREIGHT OPERATING COMPANY	
 Freinds of Boscombe Chine Gardens The	
 Freman College	
 Fremantle Trust	
@@ -15973,7 +15865,6 @@ Fryent Primary School
 Fryent Way Surgery The	
 Fryern Junior School	
 Fryern Surgery The	
-FSA - FOOD STANDARDS AGENCY	
 Fsb Recruitment Ltd	
 FTC Performing Arts College	
 Fuel Cells Advisory Panel	
@@ -16002,6 +15893,7 @@ Fulwood Barracks
 Fulwood Green Medical Centre	
 Fulwood Hall Hospital	
 Fulwood High School and Arts College	
+RNM Functions Ltd	
 Funding Affordable Homes Housing Association Limited	
 Funding Agency for Schools	
 Furley Park Primary School	
@@ -16065,7 +15957,6 @@ G4S Justice Services
 G6 CIS HQ Land Command	
 Gable Hall	
 Gable Hall School	
-GAD - GOVERNMENT ACTUARYS DEPARTMENT	
 Gaddesby Primary School	
 Gade Surgery	
 Gadhvi Practice	
@@ -16083,6 +15974,9 @@ Gainsborough Primary School
 Gainsborough Whites Wood Lane Community Junior School	
 Gairloch Community Learning Centre	
 Galleon Ltd (s BBCW)	
+TATE GALLERY	
+Tate Gallery	
+Tate Gallery Projects Limited	
 Galley Common Infant School	
 Galley Hill Primary School	
 Galleywall Primary City of London Academy	
@@ -16096,6 +15990,7 @@ Gallowhill Primary School
 Galmpton Church of England Primary School	
 Galston Primary School	
 Galtee More Medical Centre	
+DCMS - GAMBLING COMMISSION	PB169
 Gambling Commission	PB169
 THE GAMBLING COMMISSION	PB169
 Game and Wildlife Conservation Trust	
@@ -16231,9 +16126,9 @@ Gb Taekwondo
 Gb Wiltshire Council	
 GBRS	
 GCC Belmont School	
-GCHQ	
+GCHQ	OT306
 GDF Suez Energy	
-GDS	
+GDS	OT1056
 GEANT	
 Gear Project	
 Gearies Infant School	
@@ -16309,7 +16204,6 @@ Gentoo Group Limited
 Gentoo Sunderland	
 Gentoo Sunderland Limited	
 GENUS Consortium	
-GEO - Government Equalities Office	
 Geoff Thomas Foundation The	
 The Geoff Thomas Foundation	
 Geoffrey Field Infant School	
@@ -16449,6 +16343,7 @@ Girton College
 Girton Glebe Primary School	
 Girton Parish Council	
 Gisburn Road Primary School	
+RFCA GL	
 Gladcare Limited	
 Gladesmore Community School	
 Gladestry Church in Wales School	
@@ -16519,7 +16414,6 @@ Glasshouses CP School
 Glastonbury Abbey House	
 Glastonbury Thorn First School	
 Glastry College	
-GLD - GOVERNMENT LEGAL DEPARTMENT	
 Gleadless Medical Centre	
 Gleadless Primary School	
 Glebe Academy	
@@ -16672,7 +16566,6 @@ Gloucestershire shared service, procurement
 Gloucestshire Old Peoples Housing Association Limited	
 Glovers Charity	
 Glover's Trust Endowed Fund	
-GLS Educational Supplies	
 Glusburn Community Primary School	
 GLUSBURN & CROSS HILLS PARISH COUNCIL	
 Glympton Almshouse Trust	
@@ -16878,6 +16771,7 @@ The Governing Body of Sandringham and West Newton CE Primary School
 Governing Body of St Edwards RC Primary School The	
 The Governing Body of St Edwards RC Primary School	
 Government Actuary Department	
+GAD - GOVERNMENT ACTUARYS DEPARTMENT	D103
 Government Actuary's Department	D103
 Government Actuarys Department	D103
 Government Actuary’s Department	D103
@@ -16891,7 +16785,7 @@ Government Commercial Function	OT1116
 Government Communication Service	OT1034
 Government Communications Bureau	
 Government Communications Headquarters	OT306
-Government Communications Headquarters (GCHQ)	
+Government Communications Headquarters (GCHQ)	OT306
 Government Communications Network	
 Government Communications Planning Directorate	
 Government Connect	
@@ -16899,6 +16793,7 @@ Government Corporate Finance Profession	OT1050
 Government Digital Service	OT1056
 Government Digital Services	
 Government Economic Service	OT1037
+GEO - Government Equalities Office	OT506
 Government Equalities Office	OT506
 Government Equality Office	
 Government Estates Management	OT549
@@ -16906,9 +16801,10 @@ Government Finance Profession	OT1035
 Government Hospitality	
 Government Hospitality Fund Advisory Committee for the Purchase of Wine	
 Government Internal Audit Agency	EA1084
-Government Internal Audit Agency (GIAA)	
+Government Internal Audit Agency (GIAA)	EA1084
 Government IT Profession	OT1053
 Government Knowledge & Information Management Profession	OT1048
+GLD - GOVERNMENT LEGAL DEPARTMENT	D1108
 Government Legal Department	D1108
 Government Legal Department (formerly TSOL)	
 Government Legal Service	OT1033
@@ -16917,7 +16813,8 @@ Government Occupational Psychology Profession	OT1049
 Government of St Helena	
 Government Office for the East	
 Government Office for Science	OT555
-Government Office for Science (BIS)	
+Government Office for Science (BIS)	OT555
+DCLG - GOVERNMENT OFFICE RESIDUAL ESTATE	
 Government Offices For The English Regions	
 Government Offices for the Regions (DCLG)	
 Government Operational Research Service	OT1042
@@ -16953,6 +16850,8 @@ GP Direct
 GP Sales Accounts Private	
 Gp Services Staffordshire Limited	
 Gp Services Staffs 2	
+Ecitb  Gpc	
+Ecitb Gpc	
 Grabadoc	
 Grace Academy	
 Grace Academy, Coventry	
@@ -17088,6 +16987,7 @@ Grantham Walton Girls’ High School & Sixth Form
 Grantham's Almshouses	
 Granton Primary School	
 Grantown On Spey Medical Practice	
+DFE GRANTS TO ACADEMIES OFFSET	
 Granville Community School	
 Granville House Medical Centre	
 Granville Medical Centre	
@@ -17148,6 +17048,7 @@ Great Britain China Centre The
 Great Britain China Centre	
 Great Britain China-Centre	
 Great Britain Wheelchair Basketball Association	
+FCO - GREAT BRITAIN-CHINA CENTRE (GBCC)	PB426
 Great Britain-China Centre	PB426
 The Great Britain-China Centre	PB426
 Great Budworth Church of England Primary School	
@@ -17536,7 +17437,9 @@ Groundwork UK
 GROUNDWORK UK LIMITED	
 Groundwork Wirral	
 Groungwork Oldham and Rochdale	
+NPS Group	
 Group for the Rootless of Watford	
+NPS GROUP LIMITED	
 Grove, the	
 The Grove Academy	
 Grove Adult And Community Learning	
@@ -17827,6 +17730,7 @@ Halifax High
 Halifax High at Wellesley Park	
 Halifax Holy Trinity Church of England (Voluntary Aided) Primary School	
 Halifax Opportunities Trust	
+Acre Hall Academy	
 Hall Cross Academy	
 Hall Cross Science and Mathematics School	
 Hall Garth Comprehensive School	
@@ -18535,6 +18439,7 @@ Hayle Community School
 HAYLE TOWN COUNCIL	
 Hayles Community Housing Association Limited	
 Hayling School The	
+BBC Haymarket Exhibitions Ltd (50%) (sBBCW) (Associate)	
 Haymoor Middle School	
 Haynes Denta Limited	
 Haynes Lower School	
@@ -18574,11 +18479,9 @@ Hazelwood Junior School
 Hazlemere Community Association	
 Hazlewood Community Primary School	
 HBS	
-HCA International	
 HCC Adult and Childrens Services	
 HCC Social Services Technician Services	
 HCUK	
-HE Shared Legal Limited	
 Heacham Infant & Nursery School	
 Head Office and Corporate Services	
 Headcorn Primary School	
@@ -18590,6 +18493,7 @@ Headlands School and Community Science College
 Headley Park Primary School	
 Headliners Uk	
 Headmasters	
+CPS - HEADQUARTERS	
 Headquarters 16 Air Assault Brigade	
 Headquarters Army Training and Recruiting Agency	
 Headquarters Colchester Station	
@@ -18631,6 +18535,7 @@ Health Education Authority
 Health Education Board for Scotland	
 Health Education East Midlands	
 Health Education (East of England)	
+DH - HEALTH EDUCATION ENGLAND	OT539
 HEALTH EDUCATION ENGLAND	OT539
 Health Education England	OT539
 HEALTH EDUCATION ENGLAND (NHS GROUP)	
@@ -18654,17 +18559,19 @@ Health Promotion Service NHS The
 Health Protection Agency	EA792
 Health Protection Scotland	
 Health Record	
+DH - HEALTH RESEARCH AUTHORITY	OT483
 HEALTH RESEARCH AUTHORITY	OT483
 Health Research Authority	OT483
 Health and Safety Agency for Northern Ireland	
 Health and Safety Commission	
 Health and Safety Commission and Executive	
+DWP - HEALTH AND SAFETY EXECUTIVE	PB207
 HEALTH & SAFETY EXECUTIVE	PB207
 HEALTH AND SAFETY EXECUTIVE	PB207
+Health & Safety Executive (HSE)	PB207
 Health and Safety Executive	PB207
+Health and Safety Executive (HSE)	PB207
 Health and Safety Executive for Northern Ireland	
-Health & Safety Executive (HSE)	
-Health and Safety Executive (HSE)	
 HEALTH AND SAFETY LABORATORY	
 Health & Safety Laboratory	
 Health and Safety Laboratory	
@@ -18836,7 +18743,7 @@ Hedworthfield Primary School
 Heeley City Farm	
 Heeley City Farm Ltd	
 Heeley Green Surgery	
-HEFCE	
+HEFCE	PB120
 Hexham East First School	
 Hexham and Newcastle Diocesan Trust 1947	
 Heighington Church of England Primary School	
@@ -19236,8 +19143,10 @@ High Security Prisons
 HIGH SPEED 2	
 High Speed 2 Limited	
 High Speed 2 Ltd	
+DFT - HIGH SPEED ONE	
 HIGH SPEED TWO (HS2) LIMITED	PB460
 High Speed Two (HS2) Limited	PB460
+DFT - HIGH SPEED TWO (HS2) LTD	
 High Speed Two Limited	
 High Storrs School	
 High Street Primary	
@@ -19284,10 +19193,11 @@ Higher EDFDG CC
 Higher Education Academy The	
 THE HIGHER EDUCATION ACADEMY	
 The Higher Education Academy	
+BEIS - HIGHER EDUCATION FUNDING COUNCIL FOR ENGLAND	PB120
 HIGHER EDUCATION FUNDING COUNCIL FOR ENGLAND	PB120
 Higher Education Funding Council for England	PB120
+Higher Education Funding Council for England (HEFCE)	PB120
 Higher Education Funding Council for England - from 07-08 HEF063	
-Higher Education Funding Council for England (HEFCE)	
 Higher Education Funding Council for Wales	
 Higher Education Purchasing Consortium Wales	
 Higher Education Statistics Agency	OT1088
@@ -19372,9 +19282,12 @@ Highview Primary Learning Centre
 Highway Primary School The	
 Highways Agency	EA77
 Highways England	EA1114
+Highways England (DFT)	EA1114
 HIGHWAYS ENGLAND COMPANY LIMITED	
 Highways England Company Ltd	
-Highways England (DFT)	
+DFT - HIGHWAYS ENGLAND HISTORICAL RAILWAYS ESTATE	
+DFT - HIGHWAYS ENGLAND (LAND HELD PENDING USE)	
+DFT - HIGHWAYS ENGLAND(OFFICE AND OPERATIONAL ESTATE)	
 Highweek Community Primary School	
 Highwell School	
 Highwood Player Junior School	
@@ -19391,6 +19304,7 @@ Hilbre High School Humanities College
 Hildene Primary School	
 Hilderstone College	
 Hilgay Village VC Primary School	
+Lease Hill	
 Hill Avenue Primary School	
 Hill Farm Academy	
 Hill Farm Primary School	
@@ -19539,6 +19453,7 @@ Historic Buildings Council for Wales
 The Historic Buildings and Monuments	
 The Historic Buildings and Monuments Commission for England	
 Historic Chapels Trust The	
+DCMS - HISTORIC ENGLAND	PB1164
 Historic England	PB1164
 HISTORIC ENGLAND LIMITED	
 Historic England Limited	
@@ -19585,7 +19500,7 @@ Her Majesty's Courts and Tribunal Service
 HM Courts & Tribunals Service	EA73
 HM Courts and Tribunals Service	EA73
 Her Majesty's Courts and Tribunals Service	EA73
-Her Majesty's Courts and Tribunals Service (MoJ)	
+Her Majesty's Courts and Tribunals Service (MoJ)	EA73
 HM Crown Prosecution Service Inspectorate	OT347
 Her Majesty's Crown Prosecution Service Inspectorate	OT347
 H.M. Customs and Excise	OT742
@@ -19771,16 +19686,18 @@ HM Procurator General and Treasury Solicitor
 HM REVENUE & CUSTOMS	D25
 HM Revenue & Customs	D25
 HM Revenue and Customs	D25
+HM Revenue and Customs (HMRC)	D25
+HMRC - HM REVENUE AND CUSTOMS	D25
 Her Majesty's Revenue & Customs	D25
 Her Majesty's Revenue and Customs	D25
+Her Majesty's Revenue and Customs (HMRC)	D25
 Her Majesty’s Revenue & Customs	D25
 Her Majesty’s Revenue and Customs	D25
-HM Revenue and Customs (HMRC)	
-Her Majesty's Revenue and Customs (HMRC)	
 HM Revenue and Customs Trust Statement	
 Her Majesty's Stationery Office (see Office of Public Sector Information)	
 HM TREASURY	D15
 HM Treasury	D15
+HMT - HM TREASURY	D15
 Her Majesty's Treasury	D15
 Her Majesty’s Treasury	D15
 HM Treasury Sovereign Sukuk Ltd	
@@ -19803,18 +19720,20 @@ HM Young Offenders Institution Warren Hill
 HM Young Offenders Institution Werrington	
 HM Young Offenders Institution Wetherby	
 HMCS	
-HMCTS	
+HMCTS	EA73
+MOJ - HMCTS (LONDON)	
+MOJ - HMCTS (MIDLANDS)	
+MOJ - HMCTS (NORTH EAST)	
+MOJ - HMCTS (NORTH WEST)	
+MOJ - HMCTS (SCOTLAND)	
+MOJ - HMCTS (SOUTH EAST)	
+MOJ - HMCTS (SOUTH WEST)	
+MOJ - HMCTS (WALES)	
 HMP Belfast	
 HMP Isle of Wight	
 HMP Sheppey Cluster	
 HMPO - Her Majesty's Passport Service	
-HMRC	
-HMRC CD	
-HMRC Digital Service	
-HMRC ESS	
-HMRC - HM REVENUE AND CUSTOMS	
-HMRC IMS	
-HMRC - VALUATION OFFICE AGENCY	
+HMRC	D25
 HMS Caledonia	
 HMS Collingwood	
 HMS Daring	
@@ -19837,9 +19756,7 @@ HMS Sultan
 HMS Temeraire	
 HMS Vigilant	
 HMSO Northern Ireland	
-HMT	
-HMT - HM TREASURY	
-HMT - UK DEBT MANAGEMENT OFFICE	
+HMT	D15
 HO - CORE HOME OFFICE	
 Hob Green Primary School	
 Hob Moor Community Primary School	
@@ -20123,6 +20040,7 @@ Home in Scotland Ltd
 HOME OFFICE	D16
 Home Office	D16
 Home Office (HO)	
+HOS - Home Office Science	
 Home Office Scientific Development Branch	
 Home Service Group (HS) - (s BBC)	
 Home Space Sustainable Accommodation Community Interest Company	
@@ -20167,6 +20085,8 @@ HOMES & COMMUNITIES AGENCY	PB161
 Homes and Communities Agency	PB161
 Homes and Communities Agency Academy	
 Homes and Communities Agency Milton Keynes	
+DCLG - HOMES AND COMMUNITIES AGENCY (OPERATIONAL)	
+DCLG - HOMES AND COMMUNITIES AGENCY (REGENERATION)	
 Homes and Community Agency	
 Homes for Change Limited	
 Homes for Elderly Vegetarians Limited	
@@ -20316,14 +20236,7 @@ Horndale Infant School
 Horndean Community Association	
 Horndean Community School	
 Horndon on the Hill Primary School	
-Horniman Housing Association Limited	
-Horniman Museum	
-Horniman Museum Enterprises Limited	
-Horniman Museum and Public Park Foundation	
-Horniman Primary School	
-Horniman Public Museum & Public Park Trust	PB171
-Horniman Public Museum and Public Park Trust	PB171
-THE HORNIMAN PUBLIC MUSEUM AND PUBLIC PARK TRUST	PB171
+THE HORNIMAN PUBLIC MUSEUM AND PUBLIC PARK TRUST	
 Horning Primary School	
 Hornsea Burton Primary School	
 Hornsea Nursery School	
@@ -20374,7 +20287,6 @@ Horton Housing Association
 Horton NHS Treatment Centre	
 Horton-in-Ribblesdale CE (VA) Primary School	
 Horwood and Newton Tracey Primary School	
-HOS - Home Office Science	
 Hose Church of England Primary School	
 Hospice At Home Carlisle and North Lakes	
 Hospice in the Weald	
@@ -20411,6 +20323,7 @@ Hospital of St Thomas the Apostle in Doncaster (The)
 Hospital of St Thomas the Apostle in Doncaster The	
 Hospital of William Parson The	
 Hospital of William Parson (Stoke Hospital) (The)	
+MOD Hospital Unit	
 Hospitality Training Foundation	
 Hospitaller Housing Association Limited	
 Hospitaller Order of Saint John of God Charitable Trust	
@@ -20447,6 +20360,7 @@ Hounslow Town Primary School
 Hounslow Welcare	
 Hour Glass Housing Co operative Limited	
 Hour Glass Housing Co-operative Limited	
+Offa House	
 House of Commons	
 The House of Commons	
 House of Commons: Administration	
@@ -20465,6 +20379,8 @@ Housing Action
 Housing Action For The Young Housing Association Limited	
 Housing Action Trusts	
 Housing Association	
+Horniman Housing Association Limited	
+Spa Housing Association Limited	
 Housing Benefit Review Boards	
 Housing & Care 21	
 Housing & Care21	
@@ -20527,6 +20443,9 @@ Hoyland Springwood Primary School
 Hoylandswaine Primary School	
 Hoyle Court Primary School	
 HP Enterprise Services UK Limited	
+DH - HQ	
+HQ SCE	
+MOD HQ 1 MECH BDE	
 HQ 12 Air Support Engineer Brigade	
 HQ 145 S Bde	
 HQ 2 Division-Scotland/North England	
@@ -20535,10 +20454,11 @@ HQ 52 Infantry Brigade
 HQ ATE SP MOD	
 HQ GÃ¼tersloh Garrison	
 HQ JS Mountain Training Centre	
+MOD HQ Land Command	
 HQ Londist	
+MOD HQ London District	
 HQ QMG	
 HQ RE TA	
-HQ SCE	
 HQ SOinC A	
 HQ Support Services	
 HQBFC	
@@ -20549,6 +20469,7 @@ HS1 Ltd
 HS2 Limited	
 HS2 Ltd	
 HS2 Ltd.	
+DFT - HS2 TEMP	
 HSC Business Services Organisation	
 HSF Health Plan Limited	
 HSMC - Buying Office	
@@ -20625,6 +20546,10 @@ Human Fertilisation & Embryology Authority	PB253
 Human Fertilisation and Embryology Authority	PB253
 THE HUMAN FERTILISATION & EMBRYOLOGY AUTHORITY	PB253
 Human Genetics Commission	
+MRC  Human Genetics Unit	
+MRC Human Genetics Unit	
+MRC Human Nutrition Research	
+MRC Human Reproductive Sciences Unit	
 Human Resources Directorate	
 Human Resources Profession	OT1036
 HUMAN TISSUE AUTHORITY	PB254
@@ -20818,7 +20743,6 @@ IBS Viridian Ltd - (s BNFL)
 Ibstock Community College	
 Ibstock Junior School	
 Ibstock Place School	
-Ice Surgeries Ltd	
 Iceni Academy	
 Icis Information For Life	
 Ickleford Primary School	
@@ -20883,6 +20807,7 @@ Immigration Appellate Authorities
 Immigration Enforcement	OT1069
 Immigration Services Tribunal	
 Immunisation	
+MRC Immunochemistry Unit	
 Impact Arts Projects Limited	
 Impact Housing Association Limited	
 Imperial Avenue Infants	
@@ -20897,6 +20822,7 @@ Imperial College Neurogenetics Department
 Imperial College of Science Technology and Medicine	
 Imperial College Union	
 Imperial Road Group Surgery	
+DCMS - IMPERIAL WAR MUSEUM	PB172
 IMPERIAL WAR MUSEUM	PB172
 Imperial War Museum	PB172
 Imperial War Museum (and museums generally)	
@@ -20914,6 +20840,7 @@ Improvement & Efficiency Social Enterprise
 Improvement and Efficiency South East	
 Improvement and Efficiency West Midlands	
 Improvement Service	
+HMRC IMS	
 IMS Prussia Grove	
 In Safe Hands Health & Safety Training & Consultancy	
 In2play Drector	
@@ -20981,12 +20908,15 @@ Independent Monitoring Commission	OT615
 Independent Offices	
 Independent Parliamentary Standards Authority	
 INDEPENDENT POLICE COMPLAINTS COMMISSION	PB456
+IPCC - Independent Police Complaints Commission	PB456
 Independent Police Complaints Commission	PB456
 Independent Reconfiguration Panel	PB527
 Independent Reconfigurations Panel	
 INDEPENDENT REGULATOR FOR NHS FOUNDATION TRUSTS	
 Independent Regulator of NHS Foundation Trusts	
 Independent Regulator of NHS Foundation trusts (Monitor)	
+Monitor - Independent Regulator of NHS Foundation Trusts	
+Monitor – Independent Regulator of NHS Foundation Trusts	
 Independent Restraint Advisory Panel	
 Independent Review of Police Officer and Staff Remuneration and Conditions	OT619
 Independent Review of the UK Postal Services Sector	OT616
@@ -21021,6 +20951,8 @@ Industrial Services Group
 Industrial Training Boards	
 Industrial Tribunal Service	
 Industrial Tribunals (Northern Ireland)	
+SeaFish Industry Authority	
+Seafish Industry Authority	
 Industry Department for Scotland	
 Industry and Parliament Trust	
 Inegrated Care Partnership The	
@@ -21032,6 +20964,7 @@ Information Centre for Health and Social Care
 The Information Centre for Health and Social Care	
 INFORMATION COMMISSION	
 Information Commissioner	
+DCMS - INFORMATION COMMISSIONERS OFFICE	PB298
 Information Commissioner's Office	PB298
 Information Commissioners Office	PB298
 Information Commissioner’s Office	PB298
@@ -21088,6 +21021,7 @@ Inner London Magistrates Court Service
 Inner North West London	
 Innisfree Housing Association Limited	
 Innovate Multi Academy Trust	
+BEIS - INNOVATE UK	PB1078
 Innovate UK	PB1078
 Innovate UK (formerly the Technology Strategy Board)	
 Innovate UK (Technology Strategy Board)	
@@ -21095,6 +21029,7 @@ Innovation Centres The
 The Innovation Centres	
 Innovation Unit The	
 Innovations In Primary Care Limited	
+STFC Innovations Ltd	
 Inns Court Community Centre The	
 Innsworth Infant School	
 Inquilab Housing Association	
@@ -21108,9 +21043,10 @@ Insititue of Fundraising
 Inskip Church of England Aided Primary School	
 Insolvency Practitioners Tribunal	PB521
 Insolvency Rules Committee	PB445
+BEIS - INSOLVENCY SERVICE	EA32
 Insolvency Service	EA32
+Insolvency Service (BIS)	EA32
 The Insolvency Service	EA32
-Insolvency Service (BIS)	
 Insolvency Service Investment Account	
 Inspiration Trust	
 Inspire	
@@ -21197,9 +21133,11 @@ Integrated Support Centre
 Integrated Transport Authorities	
 Integrated Youth and Play Service	
 Intellectual Property Enterprise Court	
+BEIS - INTELLECTUAL PROPERTY OFFICE	EA34
 Intellectual Property Office	EA34
-Intellectual Property Office (BIS)	
+Intellectual Property Office (BIS)	EA34
 Intelligence Analysis	OT1052
+MOD Intelligence Collection Group	
 Intelligence Information Solutions	
 Intelligence Services Commissioner	OT512
 Intelligence Services Tribunal	
@@ -21217,6 +21155,7 @@ Interhealth Care Services UK Limited
 Intermediate Technology Development Group Limited	
 Internal Audit Profession	OT1038
 Internal Drainage Boards	
+HCA International	
 International Alert	
 International Bible Students Association	
 International Centre For Life	
@@ -21232,6 +21171,7 @@ International Gospel Outreach
 International Hall	
 International HIV AIDS Alliance	
 International Institute for Strategic The	
+CAA INTERNATIONAL LIMITED	
 International Maritime Organization	
 International Network for the Availability of Scientific Publications INASP	
 International Nuclear Services	
@@ -21261,6 +21201,7 @@ INTERNET WATCH FOUNDATION
 Interserve	
 Interserve Defence	
 Interserve Defence Limited	
+MOD Interserve Defence Limited	
 interserve Defence  Limited	
 interserve Defence Limited	
 Interserve - Epsom and St Helier	
@@ -21299,14 +21240,15 @@ Inverurie Day Care Centre
 INVERURIE MARKET PLACE PRIMARY SCHOOL	
 Invest Northern Ireland	
 Invest Wirral	
+Defra Investigation Services	
 Investigatory Powers Tribunal	PB270
+IUK Investments (net)	
 Investors in People UK	OT896
 Investors in People UK (IipUK)	
 Invicta Grammar School	
 Invicta Health Community Interest Company	
 Iona School The	
 IOPC Funds (International Oil Pollution Compensation Funds)	
-IPCC - Independent Police Complaints Commission	
 IP&E LTD	
 Ipplepen Parish Council	
 Ipplepen Primary School	
@@ -21440,7 +21382,10 @@ ISS Mediclean Walsall
 ISS Programmes Commercial	
 Issac Newton Academy	
 Issac Newton Primary School	
+Big Issue Cooperate	
 Issue Department	
+Big Issue Foundation The	
+Big Issue Invest	
 Istead Rise Primary School	
 IT Learning Exchange The	
 IT Services Ltd - (s BNFL)	
@@ -21454,7 +21399,6 @@ ITsafe
 ITSG	
 ITSO Ltd	
 ITSO Services Ltd	
-IUK Investments (net)	
 Ivanhoe College Ashby-De-La-Zouch	
 Ivanhoe Specialist Technology College	
 Iver Heath Junior School	
@@ -21587,10 +21531,6 @@ JISC
 Jisc	
 Jisc Collection	
 JISC Collections	
-JNCC SUPPORT CO	
-JNCC Support Co	
-JNCC Support Co.	
-JNCC Support Company	
 JO RICHARDSON COMMUNITY SCHOOL	
 Joan Lestor PDC The	
 Job Centre Plus	
@@ -21740,11 +21680,12 @@ Joint Council For Qualifications
 Joint Fire and Rescue Boards (Scotland)	
 Joint Forces Alliance	
 Joint Forces Command	OT498
-Joint Forces Command JFC	
+Joint Forces Command JFC	OT498
 Joint Forces Intelligence Group	
 Joint Helicopter Command JHC	
 Joint Information Systems Committee JISC	
 Joint Medical Command	
+DEFRA - JOINT NATURE CONSERVATION COMMITTEE	PB201
 JOINT NATURE CONSERVATION COMMITTEE	PB201
 Joint Nature Conservation Committee	PB201
 Joint Prison/Probation Accreditation Panel	
@@ -21753,6 +21694,7 @@ Joint Replacement Instrumentation
 Joint Services Command and Staff	
 Joint Services Command and Staff College	
 Joint Services Sail Training Agency The	
+MOD Joint Support Unit Corsham	
 Jolesfield Church of England Primary School	
 Jolly Medical Centre	
 Jones Memorial Primary School	
@@ -22522,6 +22464,7 @@ Kingson and Wimbledon YMCA
 Kingspark Parish Church	
 Kingspark School	
 Kingsridge Cleddans Housing Association	
+MOD Kingstanding	
 Kingsteignton Medical Practice	
 Kingsteignton School	
 Kingsteignton Town Council	
@@ -23244,9 +23187,8 @@ Lcc Dso Windows
 Lcc Redmile School	
 Lcc Sileby Redlands	
 LCP9 Kirkby Community Learning Centre	
-LCR Finance Plc	
-LCR Finance plc	
-LCR Treasury Management Limited	
+DFT - LCR – ADMINISTRATION OFFICE ESTATE	
+DFT - LCR – RESIDUAL LAND	
 Le Herisson School	
 Lea Community Primary School	
 Lea Forest Academy	
@@ -23286,6 +23228,7 @@ Leaney Primary School
 LEAP	
 Leap Valley Medical Centre	
 Learn Direct Scotland	
+Da Learning	
 LEARNING and ACHIEVEMENT SERVICE	
 Learning Action Dorset	
 Learning Alliance Academy Trust, the	
@@ -23317,8 +23260,6 @@ Learning Trust Woodberry Down The
 The Learning Trust Woodberry Down	
 Leas Park Junior School	
 The Lease Advisory Service	
-LEASE Conferences Ltd	
-Lease Hill	
 LEASEGUARD GROUP LIMITED	
 Leaseguard Group Limited	
 LEASEHOLD ADVISORY SERVICE	PB373
@@ -23446,6 +23387,7 @@ Legacy Trust UK Limited
 Legacy Trust UK Ltd	
 LEGAL AID AGENCY	EA556
 Legal Aid Agency	EA556
+MOJ - LEGAL AID AGENCY	EA556
 Legal Aid Board	OT994
 LEGAL OMBUDSMAN	IM329
 Legal Ombudsman	IM329
@@ -23550,6 +23492,7 @@ Leigh View Medical Centre
 Leigh Westleigh Methodist Primary School	
 Leigham Primary School	
 Leighfield Primary School	
+MOD Leighton House	
 Leighton Linslade Town Council	
 Leighton Linslade Town Councl	
 Leighton Park School	
@@ -23725,6 +23668,7 @@ Life Changes Trust The
 Life Hope	
 Life and other Annuities Warrant Account	
 Life Sciences Hub Wales Limited	
+UKTI Life Sciences Organisation	OT1068
 Life Sentence Review Commissioners	OT877
 Life Train Trust, the	
 Lifeline	
@@ -23774,6 +23718,8 @@ Limes Medical Centre
 Limeside Primary School	
 Limewalk House	
 Limington House School	
+Remploy Limited	
+Tpas Limited	
 Limpsfield Grange School	
 Limpsfield Junior School	
 Linx Homes	
@@ -23868,6 +23814,7 @@ Ling Moor Primary School
 Lingdale Primary School	
 Lingfield Primary School	
 Lings Primary School	
+MOD Linguistic Services	
 Lingwell Croft Surgery	
 Lingwood Primary & Nursery School	
 Lingwood Primary and Nursery School	
@@ -24189,6 +24136,7 @@ Lloyds Banking Group plc subsidiaries
 Lloyds Register of Shipping The	
 Lloyds Tsb Foundation For England and Wales	
 Lloyds Tsb Foundation For Scotland	
+BEIS - LLT VEHICLE DISPOSALS	
 LLW REPOSITORY LIMITED	
 LLW Repository Limited	
 LLW Repository Ltd	
@@ -24334,6 +24282,7 @@ Lollipop Production Music School
 Lomeshaye Junior School	
 Lomond and Argyll Primary Care NHS Trust	
 Lomond School	
+NPS London	
 London 2017 Limited	
 London Academy	
 London Academy of Excellence	
@@ -24456,6 +24405,7 @@ London Community Rehabilitation Company (CRC)
 London Community Rehabilitation Company Limited	
 London Computer Training Academy	
 London Contemporary Dance School	
+DFT - LONDON & CONTINENTAL RAILWAYS	
 LONDON AND CONTINENTAL RAILWAYS	
 London and Continental Railways	
 London and Continental Railways Finance plc	
@@ -24549,6 +24499,7 @@ London School of Economics and Political Science
 London School of Hygiene and Tropical Medicine	
 London School Of Law The	
 London School of Theology	
+SE London Shared Services Partnership	
 London South Bank University	
 London South bank University	
 London South Bank University Students Union	
@@ -24761,6 +24712,10 @@ Lothian Health Board
 Lothian Primary Care NHS Trust	
 Lothian University Hospitals NHS Trust	
 Lothian Valuation Joint Board	
+BIG LOTTERY FUND	PB188
+BIG Lottery Fund	PB188
+Big Lottery Fund	PB188
+Big Lottery Fund The	PB188
 Loudoun Academy	
 Loughan Special School	
 Loughborough	
@@ -24861,6 +24816,7 @@ L&Q NEW HOMES LIMITED
 LR - LAND REGISTRY AGENCY ESTATES DIVISION AED	
 LSE Library	
 LSU RLC	
+Remploy Ltd	PB350
 Lubavitch Foundation	
 Lubavitch Senior Girls School	
 Lubbins Park Community Primary School	
@@ -25012,7 +24968,7 @@ Lyvennet Community Trust
 M D Healthcare Care Home	
 M O D Corsham	
 M S Trust	
-MAA	
+MAA	OT1071
 Mabe Community Primary School	
 Mabel Pritchard School	
 Mablethorpe Childrens Centre	
@@ -25082,6 +25038,7 @@ Maesycwmmer Primary School
 Maesydderwen Comprehensive school	
 MaesYHandir Primary School	
 Maf International	
+BBC Magazines Inc. [USA] (s BBCW)	
 Magdalen College	
 Magdalen College School	
 Magdalen College School Oxford	
@@ -25232,6 +25189,8 @@ Malvern Surgeries The
 Malvin’s Close Primary School	
 Manaccan Primary School	
 Management	
+BCS Management Services	
+Ccc Management Team	
 Manchester Academy	
 Manchester Airport Building Ltd (s MA)	
 Manchester Airport Employment Services Ltd (s MA)	
@@ -25495,7 +25454,7 @@ Marine Conservation Society
 Marine Environmental Data & Information Network	
 Marine Fisheries Agency	EA843
 Marine and Fisheries Agency	EA843
-Marine and Fisheries Agency (DEFRA)	
+Marine and Fisheries Agency (DEFRA)	EA843
 MARINE MANAGEMENT ORGANISATION	PB57
 Marine Management Organisation	PB57
 Marine Medical Group	
@@ -25508,6 +25467,7 @@ Marine Surgery
 Marish Primary School	
 Marist Catholic College Primary school The	
 MARITIME and COAST GUARD AGENCY	
+DFT - MARITIME AND COASTGUARD AGENCY	EA78
 Maritime & Coastguard Agency	EA78
 Maritime and Coastguard Agency	EA78
 Maritime & Coastguard Agency (MCA) (DFT)	
@@ -25665,6 +25625,7 @@ Marysville Medical Centre
 Mascalls School	
 Masey Hampton Church of England Primary School	
 Masjid Noorul Islam	
+S4C Masnachol Cyf - (s S4C)	
 Masonic House Surgery	
 Masonic Housing Association	
 Mass Consultants Limited	
@@ -25835,6 +25796,7 @@ Medecins Sans Frontieres UK
 Meden School	
 The Meden School and Technology College	
 Medequip4kids	
+BBC Media Action	
 Media Action Group for Mental Health	
 Median Road Wick Branch	
 Mediation Advisory Services	
@@ -25842,6 +25804,7 @@ Medical Appeal Tribunals Northern Ireland
 Medical Appeals Tribunal	
 Medical Centre	
 Medical Centre The	
+Spa Medical Centre	
 The Medical Centre	
 Medical Devices Agency	
 Medical Economics and Research Centre	
@@ -25851,10 +25814,11 @@ Medical Foundation For The Care of Victims of Torture
 Medical Practices Committee	
 Medical Profession	OT1054
 Medical Reception Station Colchester	
+BEIS - MEDICAL RESEARCH COUNCIL	PB132
 MEDICAL RESEARCH COUNCIL	PB132
 Medical Research Council	PB132
+Medical Research Council (MRC)	PB132
 Medical Research Council - from 07-08 MRC063	
-Medical Research Council (MRC)	
 Medical Research Council Technology	
 Medical Royal Colleges	
 Medical Schools Council	
@@ -25862,17 +25826,19 @@ Medical Services
 Medical Services Limited	
 Medical Services Ltd	
 Medical Supplies Agency	EA705
+Mod Medical Supplies Authority	
 Medical Workforce Standing Advisory Committee	
 Medicines Commission	
 Medicines Control Agency	
 Medicines Evaluation Unit The	
 Medicines Evaluation Unit, The	
+DH - MEDICINES, HEALTHCARE PRODUCTS AND REGULATORY AGENCY	EA63
 MEDICINES and HEALTHCARE PRODUCTS REGULATORY AGENCY	EA63
 Medicines Healthcare Products Regulatory Agency	EA63
 Medicines and Healthcare Products Regulatory Agency	EA63
+Medicines and Healthcare Products Regulatory Agency (DH)	EA63
+Medicines and Healthcare Products Regulatory Agency (MHRA)	EA63
 Medicines and Healthcare products Regulatory Agency	EA63
-Medicines and Healthcare Products Regulatory Agency (DH)	
-Medicines and Healthcare Products Regulatory Agency (MHRA)	
 Medics Gateway Limited	
 Medina High School	
 Medina Housing Association Limited	
@@ -26138,10 +26104,11 @@ Mesty Croft Academy
 Mesty Croft Primary School	
 Mesty Croft primary School	
 Met Constables	
+BEIS - MET OFFICE	EA46
 MET OFFICE	EA46
 Met Office	EA46
+Met Office (MOD)	EA46
 The Met Office	EA46
-Met Office (MOD)	
 Met Police Federation Inspectors	
 Metal Industry Skills and Performance	
 Metamorphic Association The	
@@ -26202,7 +26169,7 @@ MHA Care Group
 MHS Homes Group Limited	
 Mhs Homes Limited	
 Mix Stowmarket The	
-MI5	
+MI5	OT304
 MIAA Advisory Services	
 Mica Drive Day Centre	
 Michael Davitt Gac	
@@ -26392,6 +26359,7 @@ Military Equipment Tool Solutions
 Military Stabilisation Support Group	
 Military Strategic Plans	
 Military Survey	
+MOD Military Works Force	
 Milk Development Council	OT851
 Milk Development Council (MDC)	
 Milking Bank Primary School	
@@ -26540,6 +26508,7 @@ Minety Church of England School
 Mineworker's Pension Scheme	
 Minister Church of England Primary School	
 MINISTRY OF DEFENCE	D17
+MOD - MINISTRY OF DEFENCE	D17
 Ministry of Defence	D17
 Ministry Of Defence Army Medal Office	
 Ministry of Defence Babcock Services	
@@ -26591,6 +26560,7 @@ Ministry of Defence Police and Guarding Agency	EA693
 Ministry of Defence,Commands and Centre	
 MINISTRY OF JUSTICE	D18
 Ministry of Justice	D18
+MOJ - MINISTRY OF JUSTICE HQ	D18
 Ministry of Justice HQ Estates	
 Ministry of Justice: Judicial Pensions Scheme	
 Ministry of Justice (MoJ) ALB / Probation Trust Liaison Manager	
@@ -26729,87 +26699,16 @@ Moat Primary School The
 The Moat Primary School	
 Moat School The	
 Mobility Choice	
-MOD	
-Mod 207 Manchester Fd Hosp V	
-MOD 29 Regiment RLC	
-Mod; 37 Section Sib Uk	
-MOD 42 CDO Room	
-MOD Albermarle Barracks	
-MOD Army	
-MOD Ascension Island	
-MOD Bath	
-MOD BFG C&C	
-MOD Bhurtpore Barracks	
-MOD Boscombe	
-MOD Bristol NP-IPT	
-MoD Central Top Level Budget	
-MOD Centre Block	
-MOD CPET Procurement Services	
-MOD DCSA Arncott	
-MOD DCSA DII	
-MOD DE USF	
-MOD Defence Estate	
-MOD Defence Estate York	
-MOD   DE&S   ISS   CORSHAM	
-MOD DGFM	
-MOD DR2f	
-MOD DWS RAF Croughton	
-MOD Engineering Library	
-MOD Ensleigh	
-MOD Hospital Unit	
-MOD HQ 1 MECH BDE	
-MOD HQ Land Command	
-MOD HQ London District	
-MOD Intelligence Collection Group	
-MOD Interserve Defence Limited	
-MOD Joint Support Unit Corsham	
-MOD Kingstanding	
-MOD Leighton House	
-MOD Linguistic Services	
-Mod Medical Supplies Authority	
-MOD Military Works Force	
-MOD - MINISTRY OF DEFENCE	
-MOD N	
-MOD Navy	
-MOD NPPO	
-MOD Police Marine Unit	
-MOD The Quartermasters Department	
-MOD RAF	
-MOD RAF Magazines	
-MOD RAF St Athan	
-MOD Research Acquisition Organisation	
-MOD Specialist Procurement Services	
-MOD St James House	
-MOD Telford	
-MOD UK DLO	
-MOD - UNITED KINGDOM HYDROGRAPHIC OFFICE	
+MOD	D17
 Modbury Health Centre	
 Model Church in Wales School	
 Model Village Primary School The	
+Tate Modern	
 Modus Care	
 Moggerhanger Lower School	
 Moira House School Limited	
 Moira Primary School	
-MOJ	
-MOJ - CHILDREN & FAMILY COURT ADVISORY & SUPPORT SERVICE	
-MOJ - CRIMINAL INJURIES COMPENSATION AUTHORITY	
-MOJ - HMCTS (LONDON)	
-MOJ - HMCTS (MIDLANDS)	
-MOJ - HMCTS (NORTH EAST)	
-MOJ - HMCTS (NORTH WEST)	
-MOJ - HMCTS (SCOTLAND)	
-MOJ - HMCTS (SOUTH EAST)	
-MOJ - HMCTS (SOUTH WEST)	
-MOJ - HMCTS (WALES)	
-MOJ - LEGAL AID AGENCY	
-MOJ - MINISTRY OF JUSTICE HQ	D18
-MOJ - NOMS CUSTODIAL PRISON OFFICER QUARTERS	
-MOJ - NOMS CUSTODIAL PROPERTY	
-MOJ - NOMS CUSTODIAL PROPERTY OUTSIDE THE WIRE	
-MOJ - NOMS HQ	
-MOJ - NOMS PROBATION	
-MOJ and NOMS Transport Unit	
-MOJ - SUPREME COURT	
+MOJ	D18
 Moldgreen Community Primary School	
 Mole Valley District Council	
 Mole Valley Housing Association	
@@ -26838,8 +26737,6 @@ Monifieth High School
 Monifieth Practice	
 Monikie Primary School	
 Monitor	PB255
-Monitor - Independent Regulator of NHS Foundation Trusts	
-Monitor – Independent Regulator of NHS Foundation Trusts	
 MONK FRYSTON Church of England PRIMARY SCHOOL	
 Monkfield Park Primary School	
 Monkfrith School	
@@ -27176,15 +27073,6 @@ Mowsley Primary School
 Moyle District Council	
 MQES Rlc	
 Mr J Hodgkinson	
-MRC Epidemiology Unit	
-MRC  Human Genetics Unit	
-MRC Human Genetics Unit	
-MRC Human Nutrition Research	
-MRC Human Reproductive Sciences Unit	
-MRC Immunochemistry Unit	
-MRC Technology	
-MRC Technology Limited	
-MRC Technology Ltd	
 Mrs Gells Almshouse Charity	
 Mrs H Frances Le Personne Benevolent Trust	
 Mrs Uttersonss Almshouses	
@@ -27254,6 +27142,9 @@ Murton Community Primary School
 Musbury Primary School	
 Muscliff Primary School	
 Muscular Dystrophy Campaign	
+Horniman Museum	
+Horniman Museum Enterprises Limited	
+RM Museum Ltd	
 Museum of Cambridge	
 Museum of Culinary History and Alimentation	
 Museum of Kent Life Trust	
@@ -27264,6 +27155,7 @@ Museum of London - from 08-09 E5105
 Museum of Science and Industry	
 Museum of Science and Industry in Manchester	
 Museum of Welsh Life	
+Horniman Museum and Public Park Foundation	
 Museums Association	
 MUSEUMS AND GALLARIES (SUBGROUP)	
 Museums and Galleries Commission	
@@ -27312,6 +27204,7 @@ Mytime Active
 Myton Hamlet Hospice	
 Myton Hospices	
 Myton School	
+MOD N	
 N E E A P S	
 N E E L B	
 N E L Commissioning Support Unit	
@@ -27337,7 +27230,6 @@ Nairn Academy
 Nairn Community Transport	
 Nairn Port	
 Naiscoil Uachtar Tire	
-NAM Publications	
 Name	
 Nanaksar Primary School	
 Nancledra Primary School	
@@ -27464,6 +27356,8 @@ National Council For Voluntary Organisations
 National Council of YMCAs Incorporated	
 National Council of Young Men’s Christian Associations (Incorporated)	
 National Counter Terrorism Security Office	OT1089
+NCA - NATIONAL CRIME AGENCY (NCA)	PB558
+NCA - National Crime Agency	PB558
 National Crime Agency	PB558
 National Crime Agency, The	PB558
 National Crime Agency Remuneration Review Body	PB580
@@ -27471,6 +27365,7 @@ National Crime Squad	OT703
 National Criminal Intelligence Service	EA704
 National Criminal Investigation Service	
 National Curriculum Council	
+OFWAT National Customer Council	
 National Cyber Security Centre	OT1211
 National Dance Company Wales	
 National Data Guardian	OT1180
@@ -27508,14 +27403,17 @@ National Fallen Stock Company Limited
 National Federation of Self Employed and Small Businesses Limited	
 National Film Development Fund	
 National Film and Television School	
+DEFRA - NATIONAL FOREST COMPANY	PB415
 NATIONAL FOREST COMPANY	PB415
 National Forest Company	PB415
+DEFRA - NATIONAL FOREST COMPANY OPERATIONAL	
 National Foundation for Education Research	
 National Foundation for Educational Research	
 National Foundation For Youth Music	
 National Fraud Authority	PB29
 National Fuel Distributors Ltd - (s HI)	
 National Galleries of Scotland	
+DCMS - NATIONAL GALLERY	PB174
 NATIONAL GALLERY	PB174
 National Gallery	PB174
 The National Gallery	PB174
@@ -27546,6 +27444,7 @@ National Health Service Trusts (Wales)
 National Health Service University	
 National Heart and Lung Institute	
 National Heart Research Fund	
+DCMS - NATIONAL HERITAGE MEMORIAL FUND	PB175
 NATIONAL HERITAGE MEMORIAL FUND	PB175
 National Heritage Memorial Fund	PB175
 National Heritage Memorial Fund Investment Account	
@@ -27561,6 +27460,7 @@ NATIONAL INSTITUTE FOR CLINICAL EXCELLENCE
 National Institute for Clinical Excellence	
 National Institute for Clinical Excellence (The)	
 The National Institute for Clinical Excellence	
+DH - NATIONAL INSTITUTE FOR HEALTH AND CARE EXCELLENCE	PB474
 NATIONAL INSTITUTE FOR HEALTH AND CARE EXCELLENCE	PB474
 National Institute for Health and Care Excellence	PB474
 National Institute For Health and Clinical Excellence	
@@ -27600,11 +27500,13 @@ National Lottery Distribution Fund
 NATIONAL LOTTERY: UK SPORT LOTTERY	
 National Lottery UK Sports Council Lottery	
 National Lottery: UKSC Lottery	
+DCMS - NATIONAL MARITIME MUSEUM	
 NATIONAL MARITIME MUSEUM	
 National Maritime Museum	
 National Measurement Office	EA33
+National Measurement Office (BIS)	EA33
 National Measurement Office, The	EA33
-National Measurement Office (BIS)	
+BEIS - NATIONAL MEASUREMENT AND REGULATION OFFICE	EA1109
 National Measurement & Regulation Office	EA1109
 National Measurement and Regulation Office	EA1109
 National Media Museum	
@@ -27626,6 +27528,7 @@ National Museums and Galleries of Northern Ireland	OT868
 NATIONAL MUSEUMS AND GALLERIES OF WALES	
 National Museums and Galleries of Wales	
 National Museums and Galleries on Merseyside	
+DCMS - NATIONAL MUSEUMS LIVERPOOL	PB178
 NATIONAL MUSEUMS LIVERPOOL	PB178
 National Museums Liverpool	PB178
 National Museums Northern Ireland	
@@ -27642,7 +27545,7 @@ National Oceanography Centre Southampton
 National Offender Management Peterborough	
 National Offender Management Scheme (NOMS) (MoJ)	
 National Offender Management Service	EA70
-National Offender Management Service (NOMS)	
+National Offender Management Service (NOMS)	EA70
 National Open College Network	
 National Operatic and Dramatic Association Limited	
 National Osteoporosis Society	
@@ -27650,9 +27553,11 @@ National Parks Authorities (En Bloc)
 National Patient Safety Agency	EA860
 National Performance Advisory Group	
 National Phobics Society	
+BEIS - NATIONAL PHYSICAL LABORATORY	
 National Physical Laboratory	
 National Police Training Centre	
 National Policing Improvement Agency	EA904
+DCMS - NATIONAL PORTRAIT GALLERY	PB179
 NATIONAL PORTRAIT GALLERY	PB179
 National Portrait Gallery	PB179
 National Prescribing Centre NHS	
@@ -27719,13 +27624,16 @@ The National Youth Jazz Collective
 Nations Healthcare Limited	
 Nations Healthcare Northampton Limited	
 Natland and Oxenholme PreSchool	
+DEFRA - NATURAL ENGLAND	PB202
 NATURAL ENGLAND	PB202
 Natural England	PB202
+BEIS - NATURAL ENVIRONMENT RESEARCH COUNCIL	PB133
 NATURAL ENVIRONMENT RESEARCH COUNCIL	PB133
 Natural Environment Research Council	PB133
+Natural Environment Research Council (NERC)	PB133
 Natural Environment Research Council, The	PB133
 Natural Environment Research Council - from 07-08 NER063	
-Natural Environment Research Council (NERC)	
+DCMS - NATURAL HISTORY MUSEUM	PB180
 NATURAL HISTORY MUSEUM	PB180
 Natural History Museum	PB180
 The Natural History Museum	PB180
@@ -27745,6 +27653,7 @@ Navenby C of E Primary School
 Navenby Church of England Primary School	
 Navigate Academies Trust	
 NAViGO Health and Social Care CIC	
+MOD Navy	
 Navy, Army and Air Force Institute	
 Navy Command	
 Navy News	
@@ -27753,17 +27662,12 @@ Nazeing Primary School
 Nazerine Theological College	
 NBFA Assisting The Elderly	
 NBV Enterprise Solutions	
-NCA - National Crime Agency	
-NCA - NATIONAL CRIME AGENCY (NCA)	
 NCG	
 Ncg Corporation	
 NCH Childrens Services Limited	
 NCL Collaborative Procurement Hub	
 NCS Trust CIC	
 NCY Trust	
-NDA Archives Limited	
-NDA Properties Limited	
-NDA RWMD	
 NDPB	
 NDPB1	
 NE Procurement	
@@ -27820,7 +27724,6 @@ Nene Valley Primary School
 Nenegate School	
 NEPO	
 Ner Yisrael	
-NERC sea Mammal Research Unit	
 Nescot College	
 Nesscliffe Training Camp	
 Nessfield Primary School	
@@ -27878,6 +27781,7 @@ Network Homes Limited
 Network Housing Association Limited	
 Network Housing Group	
 Network Housing Group Limited	
+DFT - NETWORK RAIL	
 Network Rail	
 Network Rail Limited	
 Network Rail Ltd	
@@ -27962,7 +27866,7 @@ New Forest Disability Information Service
 NEW FOREST DISTRICT COUNCIL	
 New Forest District Council	
 New Forest National Park Authority	OT222
-New Forest National Park Authority (NFNPA)	
+New Forest National Park Authority (NFNPA)	OT222
 New Forest Villages Housing Association Limited	
 New Fosseway School	
 New Foundations Housing Association Limited	
@@ -28356,6 +28260,7 @@ NFCE
 NFPA Scotland Ltd	
 Ngage Solutions Limited	
 NHS	
+NHS monitor	
 NHS 24	
 NHS Airedale, Wharfdale and Craven Clinical Commissioning Group	
 NHS Airedale, Wharfedale and Craven CCG	
@@ -28422,6 +28327,7 @@ NHS Blackpool
 NHS Blackpool CCG	
 NHS Blackpool Clinical Commissioning Group	
 NHS Blackpool (PCT)	
+DH - NHS BLOOD & TRANSPLANT	OT486
 NHS BLOOD & TRANSPLANT	OT486
 NHS Blood & Transplant	OT486
 NHS Blood And Transplant	OT486
@@ -28460,6 +28366,7 @@ NHS Bury CCG
 NHS Bury Clinical Commissioning Group	
 NHS Bury (PCT)	
 NHS Business Service Authority	
+DH - NHS BUSINESS SERVICES AUTHORITY	OT529
 NHS BUSINESS SERVICES AUTHORITY	OT529
 NHS Business Services Authority	OT529
 Nhs Business Services Authority	OT529
@@ -28559,6 +28466,7 @@ NHS Derbyshire County
 NHS Devon	
 NHS Devon (PCT)	
 NHS Diabetes	
+DH - NHS DIGITAL	PB1202
 NHS Digital	PB1202
 NHS Direct	
 NHS Direct National Health Service Trust	OT802
@@ -28618,6 +28526,7 @@ NHS Employers
 NHS Enfield	
 NHS Enfield CCG	
 NHS Enfield Clinical Commissioning Group	
+DH - NHS ENGLAND	PB481
 NHS ENGLAND	PB481
 NHS England	PB481
 NHS England (Cumbria and the North East)	
@@ -28724,6 +28633,7 @@ NHS Hull
 NHS Hull CCG	
 NHS Hull Clinical Commissioning Group	
 NHS Hull (PCT)	
+DH - NHS IMPROVEMENT	PB1199
 NHS Improvement	PB1199
 NHS Improvements	
 NHS Improving Quality	
@@ -28817,7 +28727,6 @@ NHS Midlands and Lancashire CSU
 NHS Milton Keynes CCG	
 NHS Milton Keynes Clinical Commissioning Group	
 NHS Milton Keynes and Northamptonshire	
-NHS monitor	
 NHS National Innovation Centre	
 NHS National Services Scotland	
 NHS Nene CCG	
@@ -29291,7 +29200,12 @@ Noise Festival Limited
 Nomad Housing Group Limited	
 Nomad Housing Trust Limited	
 Nomad Trust Lincoln	
-Noms South East Region	
+MOJ - NOMS CUSTODIAL PRISON OFFICER QUARTERS	
+MOJ - NOMS CUSTODIAL PROPERTY	
+MOJ - NOMS CUSTODIAL PROPERTY OUTSIDE THE WIRE	
+MOJ - NOMS HQ	
+MOJ - NOMS PROBATION	
+MOJ and NOMS Transport Unit	
 Non Fossil Purchasing Agency Ltd	
 Non-centralised Procurements	
 Nonsuch Abbeyfield	
@@ -29481,6 +29395,7 @@ North Durham Academy
 North Durham Health Care FT	
 North Durham Health Care NFT	
 North Ealing Primary School	
+CPS - NORTH EAST	
 NORTH EAST ACCESS TO FINANCE LIMITED	
 North East Ambulance Service FT	
 North East Ambulance Service NFT	
@@ -29508,6 +29423,7 @@ North East Futures University Technical College
 North East Improvement and Efficiency Partnership	
 North East Leeds City Learning Centre	
 North East LETB	
+NPS North East Limited	
 North East Lincolnshire Care Trust Plus	
 North East Lincolnshire Care Trust Plus (PCT)	
 North East Lincolnshire Clinical Commissioning Group	
@@ -29758,6 +29674,7 @@ North Warwickshire Borough Council
 North Warwickshire and Hinckley Colleg	
 North Warwickshire & Hinckley College	
 North Warwickshire and Hinckley College	
+CPS - NORTH WEST	
 North West	
 North and West Adult Community College	
 North West Aerospace Alliance	
@@ -29787,6 +29704,7 @@ North West Kent College
 North West Kent College Of Technology	
 North West Learning Grid	
 North West Leicestershire District Council	
+NPS North West Limited	
 North West London Acute Commissioning Vehicle	
 North West London Commissioning Partnership	
 North West London Hospitals	
@@ -30044,6 +29962,7 @@ Northern Ireland Judicial Appointments Commission	OT880
 Northern Ireland Judicial Appointments Ombudsman	OT1003
 Northern Ireland Law Commission	OT937
 Northern Ireland Legal Services Commission	OT783
+DCAL Northern Ireland Library Authority	
 Northern Ireland Library Authority	
 Northern Ireland Local Government Association	
 Northern Ireland Local Government Officers Superannuation	
@@ -30396,14 +30315,7 @@ Nower Hill High School
 NPIA	
 NPIA - National Policing Improvement Agency	
 NPL Management Limited	
-NPS Group	
-NPS GROUP LIMITED	
-NPS London	
-NPS North East Limited	
-NPS North West Limited	
-NPS Property Consultants Limited	
-NPS South West Limited	
-NPS Stockport HR Office	
+MOD NPPO	
 NPT Homes	
 NPT Homes Ltd	
 Nsa Baha'Is Of The UK	
@@ -30444,9 +30356,12 @@ Nuckells Almshouses
 Nuclear Decommission Authority	
 NUCLEAR DECOMMISSIONING AUTHORITY	PB197
 Nuclear Decommissioning Authority	PB197
+Nuclear Decommissioning Authority (NDA)	PB197
 Nuclear Decommissioning Authority - from 08-09 NDA066	
-Nuclear Decommissioning Authority (NDA)	
 Nuclear Decommissioning Authority (NDA) Estate	
+DECC - NUCLEAR DECOMMISSIONING AUTHORITY - OCCUPIED	
+DECC - NUCLEAR DECOMMISSIONING AUTHORITY - OPERATIONAL	
+DECC - NUCLEAR DECOMMISSIONING AUTHORITY - PROPERTIES LTD	
 Nuclear Flask Hire Limited (s. BNG / BNFL)	
 Nuclear Generation Decommissioning Fund Ltd	
 Nuclear Liabilities Financing Assurance Board	PB193
@@ -30493,8 +30408,8 @@ Nunney School
 Nunthorpe Comprehensive School	
 Nunthorpe School	
 Nunwell Surgery	
-Nursery Channel Ltd. (S - S4C) (The)	
 The Nursery Channel Ltd. (S - S4C)	
+Nursery Channel Ltd. (S - S4C) (The)	
 Nursery Hill Primary School	
 Nurses, Midwives, Health Visitors and Professions Allied to Medicine Pay Review Body	
 Nurses', Midwives' and other NHS Professions Review Body	
@@ -30516,7 +30431,7 @@ OAC
 Oadby Owls Fc	
 Oadby and Wigston Borough Council	
 Oadby and Wigston District Council	
-OAG	
+OAG	D20
 Oak Academy	
 Oak Bank School	
 Oak Cottage Primary school	
@@ -30758,18 +30673,15 @@ Octavia Housing and Care
 October Gallery Trust	
 Octopus Childrens Centre	
 Oders of St Johns Care Trust The	
-Odi	
+Odi	OT1066
 Odiham Health Centre	
 ODPM Firelink	
 Odu Dua Housing Association Limited	
 Odu-Dua Housing Association Limited	
 Oxfam	
 OFCOM	OT385
+OFCOM (DCMS)	OT385
 Ofcom	OT385
-OFCOM (DCMS)	
-OFCOM - OFFICE OF COMMUNICATIONS	
-OFFA Community Council	
-Offa House	
 Offas Mead Primary School	
 Offa’s Mead Primary School	
 Offerton High School	
@@ -30789,26 +30701,28 @@ Office for Life Sciences	OT502
 Office for Low Emission Vehicles	OT514
 Office for Manpower Economics	
 OFFICE FOR NATIONAL STATISTICS	D303
+ONS - OFFICE FOR NATIONAL STATISTICS	D303
 Office for National Statistics	D303
-Office for National Statistics (ONS)	
+Office for National Statistics (ONS)	D303
 Office for Nuclear Regulation	PC1059
-Office for Nuclear Regulation (ONR)	
+Office for Nuclear Regulation (ONR)	PC1059
 Office for Regulation of Electricity & Gas	
 Office for the Regulation of Electricity and Gas (OFREG) (Northern Ireland)	
 Office for Security and Counter-Terrorism	
 Office for Standard in Education Children’s Services and Skills	
-Office for Standard in Education children’s Services and Skills	
 Office for Standard in Education children's Services and Skills (Ofsted)	
+Office for Standard in Education children’s Services and Skills	
 OFFICE FOR STANDARDS IN EDUC, CHILDREN & SKILLS	
+OFSTED - OFFICE FOR STANDARDS IN EDUCATION	
 Office for Standards In Education	
 Office for Standards in Education	
-Office for Standards in Education Children’s Services and Skills	
-Office for Standards in Education, Children's Services and Skills	
-Office for Standards in Education, Children’s Services and Skills	
+Office for Standards in Education (OFSTED)	
+Office for Standards in Education Children’s Services and Skills	D106
+Office for Standards in Education, Children's Services and Skills	D106
 Office for Standards in Education, Children's Services and Skills (OFSTED)	D106
 Office for Standards in Education, Childrens Services and Skills (OFSTED)	D106
+Office for Standards in Education, Children’s Services and Skills	D106
 Office for Standards in Education, Children’s Services and Skills (OFSTED)	D106
-Office for Standards in Education (OFSTED)	
 Office for Tenants and Social Landlords	EA955
 Office for Tenants and Social Landlords (Tenants Services Authority)	
 Office of Accountant General	
@@ -30833,15 +30747,16 @@ Office of the Commissioner for Public
 Office of the Commissioner for Public Appointments	
 Office of the Commissioner for Public Appointments in Scotland	
 Office of the Commissioner for the Rights of Trade Union Members	OT940
+OFCOM - OFFICE OF COMMUNICATIONS	OT385
 Office of Communications	OT385
-Office of Communications (Ofcom)	
+Office of Communications (Ofcom)	OT385
 Office of the Data Protection Commissioner	
 Office of the Data Protection Registrar	OT979
 Office of the Deputy Prime Minister	
 Office of the Deputy Prime Minister (ODPM)	
 Office of Electricity Regulation	
 Office of Fair Trading	D352
-Office of Fair Trading (OFT)	
+Office of Fair Trading (OFT)	D352
 Office of Financial Sanctions Implementation	OT1187
 Office of the First and Deputy First Minister	
 Office of First Minister and Deputy First Minister	OT749
@@ -30908,23 +30823,25 @@ Office of the Prisons and Probation Ombudsman for England and Wales
 Office of the Private Public Partnership Arbiter	
 Office of Project Advice and Training	
 Office of the Public Guardian	EA72
-Office of the Public Guardian (MoJ)	
+Office of the Public Guardian (MoJ)	EA72
 Office of the Public Guardian (Scotland)	
 Office of Public Sector Information (The National Archives)	
 Office of Public Service	
 Office of Public Services and Science (OPSS)	
 Office of Qualification and Examination Regulation (Ofqual)	
+DFE - OFFICE OF QUALIFICATIONS AND EXAMINATIONS REGULATION (OFQUAL)	D109
 OFFICE OF QUALIFICATIONS & EXAMINATIONS REGULATION	D109
 Office of Qualifications and Examinations Regulation	D109
+Office of Qualifications and Examinations Regulation (OFQUAL)	D109
+Office of Qualifications and Examinations Regulation (Ofqual)	D109
+Office of Qualifications and Examinations Regulator (Ofqual)	D109
 Office of the Qualifications and Examinations Regulator	D109
-Office of Qualifications and Examinations Regulation (OFQUAL)	
-Office of Qualifications and Examinations Regulation (Ofqual)	
-Office of Qualifications and Examinations Regulator (Ofqual)	
 Office of Rail Regulation	D110
+Office of Rail Regulation (ORR)	D110
 Office of the Rail Regulator	D110
 Office of the Rail Regulator and International Rail Regulator (ORR)	D1117
-Office of Rail Regulation (ORR)	
 OFFICE OF RAIL AND ROAD	D1117
+ORR - OFFICE OF RAIL AND ROAD	D1117
 Office of Rail and Road	D1117
 Office of the Rail and ROAD (ORR) DFT	D1117
 Office of the Registrar of Consultant Lobbyists	OT1091
@@ -31028,9 +30945,7 @@ Oxfordshire Rural Community Council
 Ofqual	D109
 OFSTED	D106
 Ofsted	D106
-OFSTED - OFFICE FOR STANDARDS IN EDUCATION	
 Oftel	OT978
-OFWAT National Customer Council	
 OGC	
 OGC Buying Solutions	
 OGC buying.solutions	
@@ -31221,7 +31136,6 @@ Ongo Communities Limited
 Ongo Homes	
 Ongo Homes Limited	
 ONGO PARTNERSHIP LIMITED	
-ONS - OFFICE FOR NATIONAL STATISTICS	
 Onslow Almshouses (The)	
 Onslow Almshouses The	
 Onslow Infant School	
@@ -31259,7 +31173,9 @@ Opendoors
 Opera North Limited	
 Operation Mobilisation	
 Operational Delivery Profession	OT1029
+DFE - OPERATIONAL PROPERTIES	
 Operational Training And Advisory Group	
+DWP - OPERATIONS	
 Operations Department	
 Operations Support HQ	
 Operon	
@@ -31336,6 +31252,7 @@ Ordinary Life Project Association
 Ordiquhill Primary School	
 Ordnance Survey	D38
 ORDNANCE SURVEY LIMITED	
+BEIS - ORDNANCE SURVEY LTD	
 Ordnance Survey of Northern Ireland	EA695
 ORDSALL HEALTH SURGERY	
 Ordsall Primary School	
@@ -31410,7 +31327,6 @@ Ormonde House Rest Home
 Ormsgill Primary School	
 Ormskirk School	
 Orpington College of Further Education	
-ORR - OFFICE OF RAIL AND ROAD	
 Orrell Holgate Primary School	
 Orrell St James' Catholic Primary School	
 Orrishmere Primary School	
@@ -31943,6 +31859,7 @@ Parkwood Leisure
 Parkwood Primary School	
 Parlaunt Park Primary School	
 Parley First School	
+BBC Parliament	
 Parliament Hill School	
 Parliament Primary School	
 Parliamentary Boundary Commission for England	
@@ -32318,6 +32235,8 @@ Pension, Disability and Carers Service	EA924
 PENSION PROTECTION FUND	PB348
 Pension Protection Fund	PB348
 Pension Protection Fund Ombudsman	PB235
+BBC Pension Scheme	
+UKAEA PENSION SCHEMES	
 Pension Service	OT845
 Pension Wise	
 Pensions Advisory Service	PB233
@@ -32335,6 +32254,7 @@ Pensions Ombudsman, The	PB236
 THE PENSIONS OMBUDSMAN	PB236
 The Pensions Ombudsman	PB236
 The Pensions Protection Fund	
+DWP - PENSIONS REGULATOR	PB234
 Pensions Regulator	PB234
 Pensions Regulator The	PB234
 Pensions Regulator, The	PB234
@@ -32684,10 +32604,10 @@ Planning Appeals Commission
 Planning Court	
 PLANNING INSPECTORATE	EA39
 Planning Inspectorate	EA39
+Planning Inspectorate (DCLG)	EA39
 Planning Inspectorate The	EA39
 THE PLANNING INSPECTORATE	EA39
 The Planning Inspectorate	EA39
-Planning Inspectorate (DCLG)	
 Planning Service	OT714
 Planning Service (Northern Ireland)	
 Plant Varieties and Seeds Tribunal	PB423
@@ -32771,7 +32691,6 @@ Plymstock School and Sports College
 PMETB	
 PMT Army Design Consultants	
 Pneumoconiosis Workers Compensation Board	
-PO Box 60 (awaiting name update)	
 Pobl	
 Pochin School The	
 The Pochin School	
@@ -32837,6 +32756,7 @@ Police Information Tech Organisation
 Police Information Technology Organisation	EA832
 Police Information Technology Organisation (PITO)	
 Police Investigations & Review Commissioner	
+MOD Police Marine Unit	
 Police Mutual	
 Police Negotiating Board	PB458
 Police Ombudsman for Northern Ireland	
@@ -32870,6 +32790,7 @@ Pollington Balne Church of England Primary School
 Pollyplatt Community Primary School	
 Polperro Primary School	
 Polruan Primary School	
+BBC Polska SP Zoo [Poland] (s WS)	
 Poltair School	
 Polygon School The	
 Polymers Training Limited	
@@ -33053,6 +32974,8 @@ Post Office Users' Council for Scotland
 Post Office Users' Council for Wales	
 Post Office Users' National Council	
 Post Qualification Education Board for Health Science Pharmacists in Scotland	
+BIS (Postal Services Act 2011) B Company Limited	
+BIS (Postal Services Act 2011) Company Limited	
 Postal Services Commission	OT834
 Postal Services Commission (Postcomm)	
 Postal Services Holding Company Plc	
@@ -33211,6 +33134,7 @@ Primary Care Trusts (En Bloc)
 Primary Engineer	
 Primary Healthcare	
 Primary Inclusion Centre The	
+Horniman Primary School	
 Prime Focus Regeneration Group Limited	
 Prime Life Limited	
 Prime Minister's Office	
@@ -33399,6 +33323,7 @@ Pro-Cure NHS Collaborative Procurement Hub
 PROCURE PLUS HOLDINGS LIMITED	
 Procure Plus Limited	
 Procure4London	
+BBC Procurement	
 Procurement Agency for Essex	
 Procurement and Contract Management	
 Procurement Excellence in the Police Service	
@@ -33430,8 +33355,10 @@ Proper Job Theatre Company Limited The
 The Proper Job Theatre Company Limited	
 Properties  Divisions	
 Properties Divisions	
+NDA Properties Limited	
 Property Advisors to the Civil Estate (PACE)	
 Property Advisory Group	
+NPS Property Consultants Limited	
 Property Services	
 Propps Hall School	
 Proskills	
@@ -33487,6 +33414,7 @@ Public Guardian Board
 Public Guardianship Office	
 Public Health Agency for Northern Ireland	
 Public Health Department - Wandsworth Council	
+DH - PUBLIC HEALTH ENGLAND	EA480
 Public Health England	EA480
 Public Health England (PHE) (DH)	
 Public Health Laboratory Science Board	
@@ -33499,6 +33427,8 @@ Public Health Wales NHS Trust Screening Services
 Public Lending Right	
 Public Lending Right Office	OT826
 Public Lending Right and the Public Lending Right Advisory Committee	
+Horniman Public Museum & Public Park Trust	PB171
+Horniman Public Museum and Public Park Trust	PB171
 PUBLIC POWER SOLUTIONS LIMITED	
 Public Private Partnerships Programme Ltd (4ps)	
 Public Prosecution Service	
@@ -33522,6 +33452,7 @@ Public Trust Office
 Public Trustee	
 Public Works Loan Board	
 Public Works Loans Board	
+NAM Publications	
 The Public-Private Partnership Agreement Arbiter	
 Pubs Code Adjudicator	OT1192
 Puddletown Surgery	
@@ -33631,6 +33562,7 @@ Quarry Hill Primary and Pre School
 Quarry View Primary School	
 Quarrydale Academy	
 Quarrydale School	
+MOD The Quartermasters Department	
 Quay Foyer The	
 Quay Lane Surgery	
 The Quay School	
@@ -33663,6 +33595,7 @@ The Queen Elizabeth Hospital, King’s Lynn, NHS Foundation Trust
 Queen Elizabeth Hospital Kings Lynn NHS Trust The	
 Queen Elizabeth Hospital NFT	
 Queen Elizabeth Humanities College	
+DCLG - QUEEN ELIZABETH II CONFERENCE CENTRE	EA40
 Queen Elizabeth II Conference Centre	EA40
 Queen Elizabeth II Conference Centre The	EA40
 The Queen Elizabeth II Conference Centre	EA40
@@ -33840,6 +33773,12 @@ Radioactive Waste Management	OT1150
 Radioactive Waste Management Advisory Committee	
 RADIOACTIVE WASTE MANAGEMENT LIMITED	
 Radioactive Waste Management Limited	
+BBC Radiocom (Bulgaria) OLLC [Bulgaria] (s WS)	
+BBC Radiocom Deutschland GmbH (Germany) (sWS)	
+BBC Radiocom (Hungary) Ltd [Hungary] (s WS)	
+BBC Radiocom (Praha) Sro [Czech Republic] (s WS)	
+BBC Radiocom (Romania) SRL [Romania] (s WS)	
+BBC Radiocom (Slovakia) Ltd [Slovakia] (s WS)	
 Radiocommunications Agency	
 Radipole Primary School	
 radius special education trust	
@@ -33854,6 +33793,7 @@ Radstock Infants School
 Radstock Primary School	
 Radwinter Church of England Primary School	
 Raeburn School	
+MOD RAF	
 RAF Adergrove	
 RAF Akrotiri	
 RAF Aldergrove	
@@ -33895,6 +33835,7 @@ RAF Linton on Ouse
 RAF Logistics Support Services	
 RAF Lossiemouth	
 RAF Lyneham	
+MOD RAF Magazines	
 RAF Maintenance Group Defence Agency	
 RAF Marham	
 RAF Mildenhall	
@@ -33911,6 +33852,7 @@ RAF Scampton
 RAF Shawbury	
 RAF Signals Engineering Establishment	
 RAF Spadeadam	
+MOD RAF St Athan	
 RAF St Mawgan	
 RAF Stafford	
 RAF Stanbridge	
@@ -34403,8 +34345,6 @@ Reliance Secure Task Management Ltd
 Religious Sisters of Charity	
 Religious Society of Friends The	
 Religous Society of Friends	
-Remploy Limited	
-Remploy Ltd	PB350
 Renacres Hall Hospital	
 Renaissance South Yorkshire Limited	
 Renal Registry	
@@ -34439,6 +34379,7 @@ Representative Body of the Church in Wales The
 Reprieve	
 Repton Preparatory School	
 Repton School	
+MOD Research Acquisition Organisation	
 Research Council Procurement Organisation	
 Research Councils (En Bloc)	
 Research Councils Pension Scheme	
@@ -34483,6 +34424,7 @@ Restormel Borough Council
 Restormel Pupil Referral Unit	
 Resurrection Life Centre	
 Retail Trust	
+DH - RETAINED ESTATE	
 Retford Action Centre	
 Retford Enterprise Centre	
 Retford Oaks Academy	
@@ -34524,8 +34466,7 @@ Revive Healthy Living Centre
 Revoe Primary School	
 Revolving Doors Agency	
 Reynolds Primary School	
-RFCA	
-RFCA GL	
+RFCA	OT1065
 Rhiw Syr Dafydd Primary School	
 Rhiwbeina Primary School	
 Rhodes Art Centre Complex	
@@ -34553,6 +34494,7 @@ Rhydypenau Primary School
 Rhyl Primary School	
 Rhyl Sun Centre	
 Rhymney Comp School	
+S4C Rhyngwladol Cyf. (S - S4C)	
 Rhynie Primary School	
 Ribble Drive Primary School	
 Ribble Valley Borough Council	
@@ -34679,6 +34621,8 @@ The Ridings Federation, Yate International Academy
 Ridings Housing Association Limited The	
 Ridings School The	
 Ridley Hall	
+Acre Rigg Academy	
+Acre Rigg Infant School	
 Right Employment	
 Right Steps Bristol	
 Rikkyo School	
@@ -34807,9 +34751,6 @@ Riviera Housing Trust Limited
 Rivington and Blackrod High School	
 RJ Mitchell Primary School	
 RK Harrison	
-RM Museum Ltd	
-RM - ROYAL MINT	
-RM Stonehouse	
 RMBC ST THOMAS MORE RC PRIMARY SCHOOL	
 RMCH School	
 RN Limited	
@@ -34817,7 +34758,6 @@ RNAS Yeovilton
 RNIB Harrogate	
 RNIB Rushton School and Childrens Home	
 RNIB Vocational College	
-RNM Functions Ltd	
 Roach Vale Primary School	
 Road Safety Education Branch	
 Roade School	
@@ -35227,6 +35167,7 @@ Royal Airforce Club
 Royal Alexandra and Albert School	
 Royal Alfred Seafarers Society	
 Royal Andediluvan Order Of Buffaloes	
+DCMS - ROYAL ARMOURIES	
 ROYAL ARMOURIES	
 Royal Armouries	
 Royal Armouries Development Trust	
@@ -35272,6 +35213,7 @@ Royal Botanic Garden Edinburgh
 Royal Botanic Garden, Edinburgh	
 ROYAL BOTANIC GARDENS	
 Royal Botanic Gardens	
+DEFRA - ROYAL BOTANIC GARDENS KEW	
 ROYAL BOTANIC GARDENS, KEW	
 Royal Botanic Gardens, Kew	
 Royal Botanic Gardens Kew (RBG Kew)	
@@ -35303,8 +35245,8 @@ Royal College of Defence Studies
 Royal College of General Practitioners	
 Royal College of Midwives	
 Royal College Of Music	
-Royal College of Nursing Institute	
 Royal College of Nursing SE	
+Royal College of Nursing Institute	
 Royal College of Obstetricians and Gynaecologists	
 Royal College Of Ophthalmologists	
 Royal College of Paediatrics & Child Health	
@@ -35437,6 +35379,7 @@ Royal Meteorological Society The
 Royal Military Academy Sandhurst The	
 Royal Military College of Science Advisory Council (RCMS)	
 Royal Military School of Music	
+RM - ROYAL MINT	EA114
 Royal Mint	EA114
 Royal Mint Advisory Committee	PB434
 Royal Mint Advisory Committee on the Design of Coins, Medals, Seals and Decorations	
@@ -35479,10 +35422,10 @@ Royal Orthopaedic Hospital NHS Foundation Trust The
 The Royal Orthopaedic Hospital NHS Foundation Trust	
 Royal Park Primary School	
 Royal Parks	EA41
+Royal Parks (DCMS)	EA41
 The Royal Parks	EA41
 Royal Parks Agency	
 The Royal Parks Agency	
-Royal Parks (DCMS)	
 Royal Parks Foundation The	
 The Royal Parks Foundation	
 The Royal Parks (TRP)	
@@ -35574,7 +35517,7 @@ Royston Primary School
 Royston St John Baptist Primary School	
 Royston Summer Fields Primary School	
 Royton and Crompton School	
-RPA	
+RPA	EA58
 RPJ3 GROUP LIMITED	
 RSA Academy	
 RSA Academy at Tipton	
@@ -35637,7 +35580,7 @@ Rural Housing Association
 Rural Housing Association Ltd	
 RURAL PAYMENTS AGENCY	EA58
 Rural Payments Agency	EA58
-Rural Payments Agency (DEFRA)	
+Rural Payments Agency (DEFRA)	EA58
 Rural Regeneration Cumbria	
 Rural Stirling Housing Association Ltd	
 Rush Common School	
@@ -35694,6 +35637,7 @@ Ruthin Primary School
 Ruthvenfield Primary	
 Rutland County Council	
 Rutlish School	
+NDA RWMD	
 RY Winning Hand Ltd	
 Ryan Medical Centre	
 Ryarsh Primary School	
@@ -35753,9 +35697,6 @@ S T E P BUSINESS CENTRE
 S W A N Advocacy Network	
 S2087 IPT	
 S4C	PC387
-S4C Masnachol Cyf - (s S4C)	
-S4C Rhyngwladol Cyf. (S - S4C)	
-S4C (Sianel Pedwar Cymru)	
 S4C2 Cyf. (S - S4C)	
 SA1 Medical Centre	
 Sabden Multi Academy Trust	
@@ -36209,7 +36150,9 @@ Scawby Academy
 Scawby Primary School	
 Scawsby Rosedale Primary School	
 Scenesafe Limited	
+Chevening Scholarship Programme	OT492
 Scholes Junior and Infant School	
+Spa School	
 School 21	
 School Examinations and Assessment Council	
 School Food Trust	OT938
@@ -36248,11 +36191,13 @@ Science and Advice for Scottish Agriculture
 Science Advisory Committee on the Medical Implications of Less-Lethal Weapons	
 Science Advisory Council	PB211
 Science Engineering and Manufacturing Technologies	
+DCMS - SCIENCE MUSEUM GROUP	PB177
 SCIENCE MUSEUM GROUP	PB177
 Science Museum Group	PB177
 Science Museum London The	
 Science Museum Wroughton	
 Science Park Technology Centre	
+BEIS - SCIENCE & TECHNOLOGY FACILITIES COUNCIL	PB135
 SCIENCE AND TECHNOLOGY FACILITIES COUNCIL	PB135
 Science and Technology Facilities Council	PB135
 The Science and Technology Facilities Council STFC Innovation Limited	
@@ -36313,6 +36258,7 @@ Scottish Borders Housing Association
 Scottish Borders Housing Association Ltd	
 Scottish Borders Tourist Board	
 Scottish Braille Press	
+SE Scottish Breast Screeening Prog	
 Scottish Building Standards Agency	
 Scottish Canals	
 Scottish Canalsâ??	
@@ -36492,13 +36438,13 @@ Sculthorpe Church of England Primary Academy
 Scunthorpe and Gainsborough Water Management Board	
 Sdb Trustees Chertsey	
 SDBC	
-SE London Shared Services Partnership	
-SE Scottish Breast Screeening Prog	
 Sea Cadet Training Centre	
 Sea Cadets Corps	
+DEFRA - SEA FISH INDUSTRY AUTHORITY	OT205
 SEA FISH INDUSTRY AUTHORITY	OT205
 Sea Fish Industry Authority	OT205
 Sea Fisheries Committees	
+NERC sea Mammal Research Unit	
 Sea Space	
 Seaboard Memorial Hall	
 Seabridge Infant School	
@@ -36506,8 +36452,6 @@ Seabrook Church of England Primary School
 SEABURN DENE PRIMARY SCHOOL	
 SEAE	
 Seafarers UK	
-SeaFish Industry Authority	
-Seafish Industry Authority	
 Seaford College	
 Seaford Head Community College	
 Seagoe Parish Church	
@@ -36572,14 +36516,15 @@ Securities Institute
 Security Commission	
 Security Facilities Executive	
 SECURITY INDUSTRY AUTHORITY	PB264
+SIA - Security Industry Authority	PB264
 Security Industry Authority	PB264
 The Security Industry Authority	PB264
 Security and Intelligence Agencies	
 Security and Intelligence Agency	
 Security and Intelligence Services	
 Security Service	OT304
+Security Service (MI5)	OT304
 The Security Service	OT304
-Security Service (MI5)	
 Security Service Tribunal	
 Security Services group	
 Security Vetting Appeals Panel	PB367
@@ -36698,20 +36643,21 @@ SERCO Learning
 Serco Limited	
 Seren Group	
 Seren Living Ltd	
+SFO - SERIOUS FRAUD OFFICE	D115
 Serious Fraud Office	D115
-The Serious Fraud Office (SFO)	
+The Serious Fraud Office (SFO)	D115
 Serious Organised Crime Agency	PB265
+Serious Organised Crime Agency (SOCA)	PB265
 Serious and Organised Crime Agency	PB265
-Serious Organised Crime Agency (SOCA)	
 Serlby Park Academy	
 Serlby Park School	
 Servant Fellowship International	
 Service Birmingham	
 Service Children's Education	EA49
+Service Children's Education (MOD)	EA49
 Service Childrens Education	EA49
 Service Children’s Education	EA49
 Service Children's Education Agency	
-Service Children's Education (MOD)	
 Service Complaints Commissioner	OT404
 Service Complaints Ombudsman	OT1168
 Service Delivery	
@@ -36722,6 +36668,9 @@ Service Personnel and Veterans Agency	EA50
 Service Police Crime Bureau	
 Service Prosecuting Authority	OT406
 Service Six	
+FCO SERVICES	EA61
+FCO Services	EA61
+FCO Services (FCOS)	EA61
 Services 4 Schools	
 Services Sound and Vision Corporation	
 Servite Friars	
@@ -36769,7 +36718,6 @@ Seymour Park Primary School
 Seymour Primary School	
 Seymour Road Academy	
 Seymour Road Primary School	
-SFO - SERIOUS FRAUD OFFICE	
 SGI UK	
 Sgoiltean Ura LLP	
 SGP Property & Facilities Management Ltd	
@@ -36820,6 +36768,8 @@ Shardlow Primary School
 Share Community Limited	
 Share Foundation The	
 Shared Care Network	
+HE Shared Legal Limited	
+Dft Shared Services Centre	
 Shared Services Connect Limited	
 Shared Services Connect Limited (SSC)	
 Shared Services Connect Ltd	
@@ -37195,7 +37145,7 @@ Six Degrees Social Enterprise CIC
 Six Saints Circa Holt	
 Six Town Housing	
 Six Town Housing Limited	
-SIA - Security Industry Authority	
+S4C (Sianel Pedwar Cymru)	
 Sianel Pedwar Cymru (S4C) (Welsh Fourth Channel Authority)	
 Sianel Pedwar Cymru (Welsh Fourth Channel Authority)	
 Sibford School	
@@ -37292,7 +37242,7 @@ Single Parent Action Network
 Single Source Regulation Office	
 SINGLE SOURCE REGULATIONS OFFICE	PB1093
 Single Source Regulations Office	PB1093
-Single Source Regulations Office (SSRO)	
+Single Source Regulations Office (SSRO)	PB1093
 Singleton Hospital	
 Sion Hill Middle School	
 Sixpenny Handley First School	
@@ -37470,6 +37420,7 @@ Skills for Health
 Skills for Justice	
 Skills for Logistics	
 Skills for Security	
+BEIS - SKILLS FUNDING AGENCY	EA86
 SKILLS FUNDING AGENCY	EA86
 Skills Funding Agency	EA86
 Skills Funding Agency - Education and Training	
@@ -37622,10 +37573,12 @@ Social Services Dept
 Social Services Inspectorate for Wales Advisory Group (WO)	
 Social Work Inspection Agency	
 Social Work Services	
+Big Society Capital	
 Society For Applied Microbiology	
 Society for Endocrinology	
 Society for the Protection of Ancient Buildings The	
 Society for the Protection of Animals Abroad	
+Big Society Foundation	
 Society of Chemical Industry	
 Society Of The Divine Saviour	
 Society of Glass Technology	
@@ -37640,6 +37593,7 @@ Society of the Sacred heart
 Society of St Dismas with St Petroc Wessex Housing Association The	
 Society of St James (The)	
 Society of St James The	
+Big Society Trust	
 Sociey of Dyers and Colourists	
 Socitm Consulting	
 Socketts Heath Baptist Church	
@@ -37853,6 +37807,8 @@ South Downs National Park Authority	OT546
 South Durham Health Care FT	
 South Durham Health Care NFT	
 South Durham Health Care NHS Trust	
+CPS - SOUTH EAST	
+South East RFCA	
 SOUTH and EAST BELFAST	
 South and East Belfast HSS Trust	
 SOUTH EAST COAST AMBULANCE SERVICE NHS FOUNDATION TRUST	
@@ -37887,7 +37843,7 @@ South East Mobility and Rehabilitation Technology Centre
 South East of Scotland Transport Partnership (SESTRAN)	
 South East Portal Shared	
 South East Probation Training Consortium	
-South East RFCA	
+Noms South East Region	
 South East Scotland Transport Partnership	
 South East Sheffield Education Action Zone	OT722
 South East Surrey Pupil Referal Unit	
@@ -38090,6 +38046,7 @@ South Warwickshire Housing Association Limited
 SOUTH WARWICKSHIRE NHS FOUNDATION TRUST	
 South Warwickshire NHS Foundation Trust	
 South Wellfield First School	
+CPS - SOUTH WEST	
 South West Audit Partnership	
 South West Audit Partnership Limited	
 South West Baptist Association	
@@ -38110,6 +38067,7 @@ South West Heritage Trust The
 SOUTH WEST INVESTMENT GROUP (CAPITAL) LIMITED	
 South West Lakes Trust	
 South And West Leicestershire Citizens Advice Bureau	
+NPS South West Limited	
 South West Lincolnshire Clinical Commissioning Group	
 South West London Law Centre	
 South West London and St George's Mental FT	
@@ -38419,11 +38377,6 @@ Sovini Limited
 Sowerby Bridge High School	
 Sowerby Community Primary School	
 Sowerby Village Church of England VC Primary School	
-Spa Housing Association Limited	
-Spa Medical Centre	
-Spa School	
-Spa Surgery	
-Spa View Community Church	
 Spacex Gallery	
 Space New Living Limited	
 Spalding Grammar School	
@@ -38463,6 +38416,7 @@ Special Trustees for St Thomas Hospital
 Specialist Advisory Committee on Antimicrobial Resistance	
 Specialist Computer Holdings PLC	
 Specialist Medical Imaging Limited	
+MOD Specialist Procurement Services	
 Specialist Procurement Services	
 Specialist Schools and Academies Trust	
 Specialist Schools Trust	
@@ -38543,6 +38497,7 @@ Sponne School Technology College
 Spooner Row Primary School	
 Sporle Primary School	
 Sport Aberdeen	
+DCMS - SPORT ENGLAND	PB190
 SPORT ENGLAND	PB190
 Sport England	PB190
 SPORT ENGLAND LOTTERY	
@@ -38673,7 +38628,7 @@ SS Peter and Paul's School
 SS Philip and James Primary School	
 SSAFA	
 SSAFA Care CIC	
-SSRO	
+SSRO	PB1093
 St Aelreds Catholic Technology College	
 St Aelreds R C Church	
 St Aelreds Roman Catholic VA Primary School	
@@ -39574,6 +39529,7 @@ St Illtyds High School
 St Ippolyts C of E Primary School	
 St Ippolyts Church of England Primary School	
 St Issey	
+Tate St Ives	
 St. Ives Children Centre	
 St Ives Crayford Limited	
 St Ives Direct Limited	
@@ -39614,6 +39570,7 @@ St James the Great Primary and Nursery School, Community School
 St James the Great Roman Catholic Primary and Nursery School	
 St James Hatcham Church of England School	
 St James High School	
+MOD St James House	
 St James Lanehead Primary School	
 St James The Less Roman Catholic Primary School	
 St James Parish Church	
@@ -41381,7 +41338,6 @@ Stewarton Academy
 Stewart's and Budgen's Almshouses	
 Stewarts and Budgens Almshouses	
 Steyning Grammar School	
-STFC Innovations Ltd	
 St.Helens Council	
 Stibbard All Saints CE VA Primary School	
 Stibbard Childrens Centre Nursery	
@@ -41439,6 +41395,7 @@ Stockport Homes
 STOCKPORT HOMES LIMITED	
 Stockport Homes Limited	
 Stockport Homes Ltd	
+NPS Stockport HR Office	
 Stockport Medical Group	
 Stockport Metropolitan Borough Council	
 STOCKPORT NHS FOUNDATION TRUST	
@@ -41557,6 +41514,7 @@ Stoneham Aspall Primary School
 Stonehaven & District Sea Cadet Unit 475	
 Stonehaven Port	
 Stonehill High School	
+RM Stonehouse	
 Stonehouse Community Council	
 Stonehouse Playspace Assocation	
 Stonelands School	
@@ -41773,6 +41731,7 @@ STUDENT LOANS COMPANY	PB27
 Student Loans Company	PB27
 The Student Loans Company	PB27
 Student Loans Company Limited	
+BEIS - STUDENT LOANS COMPANY LTD	
 Student Loans Company Ltd	
 Student Loans Company Ltd - from 07-08 SLC063	
 Student Support Service The	
@@ -41802,6 +41761,7 @@ Sturts Community Trust
 Stv Appeal	
 Style Acre	
 Subgroup 01	
+DFE - SUBLET AND SURPLUS PROPERTIES	
 Submarine Gift Shop Ltd.	
 Success For All Uk	
 Suckley Primary School	
@@ -41820,8 +41780,8 @@ Sue Ryder Care Centre
 Sue Ryder Care Centre Wheatfields	
 Sue Ryder Care - Leckhampton Court Hospice	
 Suffield Park Infant and Nursery School	
-Suffolk Accident Rescue Service	
 Suffolk ACRE	
+Suffolk Accident Rescue Service	
 Suffolk Assoc Of Voluntary Organisations	
 Suffolk Association Of Local Council	
 Suffolk Brett Stour Limited	
@@ -41940,7 +41900,11 @@ Sunshine Preschool
 Supatrax	
 Supplies Division	
 Supply Hertfordshire	
+JNCC SUPPORT CO	
+JNCC Support Co	
+JNCC Support Co.	
 Support Command	
+JNCC Support Company	
 Support and Education For Young People	
 Support for Living	
 Support Services Partnership South West London	
@@ -41949,6 +41913,7 @@ Supported Fostering Services
 Supporting Public Health	
 Supportive Parents	
 Supportive Parents Of Tomorrows Stars	
+MOJ - SUPREME COURT	
 Supreme Court	
 Supreme Court The	
 Supreme Court, the	
@@ -41978,10 +41943,12 @@ Sureprint Limited
 Surestart	
 Surestart Childrens Centre	
 Surestart Paignton	
+Surface Transport  RNM	
 Surface Transport  DTO	
 Surface Transport  MSF	
-Surface Transport  RNM	
 Surfleet Seas Primary School	
+Ice Surgeries Ltd	
+Spa Surgery	
 Surgery The	
 The Surgery	
 Surgery At Wheatbridge The	
@@ -42421,12 +42388,7 @@ Tashbar School
 Tasker Millward V C School	
 TATE	PB571
 Tate	PB571
-Tate Britain	
-TATE GALLERY	
-Tate Gallery	
-Tate Gallery Projects Limited	
-Tate Modern	
-Tate St Ives	
+DCMS - TATE GALLERY	
 Tatsfield Primary School	
 Tattenhall Park Primary School	
 Tattershall Bede Houses The	
@@ -42477,7 +42439,7 @@ Tayside Valuation Joint Board
 Taywood Nursery School	
 Tbap Trust	
 TCUK Homes Limited	
-TDA	
+TDA	EA790
 TDFHUB2014 Ltd	
 Tdfm Services Sutton Hospital	
 TEACH FIRST	
@@ -42503,7 +42465,10 @@ Tearfund
 Tebay Community Primary School	
 The Tech Partnership	
 Technical Advisory Board	PB274
+MRC Technology	
 Technology and Construction Court	
+MRC Technology Limited	
+MRC Technology Ltd	
 TECHNOLOGY STRATEGY BOARD	PB136
 Technology Strategy Board	PB136
 Technology Strategy Board, The	PB136
@@ -42551,6 +42516,7 @@ Teignmouth Community Association
 Teignmouth Community College	
 Teignmouth Medical Practice	
 Telereal Trillium	
+MOD Telford	
 Telford Christian Council	
 Telford City Technology College Trust Limited	
 Telford College Of Art and Technology	
@@ -42668,6 +42634,7 @@ Thame and District Housing Association Limited
 Thame Leisure Centre	
 Thame Town Council	
 Thames Accord	
+CPS - THAMES & CHILTERN	
 Thames Christian College School Limited	
 Thames College	
 Thames Ditton County Junior School	
@@ -43257,7 +43224,6 @@ Toynbee Island Homes Limited
 Toynbee Partnership Housing Association Limited	
 Toynbee School	
 Toynton All Saints Primary School	
-Tpas Limited	
 TPHA Limited	
 Tracks	
 Trade Based	
@@ -43291,6 +43257,7 @@ Trafford Metropolitan Borough Council
 Trafford Park Development Corporation	
 Trafford PCT	
 Trafford Primary Care Trust	
+DFT - TRAIN OPERATING COMPANY	
 Training	
 TRAINING 2000 LIMITED	
 Training Associates	
@@ -43346,6 +43313,7 @@ Trawsfynydd
 Treasure Valuation Committee	PB383
 Treasury, H M	
 Treasury, HM	
+LCR Treasury Management Limited	
 Treasury Solicitor's Department	D30
 Treasury Solicitors Department	D30
 Treasury Solicitor’s Department	D30
@@ -43517,6 +43485,7 @@ Trowbridge Town Council
 Trowse Primary School	
 Trull Church Of England VA Primary School	
 Trumacar County Primary School	
+CPS Truro	
 Truro Cathedral	
 Truro City Council	
 Truro High School For Girls	
@@ -43761,6 +43730,7 @@ UK Asset Resolution Ltd
 UK Astronomy Technology Centre	
 UK Athletics Limited	
 uk athletics limited	
+BEIS - UK ATOMIC ENERGY AUTHORITY	PB137
 UK Atomic Energy Authority	PB137
 UK Biobank Ltd	
 UK BIOCENTRE LIMITED	
@@ -43773,8 +43743,10 @@ UK COMMISSION FOR EMPLOYMENT AND SKILLS	PB138
 UK Commission for Employment and Skills	PB138
 UK Co-ordinating Body	OT1022
 UK Council For Psychotherapy	
+HMT - UK DEBT MANAGEMENT OFFICE	EA82
 UK Debt Management Office	EA82
-UK Debt Management Office (HMT)	
+UK Debt Management Office (HMT)	EA82
+MOD UK DLO	
 UK Energy Efficiency Investments 1 L.P.	
 UK Energy Efficiency Investments L.P	
 UK Export Finance	D241
@@ -43793,6 +43765,7 @@ UK GIB Rhyl Flats Investment Limited
 UK Government Decontamination Service	EA844
 UK Government Investments	OT1186
 UK green Community Lending Ltd	
+BEIS - UK GREEN INVESTMENT BANK	OT360
 UK Green Investment Bank	OT360
 UK GREEN INVESTMENT BANK PLC	
 UK Green Investment Bank plc	
@@ -43818,11 +43791,13 @@ UK Robotic Ltd - (s BNFL)
 UK Sailing Academy	
 UK School of English	
 Uk Sh Treatment Centres - Other	
+BEIS - UK SHARED BUSINESS SERVICE LTD	
 UK Shared Business Services	
 UK SHARED BUSINESS SERVICES LIMITED	
 UK Shared Business Services Limited	
 UK Shared Business Services Ltd.	
 UK Skills	
+BEIS - UK SPACE AGENCY	EA31
 UK Space Agency	EA31
 UK Specialist Ambulance Services	
 UK Sport	PB185
@@ -43837,9 +43812,9 @@ UK Technical Innovation Centre Bolton
 UK TRADE & INVESTMENT	D117
 UK Trade & Investment	D117
 UK Trade and Investment	D117
+UK Trade and Investment (UKTI)	D117
 Uk Trade & Investment	D117
 UK Trade & Investment Defence & Security Organisation	
-UK Trade and Investment (UKTI)	
 UK Training and Development	
 UK Transplant	OT775
 UK V&I - UK Visas & Immigration	
@@ -43847,17 +43822,13 @@ UK Visas and Immigration	OT554
 UK Visas and Immigration (HO)	
 UK Waste Resources and Energy Investments L.P	
 UK Youth	
-UKAEA PENSION SCHEMES	
 UKAR Corporate Services Limited	
 UKAR (net)	
-UKCES	
+UKCES	PB138
 UKCRC Oxford Respiratory Trials Unit	
-UKHO	
+UKHO	EA51
 Ukrainian Catholic Church	
-UKTI	
-UKTI Defence & Security Organisation (UKTI DSO)	
-UKTI Education	OT1067
-UKTI Life Sciences Organisation	OT1068
+UKTI	D117
 ULCC	
 Ulceby St Nicholas Church of England Primary School	
 Uley Church of England Primary School	
@@ -43958,6 +43929,7 @@ United Kingdom Eco-labelling Board
 United Kingdom Xenotransplantation Interim Regulatory Authority (UK)	
 United Kingdom Environmental Observation Monitoring Programmes	
 United Kingdom Export Finance	
+MOD - UNITED KINGDOM HYDROGRAPHIC OFFICE	
 THE UNITED KINGDOM HYDROGRAPHIC OFFICE	
 United Kingdom Hydrographic Office	
 United Kingdom Nirex Ltd - (s NDA)	
@@ -44453,11 +44425,13 @@ Valuation and Land Agency
 Valuation & Lands Agency	EA687
 Valuation and Lands Agency	EA687
 Valuation Office	
+HMRC - VALUATION OFFICE AGENCY	EA87
 The Valuation Office Agency	EA87
 Valuation Office Agency	EA87
-Valuation Office Agency (HMRC)	
+Valuation Office Agency (HMRC)	EA87
 Valuation Tribunal	
 Valuation Tribunal for England	PB1204
+DCLG - VALUATION TRIBUNAL SERVICE	PB375
 The Valuation Tribunal Service	PB375
 Valuation Tribunal Service	PB375
 Valuation tribunal Service	PB375
@@ -44489,13 +44463,14 @@ Vauxhall Neighbourhood
 Vaynol First School The	
 The Vaynor First School	
 Vectis Housing Association Limited	
+DFT - VEHICLE CERTIFICATION AGENCY	EA80
 Vehicle Certification Agency	EA80
 Vehicle Certification Agency (VCA) (DFT)	
 Vehicle Excise Duty	
 Vehicle & Operator Services Agency	EA79
 Vehicle and Operator Services Agency	EA79
-Vehicle and Operator Services Agency (VOSA)	
-Vehicle and Operator Services Agency - VOSA	
+Vehicle and Operator Services Agency (VOSA)	EA79
+Vehicle and Operator Services Agency - VOSA	EA79
 Veincentre Limited	
 Vela Group	
 Vela Group (Housing Hartlepool)	
@@ -44530,11 +44505,11 @@ Veterans Advisory and Pensions Committees	PB403
 Veterans Advisory and Pensions Committees (x 13)	
 Veterans Aid	
 Veterans UK	OT1087
+Veterans UK (MOD)	OT1087
 Veterans UK- Armed Forces Pensions Scheme	
-Veterans UK (MOD)	
 Veterinary Laboratories Agency	EA784
 Veterinary Medicines Directorate	EA60
-Veterinary Medicines Directorate (DEFRA)	
+Veterinary Medicines Directorate (DEFRA)	EA60
 Veterinary Products Committee	PB212
 Veterinary Residues Committee	OT1011
 Viapath LLP	
@@ -44563,6 +44538,7 @@ Victims’ Commissioner	PB326
 Victims of Crime Trust	
 Victims and Survivors Service	
 Victims and Survivors Service Ltd	
+DCMS - VICTORIA AND ALBERT MUSEUM	PB378
 VICTORIA & ALBERT MUSEUM	PB378
 VICTORIA AND ALBERT MUSEUM	PB378
 Victoria & Albert Museum	PB378
@@ -44606,6 +44582,7 @@ Victory Housing Trust
 The Victory Primary School	
 Vida Healthcare	
 Vida Healthcare Gayton Road Surgery	
+Spa View Community Church	
 View Larger Map Sewell Park College	
 Viewforth Church	
 Viewlands Primary	
@@ -44635,6 +44612,7 @@ Villages Housing Association Limited (The)
 Villiers High School	
 Villiers Park Educational Trust	
 Villiers Primary School	
+Da Vinci Community College	
 VINCI CONSTRUCTION UK LIMITED	
 Vine H Co Op Limited	
 Vine Housing Co-Operative Limited	
@@ -44664,6 +44642,7 @@ Vision Homes Association
 Vision Redbridge Culture & Leisure	
 Vision Redbridge Culture and Leisure	
 Visions Learning Trust University Technical College	
+DCMS - VISIT BRITAIN	
 VISIT BRITAIN	
 Visit Britain	
 Visit England	
@@ -44809,6 +44788,8 @@ Walderslade Girls’ School
 Walderslade High School for Girls	
 Walderslade Primary School	
 Waldringfield County Primary School	
+BBC Wales	
+CPS - WALES	
 Wales Air Ambulance	
 WALES AUDIT OFFICE	OT908
 Wales Audit Office	OT908
@@ -44827,6 +44808,7 @@ Wales Environment Trust
 Wales Evangelical School of Technology	
 Wales High School	
 Wales Millennium Centre	
+WO -  WALES OFFICE	
 Wales Office	
 Wales Office (Office of the Secretary of State for Wales)	
 Wales Preschool Providers Association	
@@ -45161,7 +45143,7 @@ Water Services Authority (OFWAT)
 The Water Services Regulation Authority	D240
 WATER SERVICES REGULATION AUTHORITY	D240
 Water Services Regulation Authority	D240
-Water Services Regulation Authority (Ofwat)	
+Water Services Regulation Authority (Ofwat)	D240
 Water Street County Primary School	
 Water Tower Housing Co operative Limited	
 Water Tower Housing Co-operative Limited	
@@ -45533,6 +45515,8 @@ Wesley College Bristol
 Wesley Housing Association Limited	
 Wesleyan Reform Union	
 Weslo Housing Management	
+CPS - WESSEX	
+Wessex RFCA	
 Wessex Archaeology	
 Wessex Autistic Society The	
 Wessex Education Shared Services Ltd	
@@ -45542,10 +45526,9 @@ WESSEX LOCAL MEDICAL COMMITTEES
 Wessex MS Therapy Centre	
 Wessex Multiple Sclerosis Therapy Centre	
 Wessex Nutfield Hospital The	
-Wessex RFCA	
 Wessington Primary School	
-West Acklam Clinic	
 West Acre	
+West Acklam Clinic	
 West Acton Primary School	
 West Anglia Crossroads Caring For Carers	
 West Anglia Training Association Limited	
@@ -45729,6 +45712,7 @@ West Middlesex University FT
 West Middlesex University Hospital NHS Trust	
 West Middlesex University NFT	
 West Midland Care Association	
+CPS - WEST MIDLANDS	
 West Midlands Ambulance Service FT	
 West Midlands Ambulance Service NFT	
 West Midlands Ambulance Service NHS Foundation Trust	
@@ -46053,6 +46037,7 @@ Westminster Foundation for Democracy, The	OT316
 The Westminster Foundation for Democracy Limited	
 Westminster Foundation for Democracy Limited	
 Westminster Foundation for Democracy Limited, The	
+FCO - WESTMINSTER FOUNDATION FOR DEMOCRACY (WFD)	
 Westminster Institue of Education	
 WESTMINSTER KINGSWAY COLLEGE	
 Westminster Kingsway College	
@@ -46607,11 +46592,11 @@ Willow Wood Hospice
 Willow Wood Nursery and Infant School	
 Willowbank Primary School	
 Willowbank School	
+Willowbrook Tmc	
 Willowbrook Hospice	
 Willowbrook Medical Practice	
 Willowbrook Primary School	
 Willowbrook School	
-Willowbrook Tmc	
 Willowcroft Community School	
 Willowdene School	
 Willowfield Lower School	
@@ -46651,11 +46636,12 @@ Wilstead Lower School
 Wilsthorpe Business and Enterprise College	
 Wilthorpe Junior School	
 Wilton Health Centre	
+FCO - WILTON PARK	EA62
 Wilton Park	EA62
+Wilton Park (FCO)	EA62
 Wilton Park Academic Council	
 Wilton Park Advisory Council	
 Wilton Park Executive Agency	
-Wilton Park (FCO)	
 Wilton Park International Advisory Council	
 Wilton Town Council	
 Wiltshire Addiction Support Project	
@@ -46920,7 +46906,6 @@ Wm Housing Group
 WM Housing Group Limited	
 WMG Academy for Young Engineers Solihull	
 Wmp Services	
-WO -  WALES OFFICE	
 Woborns Almshouse	
 Woborns Almshouse Charity	
 Woburn Almshouse Charity	
@@ -47013,6 +46998,7 @@ Wood Green Animal Shelters
 Wood Green High School College of Sport	
 Wood Green High School College of Sport, Maths and Computing	
 Wood Green School	
+Big Wood School	
 Wood View Learning Community	
 Woodacre School	
 Woodard Corporation	
@@ -47258,7 +47244,6 @@ Worden Sports College
 Wordsley School The	
 Wordsworth Trust The	
 Work Foundation The	
-Work and Pensions, Department for (DWP)	
 Work Power	
 Workers Educational Association	
 Workforce Development Confederations	
@@ -47275,6 +47260,7 @@ WORKINGTON TOWN COUNCIL
 Workington Town Council	
 Worknorth 11 Ltd (s MA)	
 Worknorth Ltd (s MA)	
+BBC Workplace	
 Workright	
 Works for Us	
 Worksop College	
@@ -47290,6 +47276,10 @@ World Land Trust
 World Mission Agency	
 WORLD OWL TRUST	
 World Poultry Science Association	
+BBC World Service	PC427
+BBC World Service Television Ltd (s BBCW)	
+BBC World Service Training Trust (s WS)	
+BBC World Service (WS)	
 World Sikh University London	
 World Society for the Protection of Animals The	
 World Travel and Tourism Council	
@@ -47298,8 +47288,15 @@ World Wide Advent Missions
 World Wildlife Fund	
 Worlds End Health Centre	
 Worlds End Lane Infant School	
+BBC Worldwide Americas Inc.[USA] (s BBCW)	
 Worldwide Americas Investments Inc [USA] (s BBCW)	
 Worldwide Cancer Research	
+BBC Worldwide Channel Investment Ltd (s BBCW)	
+BBC Worldwide (France) SARL [France] (s BBCW)	
+BBC Worldwide (Germany) GMBH [Germany] (s BBCW)	
+BBC Worldwide (Investments) Ltd (s BBCW)	
+BBC Worldwide Ltd (BBCW)- (s HS)	
+BBC Worldwide Music Ltd (s BBCW)	
 Worle Community School	
 Worlingham Middle School	
 Wormholt Primary School	
@@ -47473,6 +47470,8 @@ Y Bont Faen Primary School
 Y E T College	
 Y Pant Comprehensive School	
 Y Wern Primary School	
+Beis Yaakov High School	
+Beis Yaakov Primary School	
 Yacro	
 Yalding Almshouse Charity	
 Yale College	
@@ -47648,6 +47647,7 @@ Yorkshire and Humber Regional Aggregation Board
 Yorkshire and Humber Strategic Health Authority	
 Yorkshire and The Humber Strategic Health Authority	
 Yorkshire and Humber Sustainable Futures Co Limited	
+CPS - YORKSHIRE & HUMBERSIDE	
 Yorkshire and Humberside Grid For Learning	
 Yorkshire and Humberside Police Force	
 Yorkshire and Humberside Prisons	
@@ -47708,11 +47708,11 @@ Youth Justice
 Youth Justice Agency	
 Youth Justice Agency (Northern Ireland)	
 Youth Justice Agency of Northern Ireland	EA697
+The Youth Justice Board (YJB)	
 YOUTH JUSTICE BOARD	
 Youth Justice Board	
 Youth Justice Board for England and Wales	PB302
 Youth Justice Board for England and Wales - from 07-08 YJB047	
-The Youth Justice Board (YJB)	
 Youth Ministry Team	
 YOUTH SPORT TRUST	
 Youth Sport Trust	
