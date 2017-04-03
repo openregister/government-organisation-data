@@ -56,7 +56,7 @@ EA62	Wilton Park	https://www.gov.uk/government/organisations/wilton-park
 EA63	Medicines and Healthcare products Regulatory Agency	https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency		
 EA66	HM Passport Office	https://www.gov.uk/government/organisations/hm-passport-office		
 EA67	UK Border Agency	https://www.gov.uk/government/organisations/uk-border-agency		
-D69	Land Registry	https://www.gov.uk/government/organisations/land-registry		
+D69	HM Land Registry	https://www.gov.uk/government/organisations/land-registry		
 EA70	National Offender Management Service	https://www.gov.uk/government/organisations/national-offender-management-service		
 EA71	The National Archives	https://www.gov.uk/government/organisations/the-national-archives		
 EA72	Office of the Public Guardian	https://www.gov.uk/government/organisations/office-of-the-public-guardian		
@@ -465,7 +465,7 @@ OT627	Public Accounts Commission	https://www.gov.uk/government/organisations/pub
 OT628	Derby North East Education Action Zone	https://www.gov.uk/government/organisations/derby-north-east-education-action-zone		2005-04-16
 OT629	National Care Standards Commission	https://www.gov.uk/government/organisations/national-care-standards-commission		2004-04-01
 EA630	Rivers Agency	https://www.gov.uk/government/organisations/rivers-agency		
-D631	Department of Inland Revenue	https://www.gov.uk/government/organisations/department-of-inland-revenue		2005-il-Ap
+D631	Department of Inland Revenue	https://www.gov.uk/government/organisations/department-of-inland-revenue		2005-04
 OT632	Kitts Green and Shard End Education Action Zone	https://www.gov.uk/government/organisations/kitts-green-and-shard-end-education-action-zone		
 EA633	NHS Pensions Agency	https://www.gov.uk/government/organisations/nhs-pensions-agency		2006-04-01
 OT634	Northern Ireland Audit Office	https://www.gov.uk/government/organisations/northern-ireland-audit-office		
@@ -805,7 +805,7 @@ OT993	Department of National Heritage	https://www.gov.uk/government/organisation
 OT994	Legal Aid Board	https://www.gov.uk/government/organisations/legal-aid-board		2000
 OT995	Independent Television Commission	https://www.gov.uk/government/organisations/independent-television-commission		2003-12-28
 OT996	Board of Banking Supervision	https://www.gov.uk/government/organisations/board-of-banking-supervision		
-OT997	Her Majesty's Magistrates Courts Service Inspectorate	https://www.gov.uk/government/organisations/her-majestys-magistrates-courts-servuce-inspectorate		
+OT997	Her Majesty's Magistrates Courts Service Inspectorate	https://www.gov.uk/government/organisations/her-majestys-magistrates-courts-service-inspectorate		
 OT998	Examination team on child care procedures and practice in North Wales	https://www.gov.uk/government/organisations/examination-team-on-child-care-procedures-and-practice-in-north-wales		1996-06-17
 OT999	Natural Resources Institute	https://www.gov.uk/government/organisations/natural-resources-institute		1996-05
 OT1000	Further and Higher Education Funding Councils for Wales	https://www.gov.uk/government/organisations/further-and-higher-education-funding-councils-for-wales		
@@ -854,7 +854,7 @@ OT1043	Government Social Research Profession	https://www.gov.uk/government/organ
 OT1044	Government Planning Profession	https://www.gov.uk/government/organisations/civil-service-the-government-planning-profession		
 OT1045	Government Planning Inspectors	https://www.gov.uk/government/organisations/civil-service-government-planning-inspectors		
 OT1046	Government Tax Profession	https://www.gov.uk/government/organisations/civil-service-government-tax-profession		
-OT1047	Government Veterinary Services	https://www.gov.uk/government/organisations/civil-service-government-veterinary-surgeons		
+OT1047	Government Veterinary Services	https://www.gov.uk/government/organisations/civil-service-government-veterinary-services		
 OT1048	Government Knowledge & Information Management Profession	https://www.gov.uk/government/organisations/civil-service-government-knowledge-information-management-profession		
 OT1049	Government Occupational Psychology Profession	https://www.gov.uk/government/organisations/civil-service-government-occupational-psychology-profession		
 OT1050	Government Corporate Finance Profession	https://www.gov.uk/government/organisations/civil-service-corporate-finance-profession-cfp		
@@ -973,3 +973,8 @@ OT1208	Academy for Social Justice Commissioning	https://www.gov.uk/government/or
 OT1209	Her Majesty's Government Communications Centre	https://www.gov.uk/government/organisations/her-majestys-government-communications-centre		
 OT1210	Preventing Sexual Violence Initiative	https://www.gov.uk/government/organisations/preventing-sexual-violence-initiative		
 OT1211	National Cyber Security Centre	https://www.gov.uk/government/organisations/national-cyber-security-centre		
+PB1212	Northern Ireland Housing Executive	https://www.gov.uk/government/organisations/northern-ireland-housing-executive		
+EA1213	Her Majesty’s Prison and Probation Service	https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service		
+PB1214	Institute for Apprenticeships	https://www.gov.uk/government/organisations/institute-for-apprenticeships		
+OT1215	Judicial Office	https://www.gov.uk/government/organisations/judicial-office		
+EO1216	Education and Skills Funding Agency	https://www.gov.uk/government/organisations/education-and-skills-funding-agency		

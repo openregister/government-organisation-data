@@ -56,7 +56,7 @@ EA62	Wilton Park	Executive agency	wilton-park	Wilton Park	https://www.gov.uk/gov
 EA63	MHRA	Executive agency	medicines-and-healthcare-products-regulatory-agency	Medicines and Healthcare products Regulatory Agency	https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency	department-of-health
 EA66	HM Passport Office	Sub-organisation	hm-passport-office	HM Passport Office	https://www.gov.uk/government/organisations/hm-passport-office	home-office
 EA67	UKBA	Executive agency	uk-border-agency	UK Border Agency	https://www.gov.uk/government/organisations/uk-border-agency	home-office
-D69	Land Registry	Non-ministerial department	land-registry	Land Registry	https://www.gov.uk/government/organisations/land-registry	department-for-business-energy-and-industrial-strategy
+D69	HM Land Registry	Non-ministerial department	land-registry	HM Land Registry	https://www.gov.uk/government/organisations/land-registry	department-for-business-energy-and-industrial-strategy
 EA70	NOMS	Executive agency	national-offender-management-service	National Offender Management Service	https://www.gov.uk/government/organisations/national-offender-management-service	ministry-of-justice
 EA71		Non-ministerial department	the-national-archives	The National Archives	https://www.gov.uk/government/organisations/the-national-archives	department-for-culture-media-sport
 EA72	OPG	Executive agency	office-of-the-public-guardian	Office of the Public Guardian	https://www.gov.uk/government/organisations/office-of-the-public-guardian	ministry-of-justice
@@ -415,7 +415,7 @@ OT567	CPNI	Other	centre-for-the-protection-of-national-infrastructure	Centre for
 OT569	BRDO	Other	better-regulation-delivery-office	Better Regulation Delivery Office	https://www.gov.uk/government/organisations/better-regulation-delivery-office	department-for-business-innovation-skills
 EA570	DVSA	Executive agency	driver-and-vehicle-standards-agency	Driver and Vehicle Standards Agency	https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency	department-for-transport
 PB571	Tate	Executive non-departmental public body	tate	Tate	https://www.gov.uk/government/organisations/tate	department-for-culture-media-sport
-OT572		Other	wave-hub	Wave Hub	https://www.gov.uk/government/organisations/wave-hub	department-for-business-energy-and-industrial-strategy
+OT572		Other	wave-hub	Wave Hub	https://www.gov.uk/government/organisations/wave-hub	
 PB573	ACAF	Advisory non-departmental public body	advisory-committee-on-animal-feedingstuffs	Advisory Committee on Animal Feedingstuffs	https://www.gov.uk/government/organisations/advisory-committee-on-animal-feedingstuffs	food-standards-agency
 PB574	ACNFP	Advisory non-departmental public body	advisory-committee-on-novel-foods-and-processes	Advisory Committee on Novel Foods and Processes	https://www.gov.uk/government/organisations/advisory-committee-on-novel-foods-and-processes	food-standards-agency
 PB575	ACMSF	Advisory non-departmental public body	advisory-committee-on-the-microbiological-safety-of-food	Advisory Committee on the Microbiological Safety of Food	https://www.gov.uk/government/organisations/advisory-committee-on-the-microbiological-safety-of-food	food-standards-agency
@@ -805,7 +805,7 @@ OT993		Other	department-of-national-heritage	Department of National Heritage	htt
 OT994		Other	legal-aid-board	Legal Aid Board	https://www.gov.uk/government/organisations/legal-aid-board	
 OT995		Other	independent-television-commission	Independent Television Commission	https://www.gov.uk/government/organisations/independent-television-commission	
 OT996		Other	board-of-banking-supervision	Board of Banking Supervision	https://www.gov.uk/government/organisations/board-of-banking-supervision	
-OT997		Other	her-majestys-magistrates-courts-servuce-inspectorate	Her Majesty's Magistrates Courts Service Inspectorate	https://www.gov.uk/government/organisations/her-majestys-magistrates-courts-servuce-inspectorate	ministry-of-justice
+OT997		Other	her-majestys-magistrates-courts-service-inspectorate	Her Majesty's Magistrates Courts Service Inspectorate	https://www.gov.uk/government/organisations/her-majestys-magistrates-courts-service-inspectorate	ministry-of-justice
 OT998		Other	examination-team-on-child-care-procedures-and-practice-in-north-wales	Examination team on child care procedures and practice in North Wales	https://www.gov.uk/government/organisations/examination-team-on-child-care-procedures-and-practice-in-north-wales	
 OT999		Other	natural-resources-institute	Natural Resources Institute	https://www.gov.uk/government/organisations/natural-resources-institute	
 OT1000		Other	further-and-higher-education-funding-councils-for-wales	Further and Higher Education Funding Councils for Wales	https://www.gov.uk/government/organisations/further-and-higher-education-funding-councils-for-wales	
@@ -854,7 +854,7 @@ OT1043		Sub-organisation	civil-service-government-social-research-profession	Gov
 OT1044		Sub-organisation	civil-service-the-government-planning-profession	Government Planning Profession	https://www.gov.uk/government/organisations/civil-service-the-government-planning-profession	civil-service
 OT1045		Sub-organisation	civil-service-government-planning-inspectors	Government Planning Inspectors	https://www.gov.uk/government/organisations/civil-service-government-planning-inspectors	civil-service
 OT1046		Sub-organisation	civil-service-government-tax-profession	Government Tax Profession	https://www.gov.uk/government/organisations/civil-service-government-tax-profession	civil-service
-OT1047		Sub-organisation	civil-service-government-veterinary-surgeons	Government Veterinary Services	https://www.gov.uk/government/organisations/civil-service-government-veterinary-surgeons	civil-service
+OT1047		Sub-organisation	civil-service-government-veterinary-services	Government Veterinary Services	https://www.gov.uk/government/organisations/civil-service-government-veterinary-services	civil-service
 OT1048		Sub-organisation	civil-service-government-knowledge-information-management-profession	Government Knowledge & Information Management Profession	https://www.gov.uk/government/organisations/civil-service-government-knowledge-information-management-profession	civil-service
 OT1049		Sub-organisation	civil-service-government-occupational-psychology-profession	Government Occupational Psychology Profession	https://www.gov.uk/government/organisations/civil-service-government-occupational-psychology-profession	civil-service
 OT1050	GCFP	Sub-organisation	civil-service-corporate-finance-profession-cfp	Government Corporate Finance Profession	https://www.gov.uk/government/organisations/civil-service-corporate-finance-profession-cfp	uk-government-investments
@@ -979,7 +979,7 @@ OT1178		Other	department-of-agriculture-environment-and-rural-affairs-northern-i
 OT1179		Other	the-executive-office-northern-ireland	The Executive Office (Northern Ireland)	https://www.gov.uk/government/organisations/the-executive-office-northern-ireland	
 OT1180	NDG	Other	national-data-guardian	National Data Guardian	https://www.gov.uk/government/organisations/national-data-guardian	department-of-health
 CO1181		Court	court-of-appeal-criminal-division	Court of Appeal Criminal Division	https://www.gov.uk/courts-tribunals/court-of-appeal-criminal-division	hm-courts-and-tribunals-service
-OT1182		Sub-organisation	digital-data-and-technology-professions	Digital, data and technology professions	https://www.gov.uk/government/organisations/digital-data-and-technology-professions	civil-service
+OT1182	DDaT	Sub-organisation	digital-data-and-technology-professions	Digital, data and technology professions	https://www.gov.uk/government/organisations/digital-data-and-technology-professions	civil-service
 CO1183		Court	queens-bench-division-of-the-high-court	Queen's Bench Division of the High Court	https://www.gov.uk/courts-tribunals/queens-bench-division-of-the-high-court	hm-courts-and-tribunals-service
 OT1184	PBL	Other	porton-biopharma-limited	Porton Biopharma Limited	https://www.gov.uk/government/organisations/porton-biopharma-limited	department-of-health
 PB1185		Advisory non-departmental public body	dormant-assets-commission	Independent Dormant Assets Commission	https://www.gov.uk/government/organisations/dormant-assets-commission	
@@ -1009,3 +1009,8 @@ OT1208		Other	academy-for-social-justice-commissioning	Academy for Social Justic
 OT1209	HMGCC	Other	her-majestys-government-communications-centre	Her Majesty's Government Communications Centre	https://www.gov.uk/government/organisations/her-majestys-government-communications-centre	
 OT1210	PSVI	Sub-organisation	preventing-sexual-violence-initiative	Preventing Sexual Violence Initiative	https://www.gov.uk/government/organisations/preventing-sexual-violence-initiative	foreign-commonwealth-office
 OT1211	NCSC	Sub-organisation	national-cyber-security-centre	National Cyber Security Centre	https://www.gov.uk/government/organisations/national-cyber-security-centre	government-communications-headquarters
+PB1212	NIHE	Executive non-departmental public body	northern-ireland-housing-executive	Northern Ireland Housing Executive	https://www.gov.uk/government/organisations/northern-ireland-housing-executive	department-for-communities-northern-ireland
+EA1213	HMPPS	Executive agency	her-majestys-prison-and-probation-service	Her Majesty’s Prison and Probation Service	https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service	
+PB1214	IfA	Executive non-departmental public body	institute-for-apprenticeships	Institute for Apprenticeships	https://www.gov.uk/government/organisations/institute-for-apprenticeships	department-for-education
+OT1215	JO	Other	judicial-office	Judicial Office	https://www.gov.uk/government/organisations/judicial-office	ministry-of-justice
+EO1216	ESFA	Executive agency	education-and-skills-funding-agency	Education and Skills Funding Agency	https://www.gov.uk/government/organisations/education-and-skills-funding-agency	department-for-education

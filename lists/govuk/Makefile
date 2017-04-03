@@ -13,3 +13,6 @@ types.tsv:	list.tsv types.sh
 
 init:
 	pip install -r requirements.txt
+
+clean::
+	rm list.tsv types.tsv data.jsonl
