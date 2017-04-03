@@ -12,8 +12,8 @@ buyer-id:
   name: Contracts Finder buyer identifier
 coins:
   name: Combined Online Information System (COINS) organisations
-uuid:
-  name: Universally Unique Identifier value for the organisation on data.gov.uk
+data-govuk-org:
+  name: data.gov.uk organisation identifier
 name:
   name: Organisation name
 abbreviation:

@@ -16,6 +16,7 @@ SOURCE=lists/govuk/list.tsv
 CLOUDSTORE_BUYER_LIST=lists/cloudstore-buyers/list.tsv
 COINS_LIST=lists/coins/list.tsv
 CONTRACTS_FINDER_LIST=lists/contracts-finder/list.tsv
+DATA_GOVUK_ORG_LIST=lists/data-govuk-orgs/list.tsv
 MISO_LIST=lists/miso/list.tsv
 OSCAR_LIST=lists/oscar/list.tsv
 
@@ -41,6 +42,7 @@ MAPS=\
 	maps/name.tsv\
 	maps/coins.tsv\
 	maps/cloudstore-buyer.tsv\
+	maps/data-govuk-org.tsv\
 	maps/buyer-id.tsv\
 	maps/miso.tsv\
 	maps/oscar.tsv
@@ -81,6 +83,10 @@ maps/cloudstore-buyer.tsv:	$(REGISTER) $(CLOUDSTORE_BUYER_LIST) fixup/cloudstore
 maps/buyer-id.tsv:	$(REGISTER) $(CONTRACTS_FINDER_LIST) fixup/buyer-id.tsv maps/name.tsv bin/map.py
 	@mkdir -p maps
 	python3 bin/map.py government-organisation buyer-id fixup/buyer-id.tsv maps/name.tsv < $(CONTRACTS_FINDER_LIST) > $@
+
+maps/data-govuk-org.tsv:	$(REGISTER) $(DATA_GOVUK_ORG_LIST) fixup/data-govuk-org.tsv maps/name.tsv bin/map.py
+	@mkdir -p maps
+	python3 bin/map.py government-organisation data-govuk-org fixup/data-govuk-org.tsv maps/name.tsv < $(DATA_GOVUK_ORG_LIST) > $@
 
 maps/miso.tsv:	$(REGISTER) $(MISO_LIST) fixup/miso.tsv maps/name.tsv bin/map.py
 	@mkdir -p maps

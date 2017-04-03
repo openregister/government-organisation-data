@@ -3,10 +3,10 @@
 import json
 import sys
 
-fields = ['uuid', 'name', 'slug']
+fields = ['data-govuk-org', 'name', 'slug']
 
 field_map = {
-    'uuid': 'id',
+    'data-govuk-org': 'id',
     'name': 'title',
     'slug': 'name'
 }
