@@ -3,7 +3,7 @@
 import sys
 import re
 
-fields = ['urn', 'name', 'sector', 'subsector']
+fields = ['cloudstore-buyer', 'name', 'sector', 'subsector']
 
 s = re.compile(r'\s\s+')
 sep = '\t'
@@ -29,7 +29,7 @@ for line in sys.stdin:
         continue
 
     row = {}
-    row['urn'] = pop(col)
+    row['cloudstore-buyer'] = pop(col)
     row['name'] = pop(col)
     row['sector'] = pop(col)
 
@@ -38,5 +38,5 @@ for line in sys.stdin:
 
     row['subsector'] = pop(col)
 
-    if row['urn']:
+    if row['cloudstore-buyer']:
         print(sep.join([row[field] for field in fields]))

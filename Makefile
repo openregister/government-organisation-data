@@ -13,6 +13,7 @@ REPORT=report/index.html
 #
 SOURCE=lists/govuk/list.tsv
 
+CLOUDSTORE_BUYER_LIST=lists/cloudstore-buyers/list.tsv
 COINS_LIST=lists/coins/list.tsv
 CONTRACTS_FINDER_LIST=lists/contracts-finder/list.tsv
 MISO_LIST=lists/miso/list.tsv
@@ -39,6 +40,7 @@ MAPS=\
 	maps/govuk.tsv\
 	maps/name.tsv\
 	maps/coins.tsv\
+	maps/cloudstore-buyer.tsv\
 	maps/buyer-id.tsv\
 	maps/miso.tsv\
 	maps/oscar.tsv
@@ -71,6 +73,10 @@ maps/oscar.tsv:	$(REGISTER) $(OSCAR_LIST) fixup/oscar.tsv maps/name.tsv bin/map.
 maps/coins.tsv:	$(REGISTER) $(COINS_LIST) fixup/coins.tsv maps/name.tsv bin/map.py
 	@mkdir -p maps
 	python3 bin/map.py government-organisation coins fixup/coins.tsv maps/name.tsv < $(COINS_LIST) > $@
+
+maps/cloudstore-buyer.tsv:	$(REGISTER) $(CLOUDSTORE_BUYER_LIST) fixup/cloudstore-buyer.tsv maps/name.tsv bin/map.py
+	@mkdir -p maps
+	python3 bin/map.py government-organisation cloudstore-buyer fixup/cloudstore-buyer.tsv maps/name.tsv < $(CLOUDSTORE_BUYER_LIST) > $@
 
 maps/buyer-id.tsv:	$(REGISTER) $(CONTRACTS_FINDER_LIST) fixup/buyer-id.tsv maps/name.tsv bin/map.py
 	@mkdir -p maps

@@ -6,6 +6,8 @@ miso:
   name: Crown Commercial Service management information system online identifier
 oscar:
   name: The Online System for Central Accounting and Reporting (OSCAR)
+cloudstore-buyer:
+  name: Public Sector organisations eligible to use cloudstore
 buyer-id:
   name: Contracts Finder buyer identifier
 coins:
