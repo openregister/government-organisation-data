@@ -344,7 +344,7 @@ for list_name in lists:
 
             file.write("<tr>")
             if register_name not in lists[list_name]['fields']:
-                file.write("<td>%s</td>" % code)
+                file.write("<td id='%s'><a href='../../index.html#%s'>%s</a></td>" % (code, code, code))
             for field in lists[list_name]['fields']:
                 file.write("<td>%s</td>\n" % row[field])
             file.write("</tr>")
