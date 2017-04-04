@@ -292,7 +292,7 @@ print("""
 for key in sorted(register):
     row = register[key]
     names = " ".join(["<li>" + n for n in sorted(row['map:names'], key=lambda s: s.lower())])
-    print("<tr>")
+    print("<tr id='%s'>" % (row['government-organisation']))
     print("<td>%s</td>" % (row['government-organisation']))
     print("<td><span class='name'>%s</span> <ul class='names'>%s</ul></td>" % (row['name'], names))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['website']))
