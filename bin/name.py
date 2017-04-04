@@ -29,6 +29,9 @@ def n7e(s):
     # remove "(x99)" and the like
     s = re.sub('(x[0-9]*)', '', s)
 
+    # remove quotes
+    s = re.sub('[’\'"]', '', s)
+
     # remove non-latin-alphanumerics
     s = re.sub('[^a-z0-9]', ' ', s)
 
@@ -36,7 +39,7 @@ def n7e(s):
     s = re.sub('united kingdom', 'uk', s)
 
     # Her Majesty's -> HM
-    s = re.sub('her majesty s', 'hm', s)
+    s = re.sub('her majestys', 'hm', s)
 
     # translate words
     w = [words.get(word, word) for word in s.split()]
