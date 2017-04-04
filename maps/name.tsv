@@ -8024,8 +8024,8 @@ Charities & Social Ventures
 Charity Business	
 Charity Commission	D98
 The Charity Commission	D98
-Charity Commission for England and Wales	
-The Charity Commission For England And Wales	
+Charity Commission for England and Wales	D98
+The Charity Commission For England And Wales	D98
 Charity Commission for Northern Ireland	
 Charity Commission of Northern Ireland	
 Charity Jonathan & Rebecca Edwards	
@@ -14566,10 +14566,10 @@ Estuary Housing Association Limited
 Estuary Housing Association Ltd	
 ESTYN	DA1105
 Estyn	DA1105
+Estyn Her Majestys Inspectorate for Education & Training for Wales	
 Estyn: Her Majesty’s Inspector for Education & Training for Wales	
 Estyn: Her Majesty’s Inspectorate for Education & Training for Wales	
 Estyn: Her Majesty’s Inspectorate for Education and Training in Wales	
-Estyn Her Majestys Inspectorate for Education & Training for Wales	
 Etec	
 Extern	
 ETGAR	
@@ -18885,33 +18885,10 @@ Heol Yr Ysgol
 Heolddu Comprehensive School	
 Hepatitis C Trust Uk	
 Hepworth Wakefield The	
-Her Majesty's Court Service	
-Her Majesty's Courts and Tribunal Service	
-Her Majesty's Courts and Tribunals Service	
-Her Majesty's Courts and Tribunals Service (MoJ)	
-Her Majesty's Crown Prosecution Service Inspectorate	
-Her Majesty's Customs and Excise	
-Her Majesty's Government Communications Centre	OT1209
-Her Majesty’s Inspectorate for Education and Training in Wales (Estyn)	
-Her Majesty’s Inspectorate of Constabulary	
-Her Majesty's Land Registry	
-Her Majesty's Magistrates Courts Service Inspectorate	OT997
-Her Majesty’s Passport Office	
-Her Majesty's Passport Office (formerly the Identity and Passport Service)	
-Her Majesty's Passport Office (formerly the Identity and Passport Sevice)	
-Her Majesty's Passport Office (HO)	
-Her Majesty's Passport Service	
-Her Majesty’s Prison and Probation Service	EA1213
-Her Majesty's Prison Service	
-Her Majesty's Prison Service (NOMS) (MoJ)	
-Her Majesty's Revenue & Customs	
-Her Majesty's Revenue and Customs	
-Her Majesty's Revenue and Customs (HMRC)	
-Her Majesty’s Revenue & Customs	
-Her Majesty’s Revenue and Customs	
-Her Majesty's Stationery Office (see Office of Public Sector Information)	
-Her Majesty's Treasury	
-Her Majesty’s Treasury	
+Her Majestys Court Service for Kent	
+Her Majestys Court Service Wales Region	
+Her Majestys Court Services Estates	
+Her Majestys Court Services for Manchester	
 Herbal Medicines Advisory Committee	
 Herbert Shiner School	
 Herbert Thompson Infant School	
@@ -19507,10 +19484,7 @@ Hither Green Primary School
 HIV Scotland	
 Hjaltland Housing Association Ltd	
 Hl Score Housing Association Limited	
-Her Majestys Court Service for Kent	
-Her Majestys Court Service Wales Region	
-Her Majestys Court Services Estates	
-Her Majestys Court Services for Manchester	
+Her Majesty's Court Service	
 HM Courts Service	EA601
 HM Courts Service Bicester	
 HM Courts Service Family	
@@ -19526,25 +19500,40 @@ HM Courts Service South E Region
 HM Courts Service South W Region	
 HM Courts Service Sunderland Court	
 HM Courts Service Wales Region	
+Her Majesty's Courts and Tribunal Service	
 HM Courts & Tribunals Service	EA73
 HM Courts and Tribunals Service	EA73
+Her Majesty's Courts and Tribunals Service	EA73
+Her Majesty's Courts and Tribunals Service (MoJ)	EA73
 HM Crown Prosecution Service Inspectorate	OT347
+Her Majesty's Crown Prosecution Service Inspectorate	OT347
 HM Customs and Excise	
+Her Majesty's Customs and Excise	
 HM Fire Service Inspectorate	
 HM Forces the Band and the Bugles	
 HM Government Communication Centre	
-HM Government Communications Centre	
+HM Government Communications Centre	OT1209
+Her Majesty's Government Communications Centre	OT1209
+Her Majesty’s Inspectorate for Education and Training in Wales (Estyn)	
 HM Inspectorate of Constabulary	OT281
+Her Majesty’s Inspectorate of Constabulary	OT281
 HM Inspectorate of Courts Administration	
 HM Inspectorate of Education	
 HM Inspectorate of Prisons	IM324
 HM Inspectorate of Probation	IM325
 HM Land Registry	D69
+Her Majesty's Land Registry	D69
+Her Majesty's Magistrates Courts Service Inspectorate	OT997
 HM Nautical Almanac Office	OT1023
 HM Naval Base Clyde	
 HM Naval Base Devonport	
 HM Naval Base Portsmouth	
 HM Passport Office	EA66
+Her Majesty’s Passport Office	EA66
+Her Majesty's Passport Office (formerly the Identity and Passport Service)	
+Her Majesty's Passport Office (formerly the Identity and Passport Sevice)	
+Her Majesty's Passport Office (HO)	
+Her Majesty's Passport Service	
 HM Prison Aberdeen	
 HM Prison Acklington	
 HM Prison Albany	
@@ -19629,13 +19618,16 @@ HM Prison Pentonville
 HM Prison Peterborough	
 HM Prison Peterhead	
 HM Prison Preston	
+Her Majesty’s Prison and Probation Service	EA1213
 HM Prison Ranby	
 HM Prison Risley	
 HM Prison Rochester	
 HM Prison Rye Hill	
 HM Prison Send	
 HM Prison Service	EA321
+Her Majesty's Prison Service	EA321
 HM Prison Service Assessment Centre	
+Her Majesty's Prison Service (NOMS) (MoJ)	
 HM Prison Service Operations Unit	
 HM Prison Service Procurement Service Unit Chorley	
 HM Prison Service Procurement Service Unit Leicester	
@@ -19698,10 +19690,18 @@ HM Revenue & Customs	D25
 HM Revenue and Customs	D25
 HM Revenue and Customs (HMRC)	D25
 HMRC - HM REVENUE AND CUSTOMS	D25
+Her Majesty's Revenue & Customs	D25
+Her Majesty's Revenue and Customs	D25
+Her Majesty's Revenue and Customs (HMRC)	D25
+Her Majesty’s Revenue & Customs	D25
+Her Majesty’s Revenue and Customs	D25
 HM Revenue and Customs Trust Statement	
+Her Majesty's Stationery Office (see Office of Public Sector Information)	
 HM TREASURY	D15
 HM Treasury	D15
 HMT - HM TREASURY	D15
+Her Majesty's Treasury	D15
+Her Majesty’s Treasury	D15
 HM Treasury Sovereign Sukuk Ltd	
 HM Treasury UK Sovereign Sukuk Plc	
 HM Young Offenders Institute Polmont	
@@ -22966,8 +22966,8 @@ Land Registers of Northern Ireland	EA700
 Land Registration Rule Committee	PB358
 Land Registration Rules Committee	
 Land Registry	D69
-Land Registry, Her Majesty’s	
 Land Registry, HM	
+Land Registry, Her Majesty’s	
 Land Trust The	
 The Land Trust	
 Land Warfare Centre	
