@@ -1,5 +1,6 @@
 name	government-organisation
 Office of Qualifications and Examinations Regulation	D109
+Office of Qualification and Examination Regulation (Ofqual)	D109
 Office of Communications	OT385
 Business, Innovation and Skills	D3
 Department of Culture, Media and Sport	D5
@@ -7,16 +8,23 @@ Office of the Rail Regulator and International Rail Regulator (ORR)	D1117
 Office of the Rail and ROAD (ORR) DFT	D1117
 Driver & Vehicle Licensing Agency (DVLA) (DFT)	D9
 Office for Standards in Education, Children's Services and Skills (OFSTED)	D106
+Office for Standards in Education, Childrens Services and Skills (OFSTED)	D106
+Office for Standards In Education	D106
 Higher Education Funding Council for England	PB120
 Office of Gas and Electricity Markets	D108
 Office of Gas and Electricity Markets (Ofgem)	D108
+OFGEM - OFFICE OF GAS AND ELECTRICITY MARKETS	D108
+Office of Gas and Electricity Markets Authority (Ofgem)	D108
 MOJ - MINISTRY OF JUSTICE HQ	D18
+Justice, Ministry of	D18
 YOUTH JUSTICE BOARD	PB302
 THE CROWN ESTATE OFFICE	OT100
 HIGH SPEED 2	PB460
 Land Registry	D69
+Land Registry, HM	D69
 Charity Commission for England and Wales	D98
 Office of Water Services (Ofwat)	D240
+Water Services Authority	D240
 Parole Board of England and Wales	PB301
 High Speed 2 Ltd	PB460
 UK Supreme Court	D435
@@ -37,6 +45,7 @@ Innovate UK (formerly the Technology Strategy Board)	PB1078
 Law Commission of England and Wales	PB294
 National DNA Database Ethics Group (NDNADEG)	PB276
 National Heritage Memorial Fund/Heritage Lottery Fund	PC390
+Heritage Lottery Fund	PC390
 Northern Lighthouse Board (Commissioners of Northern Lighthouses)	PB463
 Reviewing Committee on the Export of Works of Art	PB382
 Royal Mint Advisory Committee on the design of coins, medals, seals and decorations	PB434
@@ -48,6 +57,55 @@ Her Majesty's Passport Office (formerly the Identity and Passport Service)	EA66
 Prison Services Pay Review Body	PB446
 Police Advisory Board of England and Wales	PB273
 Office of the Childrens Commissioner, The	PB413
-Office for Standards in Education, Childrens Services and Skills (OFSTED)	D106
 Public Lending Right	OT826
 Passenger Focus/Passengers' Council	PB464
+Nuclear Liability Financing Assurance Board	PB193
+Valuation Office	EA87
+tate gallery	PB571
+DCMS - TATE GALLERY	PB571
+DCMS - BIG LOTTERY FUND	PB188
+Office of the Information Commissioner	PB298
+Information Commissioner	PB298
+Office of the Chief Inspector of the UK Border Agency	OT284
+Office of the Official Solicitor	OT328
+Office of the Prisons and Probation Ombudsman for England and Wales	IM327
+Parole Board for England and Wales	PB301
+National Employment Savings Trust Corporation	OT237
+Higher Education Funding Council for Wales	OT1000
+Highways England Company Ltd	EA1114
+Directly Operated Railways	PB459
+Children’s Commissioner	PB413
+Channel Four Television Corporation	PC386
+Certification Office for Trade Union and Employers’ Associations	PB139
+British Broadcasting Corporation	PC388
+Wales Office (Office of the Secretary of State for Wales)	D24
+Wales Office	D24
+Bona Vacantia Division (GLD)	OT564
+Centre for Environment, Fisheries and Aquaculture Science (CEFAS) (DEFRA)	EA53
+Communities and Local Government, Department of	D4
+Competition Commission (successor to the Monopolies and Mergers Commission)	PB353
+Crown Commercial Service (CCS) (CO)	EA1015
+Defence Science and Technology Laboratory (Dstl) (MOD)	EA42
+Defence, Ministry of	D17
+Defence Business Service National Security Vetting (MOD)	EA884
+Driving and Vehicle Standards Agency (DVSA)	EA570
+Environment, Food and Rural Affairs, Department for the (DEFRA)	D7
+Food and Environment Research Agency (FERA) (DEFRA)	EA56
+Forest Enterprise (FC)	EA55
+Forest Research (FC)	EA54
+General Registy Office (GRO)	
+Government Legal Department (formerly TSOL)	D1108
+Her Majesty's Prison Service (NOMS) (MoJ)	EA321
+Hydrographic Office (MOD)	EA51
+Imperial War Museum (and museums generally)	PB172
+Maritime & Coastguard Agency (MCA) (DFT)	EA78
+NI Housing Executive	PB1212
+Northern Ireland Prison Service (NIA)	EA797
+Vehicle Certification Agency (VCA) (DFT)	EA80
+UK Statistics Authority (The Statistics Board)	D116
+Public Health England (PHE) (DH)	EA480
+Prime Minister's Office	OT532
+Parliamentary Counsel, Office of the	OT515
+Cabinet Office excl agencies	D2
+Royal Botanic Gardens Kew (RBG Kew)	PB508
+Department of Education	D585

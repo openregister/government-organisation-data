@@ -27,7 +27,7 @@ def n7e(s):
     s = _n7e(s)
 
     # remove "(x99)" and the like
-    s = re.sub('(x[0-9]*)', '', s)
+    s = re.sub('(x *[0-9]*)', '', s)
 
     # remove quotes
     s = re.sub('[’\'"]', '', s)
@@ -35,11 +35,11 @@ def n7e(s):
     # remove non-latin-alphanumerics
     s = re.sub('[^a-z0-9]', ' ', s)
 
-    # Her Majesty's -> HM
+    # common abbreviations, reversed ..
     s = re.sub('united kingdom', 'uk', s)
-
-    # Her Majesty's -> HM
+    s = re.sub('national health service', 'nhs', s)
     s = re.sub('her majestys', 'hm', s)
+    s = re.sub('northern ireland', 'ni', s)
 
     # translate words
     w = [words.get(word, word) for word in s.split()]
@@ -54,10 +54,16 @@ def n7e(s):
         if w[0] in abbreviations:
             w = w[1:]
 
-    # remove trailing "Department of" / "Department for"
+    # move trailing "Department of" / "Department for" to beginning
 
     if len(w) > 2 and w[-2] == 'department' and w[-1] in ['for', 'of']:
         w = w[-2:] + w[:-2]
+
+    if len(w) > 2 and w[-2] == 'ministry' and w[-1] in ['for', 'of']:
+        w = w[-2:] + w[:-2]
+
+    if len(w) > 1 and w[-1] == 'hm':
+        w = w[-1:] + w[:-1]
 
     # join words and normalize spaces (again)
     s = ' '.join(w)
