@@ -6,10 +6,14 @@ import sys
 import csv
 import yaml
 
+#
+#  heading towards being a generic tool ..
+#
 register_name = 'government-organisation'
 register_path = './data/%s/%s.tsv' % (register_name, register_name)
 
-repo = 'https://github.com/openregister/government-organisation-data'
+repo_name = 'government-organisation-data'
+repo = 'https://github.com/openregister/' + repo_name
 repo_data = repo + '/blob/master/'
 
 sep = '\t'
@@ -64,10 +68,10 @@ for row in csv.DictReader(open(register_path), delimiter=sep):
 #
 for n in maps['name']['map']:
     row = maps['name']['map'][n]
-    if 'government-organisation' in row and row['government-organisation']:
-        name = register[row['government-organisation']]['name']
+    if register_name in row and row[register_name]:
+        name = register[row[register_name]]['name']
         if row['name'] != name:
-            register[row['government-organisation']]['map:names'][row['name'].strip()] = 1
+            register[row[register_name]]['map:names'][row['name'].strip()] = 1
 
 #
 #  find list items in maps
@@ -75,14 +79,14 @@ for n in maps['name']['map']:
 for l in lists:
     key = lists[l]['key']
 
-    if key == 'government-organisation':
+    if key == register_name:
         m = register
     elif key in maps and 'map' in maps[key]:
         m = maps[key]['map']
     else:
         m = {}
 
-    lists[l]['mapped'] = [v for v in lists[l]['list'] if v in m and 'government-organisation' in m[v] and m[v]['government-organisation']]
+    lists[l]['mapped'] = [v for v in lists[l]['list'] if v in m and register_name in m[v] and m[v][register_name]]
 
 
 
@@ -174,7 +178,7 @@ $(function() {
 """)
 
 header()
-print('<h1><a href="https://github.com/openregister/government-organisation-data">government-organisation-data</a></h1>')
+print('<h1><a href="%s">%s</a></h1>' % (repo, repo_name))
 
 #
 #  Lists ..
@@ -279,7 +283,7 @@ print("""
 <table id="register" class="tablesorter">
 <thead>
     <tr>
-      <th>government-organisation</th>
+      <th>%s</th>
       <th class='name'>name</th>
       <th>website</th>
       <th>start-date</th>
@@ -287,13 +291,13 @@ print("""
     </tr>
 </thead>
 <tbody>
-""")
+""" % (register_name))
 
 for key in sorted(register):
     row = register[key]
     names = " ".join(["<li>" + n for n in sorted(row['map:names'], key=lambda s: s.lower())])
-    print("<tr id='%s'>" % (row['government-organisation']))
-    print("<td>%s</td>" % (row['government-organisation']))
+    print("<tr id='%s'>" % (row[register_name]))
+    print("<td>%s</td>" % (row[register_name]))
     print("<td><span class='name'>%s</span> <ul class='names'>%s</ul></td>" % (row['name'], names))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['website']))
     print("<td>%s</td>" % (row['start-date']))
