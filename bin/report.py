@@ -295,7 +295,7 @@ print("""
 
 for key in sorted(register):
     row = register[key]
-    names = " ".join(["<li>" + n for n in sorted(row['map:names'], key=lambda s: s.lower())])
+    names = " ".join(["<li>" + n for n in sorted(row['map:names'])])
     print("<tr id='%s'>" % (row[register_name]))
     print("<td>%s</td>" % (row[register_name]))
     print("<td><span class='name'>%s</span> <ul class='names'>%s</ul></td>" % (row['name'], names))
