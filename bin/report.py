@@ -71,7 +71,7 @@ for n in maps['name']['map']:
     if register_name in row and row[register_name]:
         name = register[row[register_name]]['name']
         if row['name'] != name:
-            register[row[register_name]]['map:names'][row['name'].strip()] = 1
+            register[row[register_name]]['map:names'][row['name']] = 1
 
 #
 #  find list items in maps
