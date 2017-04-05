@@ -138,6 +138,7 @@ table td {
 
 table th {
   font-weight: bold;
+  cursor: pointer;
 }
 </style>
 </head>
