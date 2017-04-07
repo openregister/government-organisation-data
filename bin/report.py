@@ -23,16 +23,10 @@ sep = '\t'
 #  load data
 #  TBD: refactor these blocks ..
 #
-lists = yaml.load(open('lists/index.yml'))
-
-for l in lists:
-    path = lists[l].get('path', "lists/%s/list.tsv" % (l))
-    reader = csv.DictReader(open(path), delimiter=sep)
-    lists[l]['fields'] = reader.fieldnames
-    key = lists[l]['key'] = reader.fieldnames[0]
-    lists[l]['list'] = {}
-    for row in reader:
-        lists[l]['list'][row[key]] = row
+register = {}
+for row in csv.DictReader(open(register_path), delimiter=sep):
+    row['map:names'] = {}
+    register[row[register_name]] = row
 
 maps = yaml.load(open('maps/index.yml'))
 
@@ -56,22 +50,36 @@ for f in fixups:
         for row in reader:
             fixups[f]['fixup'][row[key]] = row
 
-register = {}
-for row in csv.DictReader(open(register_path), delimiter=sep):
-    row['map:names'] = {}
-    register[row[register_name]] = row
+names = {}
+def xref(n):
+    n = n.strip()
+    if n not in names:
+        names[n] = {}
+    names[n][l] = maps['name']['map'][n]
+lists = yaml.load(open('lists/index.yml'))
 
 
+for l in lists:
+    path = lists[l].get('path', "lists/%s/list.tsv" % (l))
+    reader = csv.DictReader(open(path), delimiter=sep)
+    lists[l]['fields'] = reader.fieldnames
+    key = lists[l]['key'] = reader.fieldnames[0]
+    lists[l]['list'] = {}
+    for row in reader:
+        lists[l]['list'][row[key]] = row
+        xref(row['name'])
 
 #
 #  add alternate names to the register ..
 #
 for n in maps['name']['map']:
     row = maps['name']['map'][n]
+
+    #  add alternate names to the register ..
     if register_name in row and row[register_name]:
         name = register[row[register_name]]['name']
-        if row['name'] != name:
-            register[row[register_name]]['map:names'][row['name']] = 1
+        register[row[register_name]]['map:names'][row['name']] = 1
+
 
 #
 #  find list items in maps
@@ -140,6 +148,18 @@ table th {
   font-weight: bold;
   cursor: pointer;
 }
+
+.xref,
+.xref:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.xref:hover {
+    text-decoration: underline;
+    color: black;
+}
+
 </style>
 </head>
 <body>
@@ -294,12 +314,18 @@ print("""
 <tbody>
 """ % (register_name))
 
+def name_lists(n):
+    if n in names:
+        return " ".join(["<a href='lists/%s' class='xref' title='%s'>■</a>" % (l, l) for l in names[n]])
+    else:
+        return ""
+
 for key in sorted(register):
     row = register[key]
-    names = " ".join(["<li>" + n for n in sorted(row['map:names'])])
+    name_lis = " ".join(["<li>%s %s" % (n, name_lists(n)) for n in sorted(row['map:names'])])
     print("<tr id='%s'>" % (row[register_name]))
     print("<td>%s</td>" % (row[register_name]))
-    print("<td><span class='name'>%s</span> <ul class='names'>%s</ul></td>" % (row['name'], names))
+    print("<td><span class='name'>%s</span><ul class='names'>%s</ul></td>" % (row['name'], name_lis))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['website']))
     print("<td>%s</td>" % (row['start-date']))
     print("<td>%s</td>" % (row['end-date']))
@@ -351,7 +377,11 @@ for list_name in lists:
             if register_name not in lists[list_name]['fields']:
                 file.write("<td id='%s'><a href='../../index.html#%s'>%s</a></td>" % (code, code, code))
             for field in lists[list_name]['fields']:
-                file.write("<td>%s</td>\n" % row[field])
+                name_lis = ""
+                if field == 'name':
+                    name_lis = name_lists(row['name'].strip())
+
+                file.write("<td>%s %s</td>\n" % (row[field], name_lis))
             file.write("</tr>")
 
         file.write("""
