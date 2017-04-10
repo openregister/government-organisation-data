@@ -125,10 +125,7 @@ th, td {
 td {
     vertical-align: top;
 }
-.name {
-    width: 20%;
-}
-td .name {
+li.name {
     font-weight: bold;
 }
 tr {
@@ -160,6 +157,11 @@ table th {
     color: black;
 }
 
+td ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
 </style>
 </head>
 <body>
@@ -316,16 +318,29 @@ print("""
 
 def name_lists(n):
     if n in names:
-        return " ".join(["<a href='lists/%s' class='xref' title='%s'>■</a>" % (l, l) for l in names[n]])
+        return "".join(["<a href='lists/%s' class='xref' title='%s'>■</a>" % (l, l) for l in names[n]])
     else:
         return ""
 
+def lis_class(name, n):
+    if name.strip() == n.strip():
+        return " class='name'"
+    return ""
+
+def lis(name, l):
+    return [name] + sorted([n for n in l if n != name])
+
+
 for key in sorted(register):
     row = register[key]
-    name_lis = " ".join(["<li>%s %s" % (n, name_lists(n)) for n in sorted(row['map:names'])])
-    print("<tr id='%s'>" % (row[register_name]))
-    print("<td>%s</td>" % (row[register_name]))
-    print("<td><span class='name'>%s</span><ul class='names'>%s</ul></td>" % (row['name'], name_lis))
+
+    name = row['name']
+
+    name_lis = " ".join(["<li%s>%s %s</li>" % (lis_class(name, n), n, name_lists(n)) for n in lis(name, row['map:names'])])
+
+    print("<tr id='%s'>" % (key))
+    print("<td>%s</td>" % (key))
+    print("<td><ul class='names'>%s</ul></td>" % (name_lis))
     print("<td><a href='%s'>%s</a></td>" % (row['website'], row['website']))
     print("<td>%s</td>" % (row['start-date']))
     print("<td>%s</td>" % (row['end-date']))
