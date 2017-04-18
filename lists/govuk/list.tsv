@@ -132,7 +132,7 @@ PB184	SGSA	Executive non-departmental public body	sports-grounds-safety-authorit
 PB185	UKSP	Executive non-departmental public body	uk-sport	UK Sport	https://www.gov.uk/government/organisations/uk-sport	department-for-culture-media-sport
 PB186	VB	Executive non-departmental public body	visitbritain	VisitBritain	https://www.gov.uk/government/organisations/visitbritain	department-for-culture-media-sport
 PB187		Executive non-departmental public body	wallace-collection	Wallace Collection	https://www.gov.uk/government/organisations/wallace-collection	department-for-culture-media-sport
-PB188	BIG	Executive non-departmental public body	big-lottery-fund	Big Lottery Fund	https://www.gov.uk/government/organisations/big-lottery-fund	cabinet-office
+PB188	BIG	Executive non-departmental public body	big-lottery-fund	Big Lottery Fund	https://www.gov.uk/government/organisations/big-lottery-fund	department-for-culture-media-sport
 PB189	BFI	Executive non-departmental public body	british-film-institute	British Film Institute	https://www.gov.uk/government/organisations/british-film-institute	department-for-culture-media-sport
 PB190	SE	Executive non-departmental public body	sport-england	Sport England	https://www.gov.uk/government/organisations/sport-england	department-for-culture-media-sport
 PB191	CoRWM	Advisory non-departmental public body	committee-on-radioactive-waste-management	Committee on Radioactive Waste Management	https://www.gov.uk/government/organisations/committee-on-radioactive-waste-management	department-for-business-energy-and-industrial-strategy
@@ -1014,3 +1014,4 @@ EA1213	HMPPS	Executive agency	her-majestys-prison-and-probation-service	Her Maje
 PB1214	IfA	Executive non-departmental public body	institute-for-apprenticeships	Institute for Apprenticeships	https://www.gov.uk/government/organisations/institute-for-apprenticeships	department-for-education
 OT1215	JO	Other	judicial-office	Judicial Office	https://www.gov.uk/government/organisations/judicial-office	ministry-of-justice
 EO1216	ESFA	Executive agency	education-and-skills-funding-agency	Education and Skills Funding Agency	https://www.gov.uk/government/organisations/education-and-skills-funding-agency	department-for-education
+PB1218	RSH	Executive non-departmental public body	regulator-of-social-housing	Regulator of Social Housing	https://www.gov.uk/government/organisations/regulator-of-social-housing	department-for-communities-and-local-government
