@@ -22,13 +22,25 @@ This list of lists is by no means comprehensive, and contributions of other list
 
 # Building
 
-Use make to build register shaped data
+Use make to build register shaped data and the report
 – we recommend using a [Python virtual environment](http://virtualenvwrapper.readthedocs.org/en/latest/):
 
     $ mkvirtualenv -p python3 government-organisation-data
     $ workon government-organisation-data
     $ make init
 
+    $ make
+
+The register is built from GOV.UK source data. To refresh the list:
+
+    $ cd lists/govuk
+    $ make clean
+    $ make
+
+Then rebuild the register and the report:
+
+    $ cd -
+    $ make clobber
     $ make
 
 # Licence

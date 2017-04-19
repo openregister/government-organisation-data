@@ -102,7 +102,7 @@ $(REPORT):	$(REGISTER) $(LISTS) $(MAPS) maps/index.yml lists/index.yml bin/repor
 
 # remove targets
 clobber:
-	rm -f $(DATA) $(MAPS)
+	rm -f $(REGISTER) $(DATA) $(MAPS)
 
 #
 #  python ..
