@@ -13,7 +13,7 @@ while url:
     r = json.loads(resp.text)
 
     for row in r['results']:
-        json.dump(row, sys.stdout)
+        json.dump(row, sys.stdout, sort_keys=True)
         print()
 
     if 'next_page_url' in r:
