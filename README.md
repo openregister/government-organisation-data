@@ -9,6 +9,12 @@ The meaning of "public sector" depends upon context, for example, the Digital Ma
 
 A register needing to reference public sector organisations may use a "public-body", "organisation", "operator" or other field which is a CURIE to one of a number of different registers, including the government-organisation register.
 
+# Unique identifier
+
+The unique identifier (`government-organisation` field) is from the
+`analytics_identifier` field in the [gov.uk
+API](https://www.gov.uk/api/organisations?page=1).
+
 # Lists, fixes and maps
 
 You can see the report generated from the lists, fixes and maps in this repository: https://openregister.github.io/government-organisation-data/report/
